@@ -1,0 +1,20 @@
+{
+  "trait": "Battery Pack",
+  "slot": "Back",
+  "cell": 86,
+  "pad": 16,
+  "cols": 3,
+  "frames": 3,
+  "source": "export/back1.png",
+  "ride": {
+    "lag": 1
+  },
+  "variants": [
+    {
+      "name": "loop",
+      "loop": {
+        "seq": [0,0,0,0,0,0,1,1,2,2,1,1,0,0,0,0,0,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,0,0,0,0,0,0,0,0,0,0]
+      }
+    }
+  ]
+}

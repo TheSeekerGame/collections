@@ -1,0 +1,25 @@
+{
+  "trait": "Rabbit Ears",
+  "slot": "Head",
+  "cell": 86,
+  "pad": 16,
+  "cols": 8,
+  "frames": 8,
+  "source": "export/traits-export.png",
+  "ride": {
+    "lag": 0,
+    "split": 5,
+    "upper_lag": 2
+  },
+  "variants": [
+    {
+      "name": "signal",
+      "loop": {
+        "seq": [0]
+      },
+      "act": {
+        "seq": [0,0,0,0,0,0,1,1,2,3,4,5,6,7,7,7,0,0,0,0,0,0,1,1,2,3,4,5,6,7,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+      }
+    }
+  ]
+}

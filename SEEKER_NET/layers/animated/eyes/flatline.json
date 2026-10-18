@@ -1,0 +1,22 @@
+{
+  "trait": "Flatline",
+  "slot": "Eyes",
+  "cell": 86,
+  "pad": 16,
+  "cols": 12,
+  "frames": 15,
+  "source": "generator/eyes.py Flatline",
+  "states": {
+    "open": 0,
+    "half": 1,
+    "shut": 2
+  },
+  "variants": [
+    {
+      "name": "loop",
+      "loop": {
+        "seq": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,5,6,7,8,9,10,11,12,13,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+      }
+    }
+  ]
+}

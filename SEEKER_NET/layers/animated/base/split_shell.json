@@ -1,0 +1,20 @@
+{
+  "trait": "Split Shell",
+  "slot": "Base",
+  "cell": 86,
+  "pad": 16,
+  "cols": 2,
+  "frames": 2,
+  "source": "export/bases2.png",
+  "ride": {
+    "split": 36
+  },
+  "variants": [
+    {
+      "name": "loop",
+      "loop": {
+        "seq": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+      }
+    }
+  ]
+}

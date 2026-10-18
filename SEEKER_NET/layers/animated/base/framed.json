@@ -1,0 +1,20 @@
+{
+  "trait": "Framed",
+  "slot": "Base",
+  "cell": 86,
+  "pad": 16,
+  "cols": 1,
+  "frames": 1,
+  "source": "export/bases9.png",
+  "ride": {
+    "split": 37
+  },
+  "variants": [
+    {
+      "name": "still",
+      "loop": {
+        "seq": [0]
+      }
+    }
+  ]
+}

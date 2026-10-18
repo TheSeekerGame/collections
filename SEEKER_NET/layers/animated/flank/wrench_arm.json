@@ -1,0 +1,29 @@
+{
+  "trait": "Wrench Arm",
+  "slot": "Flank",
+  "cell": 86,
+  "pad": 16,
+  "cols": 3,
+  "frames": 3,
+  "source": "export/hands7.png",
+  "ride": {
+    "lag": 2
+  },
+  "variants": [
+    {
+      "name": "crank",
+      "loop": {
+        "seq": [0]
+      },
+      "act": {
+        "seq": [0,0,0,0,0,0,1,2,2,2,2,1,1,0,0,0,0,0,1,2,2,2,2,1,1,0,0,0,0,0,1,2,2,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0]
+      }
+    },
+    {
+      "name": "still",
+      "loop": {
+        "seq": [0]
+      }
+    }
+  ]
+}

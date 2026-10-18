@@ -1,0 +1,20 @@
+{
+  "trait": "Exhaust Pipes",
+  "slot": "Back",
+  "cell": 86,
+  "pad": 16,
+  "cols": 10,
+  "frames": 10,
+  "source": "export/back2.png",
+  "ride": {
+    "lag": 1
+  },
+  "variants": [
+    {
+      "name": "loop",
+      "loop": {
+        "seq": [0,0,0,0,0,0,1,1,1,2,2,2,3,3,3,4,4,4,5,5,5,0,0,0,0,0,0,0,0,0,6,6,6,7,7,7,8,8,8,9,9,9,0,0,0,0,0,0]
+      }
+    }
+  ]
+}

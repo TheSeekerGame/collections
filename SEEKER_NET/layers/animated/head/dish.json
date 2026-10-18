@@ -1,0 +1,23 @@
+{
+  "trait": "Dish",
+  "slot": "Head",
+  "cell": 86,
+  "pad": 16,
+  "cols": 7,
+  "frames": 7,
+  "source": "export/traits-export2.png",
+  "ride": {
+    "lag": 0
+  },
+  "variants": [
+    {
+      "name": "scan",
+      "loop": {
+        "seq": [0]
+      },
+      "act": {
+        "seq": [0,0,0,0,1,2,2,2,2,3,3,2,2,3,3,2,2,2,1,0,0,0,0,0,4,5,5,5,5,6,6,5,5,6,6,5,5,5,4,0,0,0,0,0,0,0,0,0]
+      }
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+0x916ed1c07b66f369dde80cc51f032dedd1a5e03cc3a01d7ce222c2b7b467ba10
+
+keccak256 of the exact bytes of provenance.txt, posted publicly before the reveal.

@@ -1,0 +1,22 @@
+{
+  "trait": "Beans",
+  "slot": "Eyes",
+  "cell": 86,
+  "pad": 16,
+  "cols": 3,
+  "frames": 3,
+  "source": "generator/eyes.py Beans",
+  "states": {
+    "open": 0,
+    "half": 1,
+    "shut": 2
+  },
+  "variants": [
+    {
+      "name": "still",
+      "loop": {
+        "seq": [0]
+      }
+    }
+  ]
+}

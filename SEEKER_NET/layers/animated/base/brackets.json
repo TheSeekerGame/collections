@@ -1,0 +1,20 @@
+{
+  "trait": "Brackets",
+  "slot": "Base",
+  "cell": 86,
+  "pad": 16,
+  "cols": 1,
+  "frames": 1,
+  "source": "export/basesb4.png",
+  "ride": {
+    "split": 35
+  },
+  "variants": [
+    {
+      "name": "still",
+      "loop": {
+        "seq": [0]
+      }
+    }
+  ]
+}

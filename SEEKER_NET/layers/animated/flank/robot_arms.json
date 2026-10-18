@@ -1,0 +1,23 @@
+{
+  "trait": "Robot Arms",
+  "slot": "Flank",
+  "cell": 86,
+  "pad": 16,
+  "cols": 5,
+  "frames": 5,
+  "source": "export/hands3.png",
+  "ride": {
+    "lag": 2
+  },
+  "variants": [
+    {
+      "name": "snap",
+      "loop": {
+        "seq": [0]
+      },
+      "act": {
+        "seq": [0,0,0,0,0,0,1,1,1,2,2,2,1,1,2,2,2,1,1,1,0,0,0,0,3,3,3,4,4,4,3,3,4,4,4,3,3,3,0,0,0,0,0,0,0,0,0,0]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2222 @@
+0|Brackets|Moss|Theorem|Joystick|None|None|Tesla Coil|Daybreak|Standard|1151
+1|Side Car|Tide|Steady|Dial Deck|None|Plug Cable|None|Daybreak|Standard|2175
+2|Console|Dune|Happy|Classic Keyboard|Sonic Emitter|None|None|Lattice|Standard|1679
+3|Framed|Frost|Dome|Dial Deck|Heat Sink|None|None|Nightfall|Standard|1559
+4|Side Car|Bone|Wary|Trackball|Work Lamp|Wrench Arm|None|Downpour|Heavy|948
+5|Side Car|Frost|Sigil|Floppy Drive|Propeller|Wrench Arm|None|Slipstream|Heavy|592
+6|Framed|Pewter|Tangle|Trackball|Work Lamp|Thruster Pods|None|Crossroads|Heavy|811
+7|Tape Deck|Dune|Wary|Classic Keyboard|Heat Sink|None|None|Daybreak|Standard|1696
+8|Codex Header|Pewter|Theorem|Numpad|Heat Sink|Robot Arms|None|Lattice|Heavy|785
+9|Hood|Obsidian|Glitch|Split Keyboard|None|None|None|Crossroads|Light|204
+10|Widescreen|Abyss|Glitch|Fader Deck|None|None|None|Nightfall|Light|284
+11|Classic|Lichen|Keyhole|Floppy Drive|None|Solar Wings|None|Lattice|Standard|1883
+12|Tower|Sage|Mycelia|Floppy Drive|Beacon|None|None|Nightfall|Standard|1661
+13|Framed|Crimson|Snowflake|Dial Deck|Propeller|Wrench Arm|None|Nightfall|Heavy|509
+14|Side Car|Mauve|Orb|Dial Deck|Ice Crystals|Plug Cable|None|Crossroads|Heavy|1039
+15|Split Shell|Lichen|Happy|Floppy Drive|None|Plug Cable|None|Searchlight|Standard|2000
+16|Widescreen|Glacier|Snowflake|Floppy Drive|None|None|Sword|Slipstream|Standard|1615
+17|Classic|Sage|Mycelia|Compact Keyboard|None|None|Exhaust Pipes|Mosaic|Standard|1487
+18|Widescreen|Lichen|Scowl|Split Keyboard|Mushrooms|Wrench Arm|None|Lattice|Heavy|531
+19|Side Car|Abyss|Pulse|Datasette|Mushrooms|None|None|Mosaic|Standard|1765
+20|Hood|Crimson|Glitch|Keyboard|None|Wrench Arm|None|Searchlight|Standard|1895
+21|Framed|Sage|Keyhole|Numpad|Rabbit Ears|Sword and Shield|None|Slipstream|Heavy|753
+22|Console|Spore|Dots|Fader Deck|Work Lamp|Wrench Arm|None|Searchlight|Heavy|535
+23|Side Car|Sage|Theorem|Joystick|Heat Sink|None|None|Slipstream|Standard|1246
+24|Framed|Lichen|Mycelia|Fader Deck|None|Wrench Arm|None|Nightfall|Standard|2221
+25|Handheld|Dune|Reticle|Fader Deck|Mushrooms|Speakers|None|Slipstream|Heavy|704
+26|Porthole|Spore|Peek|Classic Keyboard|Beacon|None|None|Crossroads|Standard|1386
+27|Tower|Ash|Squint|Dial Deck|None|Speakers|None|Searchlight|Standard|2020
+28|Codex Header|Sage|Theorem|Gamepad|None|None|None|Nightfall|Light|362
+29|Twin Tier|Glacier|Visor|Datasette|Mushrooms|Wrench Arm|None|Crossroads|Heavy|651
+30|Porthole|Ember|Tangle|None|None|None|None|Searchlight|Bare|7
+31|Tape Deck|Moss|Wary|Dial Deck|None|None|Battery Pack|Slipstream|Standard|1408
+32|Twin Tier|Ash|Dots|Compact Keyboard|Periscope|Sword and Shield|Banner|Crossroads|Fully Loaded|59
+33|Side Lights|Sage|Peek|Joystick|Mushrooms|Robot Arms|None|Downpour|Heavy|829
+34|Split Shell|Bone|Seeker|Fader Deck|Periscope|Sword and Shield|Banner|Searchlight|Fully Loaded|51
+35|Framed|Crimson|Scowl|Compact Keyboard|None|None|Sword|Lattice|Standard|1353
+36|Porthole|Ember|Dashes|Joystick|Work Lamp|None|None|Searchlight|Standard|1768
+37|Side Lights|Bone|Beans|Dial Deck|None|None|None|Searchlight|Light|94
+38|Codex Header|Crimson|Lidded|Joystick|None|Speakers|None|Downpour|Standard|2001
+39|Tower|Deep Teal|Wary|Split Keyboard|Dish|Sword and Shield|None|Crossroads|Heavy|695
+40|Codex Header|Frost|Sigil|Codex Slate|None|Robot Arms|None|Mosaic|Standard|2049
+41|Tape Deck|Obsidian|Wary|Mouse|Dish|None|None|Lattice|Standard|1285
+42|Tape Deck|Deep Teal|Keyhole|Fader Deck|None|None|Tesla Coil|Lattice|Standard|1497
+43|Porthole|Slate|Dome|Split Keyboard|Propeller|None|None|Downpour|Standard|1233
+44|Hood|Tide|Orb|Keyboard|None|None|None|Nightfall|Light|95
+45|Split Shell|Crimson|Visor|Fader Deck|Periscope|Speakers|Banner|Mosaic|Fully Loaded|43
+46|Classic|Dune|Sigil|Gamepad|None|None|None|Daybreak|Light|131
+47|Framed|Moss|Slant|Numpad|None|None|Sword|Daybreak|Standard|1399
+48|Split Shell|Abyss|Slant|Gamepad|Work Lamp|Sword and Shield|None|Mosaic|Heavy|510
+49|Twin Tier|Obsidian|Mycelia|Joystick|Beacon|None|None|Nightfall|Standard|1168
+50|Tape Deck|Abyss|Tangle|Mouse|None|None|None|Mosaic|Light|358
+51|Console|Mauve|Scowl|Compact Keyboard|Sonic Emitter|Plug Cable|None|Lattice|Heavy|748
+52|Tape Deck|Camo|Shutter|Keyboard|None|None|Signal Mast|Nightfall|Standard|1993
+53|Side Lights|Camo|Squint|Codex Slate|None|None|Tesla Coil|Lattice|Standard|1221
+54|Split Shell|Tide|Wide|Classic Keyboard|Propeller|None|None|Slipstream|Standard|1707
+55|Radio|Mauve|Peek|Gamepad|Periscope|Wrench Arm|None|Mosaic|Heavy|637
+56|Radio|Tide|Squint|Split Keyboard|Work Lamp|Wrench Arm|None|Nightfall|Heavy|502
+57|Twin Tier|Lichen|Wary|Codex Slate|Propeller|Plug Cable|None|Slipstream|Heavy|472
+58|Widescreen|Sage|Tangle|Keyboard|Rabbit Ears|Sword and Shield|None|Downpour|Heavy|646
+59|Console|Bone|Theorem|Dial Deck|Work Lamp|Wrench Arm|None|Searchlight|Heavy|805
+60|Widescreen|Ember|Sigil|Codex Slate|None|Thruster Pods|None|Nightfall|Standard|2018
+61|Tape Deck|Lichen|Steady|Joystick|None|None|Battery Pack|Mosaic|Standard|2068
+62|Handheld|Slate|Reticle|Numpad|Ice Crystals|Solar Wings|None|Searchlight|Heavy|624
+63|Side Lights|Lichen|Mycelia|Split Keyboard|Beacon|Thruster Pods|None|Daybreak|Heavy|455
+64|Tape Deck|Abyss|Lidded|Dial Deck|None|None|None|Crossroads|Light|380
+65|Widescreen|Pewter|Squint|Dial Deck|Heat Sink|None|None|Slipstream|Standard|1589
+66|Brackets|Bone|Theorem|Floppy Drive|Work Lamp|Sword and Shield|None|Daybreak|Heavy|1088
+67|Radio|Pewter|Lidded|Codex Slate|None|None|Battery Pack|Crossroads|Standard|1880
+68|Split Shell|Dune|Seeker|Datasette|Periscope|Speakers|Banner|Nightfall|Fully Loaded|36
+69|Split Shell|Pewter|Dashes|Classic Keyboard|Heat Sink|Solar Wings|None|Downpour|Heavy|409
+70|Handheld|Camo|Visor|Gamepad|Beacon|None|None|Nightfall|Standard|1565
+71|Framed|Ash|Flatline|Dial Deck|None|Wrench Arm|None|Daybreak|Standard|2201
+72|Twin Tier|Ash|Seeker|Split Keyboard|Dish|Wrench Arm|None|Lattice|Heavy|473
+73|Codex Header|Glacier|Dots|Keyboard|None|Solar Wings|None|Daybreak|Standard|1432
+74|Split Shell|Rust|Blocks|Dial Deck|Work Lamp|Speakers|None|Daybreak|Heavy|726
+75|Radio|Bone|Slant|Split Keyboard|Mushrooms|None|None|Downpour|Standard|1395
+76|Hood|Moss|Snowflake|Trackball|None|None|None|Searchlight|Light|145
+77|Tape Deck|Frost|Glitch|Codex Slate|None|None|None|Crossroads|Light|360
+78|Porthole|Bone|Pulse|Joystick|Rabbit Ears|Sword and Shield|None|Slipstream|Heavy|1022
+79|Brackets|Dune|Curious|Classic Keyboard|Propeller|Speakers|None|Mosaic|Heavy|1006
+80|Classic|Ember|Pulse|Numpad|None|Solar Wings|None|Downpour|Standard|1931
+81|Tape Deck|Mauve|Dome|Gamepad|None|None|None|Downpour|Light|331
+82|Hood|Spore|Lidded|Fader Deck|Heat Sink|Robot Arms|None|Lattice|Heavy|684
+83|Widescreen|Mauve|Mycelia|Compact Keyboard|None|None|Coolant Tank|Downpour|Standard|1579
+84|Widescreen|Glacier|Peek|Compact Keyboard|Beacon|None|None|Nightfall|Standard|1458
+85|Twin Tier|Spore|Keyhole|Gamepad|Periscope|Thruster Pods|Banner|Daybreak|Fully Loaded|79
+86|Brackets|Camo|Tangle|Dial Deck|Mushrooms|None|None|Downpour|Standard|1476
+87|Side Car|Abyss|Theorem|Trackball|Mushrooms|Sword and Shield|None|Mosaic|Heavy|801
+88|Brackets|Moss|Slant|Floppy Drive|Sonic Emitter|Plug Cable|None|Lattice|Heavy|977
+89|Handheld|Tide|Dome|Mouse|None|None|Battery Pack|Searchlight|Standard|1340
+90|Side Lights|Glacier|Dashes|Numpad|Mushrooms|None|None|Nightfall|Standard|1712
+91|Codex Header|Lichen|Dots|Split Keyboard|None|None|None|Lattice|Light|326
+92|Twin Tier|Abyss|Glitch|Classic Keyboard|None|Thruster Pods|None|Daybreak|Standard|1498
+93|Codex Header|Deep Teal|Pulse|Trackball|Beacon|Solar Wings|None|Slipstream|Heavy|495
+94|Radio|Sage|Squint|Gamepad|Dish|None|None|Crossroads|Standard|1309
+95|Widescreen|Crimson|Wary|Codex Slate|Ice Crystals|None|None|Daybreak|Standard|1359
+96|Split Shell|Frost|Orb|Fader Deck|Work Lamp|Wrench Arm|None|Slipstream|Heavy|778
+97|Porthole|Bone|Peek|Mouse|Heat Sink|Thruster Pods|None|Nightfall|Heavy|1047
+98|Brackets|Ember|Happy|Mouse|None|None|None|Crossroads|Light|127
+99|Console|Mauve|Lens|Codex Slate|Rabbit Ears|None|None|Daybreak|Standard|1906
+100|Handheld|Ash|Shutter|Trackball|None|Solar Wings|None|Crossroads|Standard|2179
+101|Twin Tier|Mauve|Tangle|Keyboard|Beacon|Thruster Pods|None|Searchlight|Heavy|861
+102|Side Lights|Ember|Flatline|Floppy Drive|Sonic Emitter|None|None|Slipstream|Standard|1507
+103|Console|Slate|Wide|Split Keyboard|None|None|None|Daybreak|Light|373
+104|Tower|Lichen|Curious|Numpad|None|None|Coolant Tank|Crossroads|Standard|1367
+105|Tower|Slate|Glitch|Floppy Drive|None|None|None|Searchlight|Light|223
+106|Codex Header|Sage|Keyhole|Gamepad|Work Lamp|Robot Arms|None|Crossroads|Heavy|538
+107|Twin Tier|Pewter|Wary|Mouse|Ice Crystals|Solar Wings|None|Crossroads|Heavy|577
+108|Brackets|Bone|Mycelia|Floppy Drive|Rabbit Ears|Thruster Pods|None|Crossroads|Heavy|779
+109|Handheld|Ember|Flatline|Fader Deck|Periscope|Sword and Shield|None|Lattice|Heavy|696
+110|Console|Crimson|Slit|Dial Deck|None|None|Exhaust Pipes|Downpour|Standard|1603
+111|Hood|Spore|Peek|Dial Deck|Dish|None|None|Downpour|Standard|1339
+112|Hood|Tide|Lens|Gamepad|Rabbit Ears|None|None|Slipstream|Standard|1970
+113|Codex Header|Abyss|Shutter|Trackball|None|Solar Wings|None|Slipstream|Standard|2125
+114|Console|Tide|Flatline|Joystick|Rabbit Ears|None|None|Searchlight|Standard|1924
+115|Porthole|Moss|Seeker|Codex Slate|Propeller|None|None|Downpour|Standard|1529
+116|Codex Header|Tide|Scowl|Trackball|Work Lamp|Speakers|None|Crossroads|Heavy|580
+117|Tower|Obsidian|Dome|Fader Deck|Propeller|Plug Cable|None|Slipstream|Heavy|930
+118|Tower|Bone|Orb|Fader Deck|None|Robot Arms|None|Slipstream|Standard|1318
+119|Porthole|Glacier|Squint|Compact Keyboard|None|Speakers|None|Downpour|Standard|1744
+120|Widescreen|Lichen|Reticle|Datasette|Rabbit Ears|None|None|Crossroads|Standard|2012
+121|Side Car|Bone|Wide|Split Keyboard|Work Lamp|None|None|Lattice|Standard|1749
+122|Side Lights|Pewter|Visor|Classic Keyboard|Ice Crystals|None|None|Slipstream|Standard|1665
+123|Handheld|Crimson|Happy|Joystick|Work Lamp|Wrench Arm|None|Daybreak|Heavy|755
+124|Side Car|Moss|Slit|Joystick|Propeller|Wrench Arm|None|Searchlight|Heavy|913
+125|Side Car|Spore|Slit|Gamepad|Periscope|Thruster Pods|None|Downpour|Heavy|596
+126|Side Car|Ash|Glitch|Classic Keyboard|None|None|Tesla Coil|Crossroads|Standard|1660
+127|Codex Header|Ember|Blocks|Keyboard|None|None|None|Slipstream|Light|281
+128|Console|Glacier|Slit|Trackball|Propeller|Plug Cable|None|Nightfall|Heavy|582
+129|Radio|Abyss|Lidded|Codex Slate|None|None|None|Lattice|Light|349
+130|Twin Tier|Slate|Happy|Codex Slate|None|None|Sword|Nightfall|Standard|1141
+131|Framed|Bone|Dots|Keyboard|Dish|Plug Cable|None|Slipstream|Heavy|1056
+132|Side Lights|Deep Teal|Wary|Joystick|Work Lamp|Solar Wings|None|Slipstream|Heavy|756
+133|Framed|Abyss|Shutter|Dial Deck|None|Plug Cable|None|Slipstream|Standard|2184
+134|Side Lights|Ash|Reticle|Dial Deck|Heat Sink|Speakers|None|Crossroads|Heavy|515
+135|Tape Deck|Mauve|Flatline|Numpad|None|Plug Cable|None|Searchlight|Standard|2123
+136|Twin Tier|Mauve|Lidded|Numpad|None|None|Signal Mast|Daybreak|Standard|1137
+137|Console|Frost|Wide|Floppy Drive|None|None|Tesla Coil|Daybreak|Standard|1986
+138|Split Shell|Ash|Lidded|Classic Keyboard|Rabbit Ears|Robot Arms|None|Lattice|Heavy|445
+139|Hood|Rust|Flatline|Codex Slate|None|None|Tesla Coil|Daybreak|Standard|1208
+140|Hood|Sage|Slit|Gamepad|None|None|Exhaust Pipes|Nightfall|Standard|1253
+141|Split Shell|Ash|Lens|Joystick|None|Wrench Arm|None|Downpour|Standard|2189
+142|Framed|Bone|Dots|Numpad|None|Thruster Pods|None|Crossroads|Standard|1205
+143|Side Car|Camo|Wary|Compact Keyboard|Beacon|None|None|Searchlight|Standard|1541
+144|Side Car|Bone|Tangle|Joystick|Sonic Emitter|Plug Cable|None|Mosaic|Heavy|947
+145|Classic|Obsidian|Mycelia|Codex Slate|Dish|None|None|Downpour|Standard|1310
+146|Classic|Ash|Slant|Classic Keyboard|Sonic Emitter|Solar Wings|None|Downpour|Heavy|619
+147|Classic|Abyss|Scowl|Numpad|None|None|None|Mosaic|Light|156
+148|Handheld|Ash|Visor|Compact Keyboard|None|Robot Arms|None|Nightfall|Standard|2139
+149|Side Lights|Spore|Orb|Joystick|None|Robot Arms|None|Searchlight|Standard|1561
+150|Framed|Tide|Reticle|Compact Keyboard|None|None|None|Slipstream|Light|117
+151|Console|Lichen|Peek|Numpad|Work Lamp|None|None|Daybreak|Standard|1936
+152|Handheld|Mauve|Seeker|Joystick|Mushrooms|Robot Arms|None|Downpour|Heavy|970
+153|Classic|Crimson|Pulse|Mouse|Sonic Emitter|None|None|Slipstream|Standard|1431
+154|Brackets|Obsidian|Snowflake|Classic Keyboard|Dish|Robot Arms|None|Nightfall|Heavy|898
+155|Widescreen|Camo|Dashes|Mouse|Rabbit Ears|Thruster Pods|None|Downpour|Heavy|437
+156|Side Car|Sage|Tangle|Trackball|None|None|Signal Mast|Searchlight|Standard|1220
+157|Side Car|Dune|Blocks|Floppy Drive|None|Thruster Pods|None|Downpour|Standard|1939
+158|Brackets|Rust|Keyhole|Gamepad|Mushrooms|Solar Wings|None|Downpour|Heavy|980
+159|Side Lights|Slate|Dashes|Dial Deck|None|Thruster Pods|None|Slipstream|Standard|1727
+160|Split Shell|Lichen|Snowflake|None|None|None|None|Crossroads|Bare|17
+161|Side Car|Sage|Snowflake|Split Keyboard|None|Sword and Shield|None|Mosaic|Standard|1808
+162|Hood|Lichen|Theorem|Keyboard|None|None|Signal Mast|Downpour|Standard|1425
+163|Hood|Dune|Keyhole|Gamepad|Beacon|Speakers|None|Mosaic|Heavy|985
+164|Handheld|Bone|Reticle|Floppy Drive|Dish|Solar Wings|None|Mosaic|Heavy|869
+165|Side Lights|Obsidian|Squint|Keyboard|Sonic Emitter|Plug Cable|None|Nightfall|Heavy|1091
+166|Codex Header|Slate|Slit|Gamepad|Work Lamp|Thruster Pods|None|Downpour|Heavy|607
+167|Side Car|Bone|Slant|Dial Deck|Heat Sink|None|None|Crossroads|Standard|1308
+168|Side Lights|Ember|Glitch|Dial Deck|None|None|Signal Mast|Crossroads|Standard|1242
+169|Hood|Moss|Steady|Classic Keyboard|Work Lamp|Solar Wings|None|Slipstream|Heavy|950
+170|Split Shell|Tide|Wide|Split Keyboard|None|None|Battery Pack|Crossroads|Standard|1506
+171|Hood|Sage|Happy|Joystick|Sonic Emitter|Speakers|None|Slipstream|Heavy|790
+172|Brackets|Crimson|Tangle|Codex Slate|Beacon|Thruster Pods|None|Nightfall|Heavy|698
+173|Side Lights|Rust|Theorem|Trackball|Mushrooms|Speakers|None|Nightfall|Heavy|1082
+174|Framed|Ember|Scowl|Gamepad|Work Lamp|None|None|Daybreak|Standard|1422
+175|Radio|Ember|Visor|Dial Deck|None|Plug Cable|None|Slipstream|Standard|2157
+176|Tape Deck|Dune|Beans|Keyboard|Sonic Emitter|None|None|Slipstream|Standard|1866
+177|Tape Deck|Ember|Dome|Mouse|Ice Crystals|None|None|Mosaic|Standard|1639
+178|Handheld|Bone|Blocks|Fader Deck|Work Lamp|Plug Cable|None|Mosaic|Heavy|1072
+179|Framed|Slate|Flatline|Keyboard|Work Lamp|Plug Cable|None|Daybreak|Heavy|734
+180|Tower|Dune|Glitch|Classic Keyboard|None|Solar Wings|None|Nightfall|Standard|1741
+181|Classic|Deep Teal|Wide|Fader Deck|None|Plug Cable|None|Mosaic|Standard|2191
+182|Codex Header|Rust|Blocks|Mouse|Beacon|Solar Wings|None|Daybreak|Heavy|683
+183|Console|Slate|Peek|Mouse|Work Lamp|Plug Cable|None|Slipstream|Heavy|534
+184|Codex Header|Abyss|Scowl|Trackball|Heat Sink|None|None|Downpour|Standard|1335
+185|Radio|Moss|Glitch|Gamepad|None|None|None|Searchlight|Light|312
+186|Split Shell|Mauve|Sigil|Codex Slate|None|Sword and Shield|None|Lattice|Standard|1435
+187|Tower|Ember|Peek|Mouse|None|Speakers|None|Mosaic|Standard|1682
+188|Brackets|Sage|Theorem|Numpad|Sonic Emitter|Speakers|None|Nightfall|Heavy|946
+189|Side Lights|Slate|Sigil|Split Keyboard|Heat Sink|Wrench Arm|None|Daybreak|Heavy|912
+190|Side Car|Obsidian|Frown|Datasette|Periscope|Thruster Pods|None|Downpour|Heavy|996
+191|Classic|Bone|Lens|Numpad|None|None|Battery Pack|Slipstream|Standard|1397
+192|Side Car|Lichen|Curious|Codex Slate|Rabbit Ears|Thruster Pods|None|Nightfall|Heavy|591
+193|Porthole|Deep Teal|Steady|Datasette|Sonic Emitter|Thruster Pods|None|Nightfall|Heavy|667
+194|Side Lights|Lichen|Flatline|Classic Keyboard|None|Solar Wings|None|Searchlight|Standard|2131
+195|Side Car|Spore|Dome|Numpad|Heat Sink|Sword and Shield|None|Mosaic|Heavy|543
+196|Side Car|Tide|Mycelia|Keyboard|Propeller|Wrench Arm|None|Daybreak|Heavy|487
+197|Tape Deck|Glacier|Slant|Trackball|None|Plug Cable|None|Nightfall|Standard|2178
+198|Porthole|Moss|Orb|Floppy Drive|Sonic Emitter|Sword and Shield|None|Downpour|Heavy|1094
+199|Framed|Ash|Slit|Gamepad|None|Thruster Pods|None|Downpour|Standard|2140
+200|Radio|Bone|Wide|Datasette|Ice Crystals|Wrench Arm|None|Lattice|Heavy|398
+201|Split Shell|Camo|Mycelia|Numpad|Periscope|Solar Wings|Banner|Searchlight|Fully Loaded|34
+202|Handheld|Mauve|Dots|Datasette|Periscope|Speakers|None|Slipstream|Heavy|1051
+203|Framed|Pewter|Blocks|Fader Deck|Dish|None|None|Slipstream|Standard|1843
+204|Side Car|Crimson|Dashes|Gamepad|None|None|Coolant Tank|Lattice|Standard|1641
+205|Codex Header|Lichen|Visor|Joystick|None|None|None|Lattice|Light|308
+206|Side Car|Camo|Dome|Numpad|None|None|None|Daybreak|Light|246
+207|Framed|Dune|Scowl|Numpad|None|Sword and Shield|None|Daybreak|Standard|1780
+208|Side Car|Frost|Peek|Split Keyboard|Rabbit Ears|Wrench Arm|None|Lattice|Heavy|611
+209|Framed|Bone|Shutter|Gamepad|Mushrooms|Sword and Shield|None|Daybreak|Heavy|694
+210|Side Car|Crimson|Theorem|Codex Slate|None|None|None|Searchlight|Light|237
+211|Classic|Sage|Seeker|Classic Keyboard|None|None|Coolant Tank|Searchlight|Standard|1384
+212|Brackets|Obsidian|Beans|None|None|None|None|Crossroads|Bare|29
+213|Handheld|Camo|Pulse|Classic Keyboard|Mushrooms|Solar Wings|None|Crossroads|Heavy|875
+214|Split Shell|Lichen|Snowflake|Dial Deck|None|Robot Arms|None|Mosaic|Standard|1820
+215|Handheld|Lichen|Reticle|Compact Keyboard|Ice Crystals|Wrench Arm|None|Lattice|Heavy|465
+216|Widescreen|Camo|Slant|Split Keyboard|None|None|Battery Pack|Searchlight|Standard|1388
+217|Twin Tier|Dune|Peek|Split Keyboard|Work Lamp|Wrench Arm|None|Crossroads|Heavy|717
+218|Split Shell|Abyss|Sigil|Trackball|Heat Sink|Speakers|None|Downpour|Heavy|506
+219|Brackets|Spore|Dashes|Split Keyboard|None|Thruster Pods|None|Downpour|Standard|2090
+220|Radio|Tide|Mycelia|Gamepad|None|None|Tesla Coil|Lattice|Standard|1947
+221|Codex Header|Sage|Flatline|Compact Keyboard|Beacon|Solar Wings|None|Crossroads|Heavy|491
+222|Tape Deck|Tide|Blocks|Fader Deck|None|None|Battery Pack|Downpour|Standard|1884
+223|Widescreen|Pewter|Squint|Numpad|None|None|None|Daybreak|Light|123
+224|Widescreen|Moss|Glitch|Gamepad|Rabbit Ears|Sword and Shield|None|Mosaic|Heavy|965
+225|Split Shell|Lichen|Reticle|Floppy Drive|None|None|Exhaust Pipes|Nightfall|Standard|1562
+226|Handheld|Moss|Frown|Classic Keyboard|Propeller|Solar Wings|None|Searchlight|Heavy|1085
+227|Classic|Obsidian|Squint|Split Keyboard|None|None|None|Lattice|Light|213
+228|Radio|Pewter|Happy|Datasette|Dish|None|None|Lattice|Standard|1907
+229|Radio|Slate|Blocks|Classic Keyboard|Ice Crystals|None|None|Nightfall|Standard|1326
+230|Tape Deck|Rust|Dots|Compact Keyboard|Periscope|Plug Cable|None|Searchlight|Heavy|432
+231|Hood|Deep Teal|Shutter|None|None|None|None|Nightfall|Bare|1
+232|Widescreen|Tide|Visor|Floppy Drive|Propeller|Wrench Arm|None|Slipstream|Heavy|598
+233|Tower|Dune|Lens|Gamepad|None|None|Sword|Lattice|Standard|1860
+234|Twin Tier|Deep Teal|Wary|Keyboard|None|Sword and Shield|None|Downpour|Standard|1700
+235|Brackets|Deep Teal|Beans|Keyboard|Periscope|Solar Wings|None|Daybreak|Heavy|508
+236|Twin Tier|Tide|Snowflake|Numpad|Periscope|Wrench Arm|Banner|Crossroads|Fully Loaded|87
+237|Twin Tier|Rust|Orb|Floppy Drive|Sonic Emitter|Wrench Arm|None|Searchlight|Heavy|1005
+238|Classic|Rust|Glitch|Dial Deck|Beacon|Robot Arms|None|Searchlight|Heavy|1002
+239|Porthole|Deep Teal|Steady|Gamepad|Rabbit Ears|Solar Wings|None|Slipstream|Heavy|647
+240|Split Shell|Glacier|Dashes|Datasette|Dish|None|None|Searchlight|Standard|1426
+241|Side Car|Slate|Squint|Floppy Drive|None|Plug Cable|None|Nightfall|Standard|1678
+242|Radio|Ash|Dashes|Dial Deck|None|None|None|Nightfall|Light|374
+243|Hood|Dune|Beans|Fader Deck|Beacon|None|None|Crossroads|Standard|1421
+244|Split Shell|Ash|Wary|Codex Slate|Dish|Solar Wings|None|Searchlight|Heavy|464
+245|Side Lights|Ember|Reticle|Mouse|Sonic Emitter|Speakers|None|Lattice|Heavy|686
+246|Classic|Spore|Visor|Keyboard|None|None|None|Nightfall|Light|162
+247|Codex Header|Pewter|Pulse|Gamepad|Heat Sink|None|None|Downpour|Standard|1809
+248|Porthole|Rust|Squint|Mouse|None|None|None|Lattice|Light|176
+249|Twin Tier|Spore|Shutter|Fader Deck|Rabbit Ears|None|None|Daybreak|Standard|1423
+250|Twin Tier|Mauve|Pulse|Joystick|Beacon|Thruster Pods|None|Lattice|Heavy|860
+251|Radio|Obsidian|Frown|Dial Deck|Dish|Wrench Arm|None|Mosaic|Heavy|837
+252|Hood|Crimson|Slit|Floppy Drive|None|None|Battery Pack|Mosaic|Standard|1277
+253|Console|Spore|Wary|Floppy Drive|None|None|None|Lattice|Light|346
+254|Widescreen|Moss|Slant|Datasette|Periscope|Wrench Arm|None|Searchlight|Heavy|769
+255|Codex Header|Moss|Curious|Gamepad|Heat Sink|Robot Arms|None|Lattice|Heavy|871
+256|Tape Deck|Pewter|Sigil|Numpad|Periscope|Plug Cable|None|Downpour|Heavy|401
+257|Side Lights|Abyss|Peek|Codex Slate|Ice Crystals|Solar Wings|None|Mosaic|Heavy|668
+258|Twin Tier|Dune|Reticle|Mouse|Periscope|Sword and Shield|Banner|Searchlight|Fully Loaded|86
+259|Console|Ember|Snowflake|Codex Slate|None|None|Tesla Coil|Lattice|Standard|1544
+260|Console|Tide|Dots|Datasette|None|None|Signal Mast|Nightfall|Standard|1225
+261|Classic|Crimson|Reticle|Joystick|None|None|Coolant Tank|Mosaic|Standard|1490
+262|Codex Header|Crimson|Lidded|Compact Keyboard|Work Lamp|Speakers|None|Daybreak|Heavy|436
+263|Tower|Bone|Slit|Compact Keyboard|None|Robot Arms|None|Slipstream|Standard|1617
+264|Radio|Glacier|Sigil|Dial Deck|Beacon|None|None|Downpour|Standard|1801
+265|Framed|Dune|Flatline|Trackball|Periscope|Thruster Pods|None|Downpour|Heavy|671
+266|Porthole|Ember|Glitch|Gamepad|None|Robot Arms|None|Downpour|Standard|1773
+267|Tape Deck|Pewter|Steady|Datasette|Mushrooms|None|None|Mosaic|Standard|2112
+268|Tape Deck|Bone|Lens|Classic Keyboard|Dish|None|None|Crossroads|Standard|2004
+269|Hood|Frost|Dots|Compact Keyboard|Heat Sink|None|None|Lattice|Standard|1131
+270|Codex Header|Slate|Slit|Split Keyboard|None|Plug Cable|None|Downpour|Standard|1793
+271|Split Shell|Sage|Blocks|Keyboard|Work Lamp|Solar Wings|None|Nightfall|Heavy|567
+272|Side Lights|Dune|Dome|Keyboard|None|Speakers|None|Daybreak|Standard|1705
+273|Twin Tier|Slate|Beans|Gamepad|Periscope|Sword and Shield|Banner|Searchlight|Fully Loaded|84
+274|Framed|Sage|Glitch|Keyboard|None|Wrench Arm|None|Daybreak|Standard|1867
+275|Split Shell|Mauve|Curious|Classic Keyboard|Periscope|Wrench Arm|Banner|Lattice|Fully Loaded|40
+276|Tower|Rust|Tangle|Classic Keyboard|None|Sword and Shield|None|Crossroads|Standard|1681
+277|Widescreen|Ash|Wary|Numpad|Ice Crystals|Sword and Shield|None|Downpour|Heavy|504
+278|Split Shell|Rust|Slit|Split Keyboard|Heat Sink|None|None|Lattice|Standard|1127
+279|Hood|Slate|Orb|Keyboard|Sonic Emitter|Sword and Shield|None|Slipstream|Heavy|1069
+280|Handheld|Ember|Curious|Codex Slate|None|Solar Wings|None|Lattice|Standard|1491
+281|Tower|Deep Teal|Flatline|Datasette|None|Wrench Arm|None|Crossroads|Standard|2132
+282|Twin Tier|Tide|Scowl|Keyboard|None|Thruster Pods|None|Slipstream|Standard|1585
+283|Framed|Lichen|Steady|Mouse|None|None|Sword|Searchlight|Standard|1976
+284|Side Car|Rust|Shutter|Compact Keyboard|None|Thruster Pods|None|Mosaic|Standard|1975
+285|Classic|Deep Teal|Slit|Floppy Drive|Propeller|None|None|Searchlight|Standard|1549
+286|Classic|Crimson|Visor|Dial Deck|Ice Crystals|None|None|Searchlight|Standard|1360
+287|Brackets|Tide|Pulse|Codex Slate|Rabbit Ears|None|None|Slipstream|Standard|1774
+288|Tower|Bone|Theorem|Compact Keyboard|Work Lamp|Speakers|None|Daybreak|Heavy|1087
+289|Tower|Ember|Blocks|Keyboard|None|Speakers|None|Lattice|Standard|1972
+290|Split Shell|Deep Teal|Beans|Joystick|None|Sword and Shield|None|Mosaic|Standard|1782
+291|Side Car|Deep Teal|Sigil|Codex Slate|None|Thruster Pods|None|Mosaic|Standard|2099
+292|Handheld|Moss|Flatline|Dial Deck|Beacon|Solar Wings|None|Slipstream|Heavy|964
+293|Hood|Crimson|Pulse|Joystick|Mushrooms|Solar Wings|None|Daybreak|Heavy|664
+294|Handheld|Ash|Steady|Split Keyboard|None|None|None|Daybreak|Light|172
+295|Handheld|Camo|Mycelia|Trackball|Mushrooms|None|None|Mosaic|Standard|1772
+296|Tape Deck|Ash|Peek|Gamepad|Sonic Emitter|Plug Cable|None|Downpour|Heavy|395
+297|Hood|Slate|Keyhole|Numpad|None|None|None|Downpour|Light|181
+298|Porthole|Spore|Beans|Datasette|Mushrooms|None|None|Crossroads|Standard|1601
+299|Porthole|Dune|Theorem|Compact Keyboard|Work Lamp|Sword and Shield|None|Mosaic|Heavy|1060
+300|Widescreen|Ember|Slit|Floppy Drive|Periscope|Wrench Arm|None|Mosaic|Heavy|618
+301|Tape Deck|Glacier|Flatline|Mouse|Heat Sink|Plug Cable|None|Daybreak|Heavy|405
+302|Side Lights|Rust|Slit|Split Keyboard|None|Sword and Shield|None|Searchlight|Standard|1620
+303|Side Lights|Slate|Scowl|Numpad|Ice Crystals|Robot Arms|None|Searchlight|Heavy|899
+304|Brackets|Pewter|Visor|Dial Deck|None|Sword and Shield|None|Daybreak|Standard|2151
+305|Split Shell|Deep Teal|Happy|Compact Keyboard|None|None|Battery Pack|Lattice|Standard|1191
+306|Brackets|Bone|Curious|Classic Keyboard|None|None|None|Mosaic|Light|108
+307|Porthole|Deep Teal|Wary|Joystick|Propeller|Solar Wings|None|Nightfall|Heavy|693
+308|Twin Tier|Moss|Orb|Joystick|Dish|Sword and Shield|None|Lattice|Heavy|1035
+309|Classic|Moss|Curious|Gamepad|Ice Crystals|Thruster Pods|None|Lattice|Heavy|1077
+310|Tower|Camo|Glitch|Floppy Drive|Propeller|None|None|Downpour|Standard|1412
+311|Porthole|Pewter|Happy|Classic Keyboard|None|None|None|Downpour|Light|93
+312|Classic|Moss|Orb|Codex Slate|Beacon|None|None|Lattice|Standard|1148
+313|Codex Header|Moss|Orb|Numpad|None|None|None|Slipstream|Light|283
+314|Radio|Abyss|Orb|Datasette|Beacon|None|None|Daybreak|Standard|1382
+315|Porthole|Frost|Wide|Numpad|None|None|None|Slipstream|Light|183
+316|Tape Deck|Tide|Mycelia|None|None|None|None|Slipstream|Bare|5
+317|Side Car|Frost|Slant|Datasette|None|None|None|Daybreak|Light|263
+318|Hood|Glacier|Peek|Joystick|None|Thruster Pods|None|Searchlight|Standard|1798
+319|Brackets|Moss|Shutter|Dial Deck|Work Lamp|Speakers|None|Lattice|Heavy|725
+320|Split Shell|Mauve|Steady|Classic Keyboard|Propeller|Solar Wings|None|Nightfall|Heavy|742
+321|Classic|Ash|Dots|Joystick|Rabbit Ears|None|None|Nightfall|Standard|1235
+322|Classic|Pewter|Pulse|Mouse|None|None|None|Mosaic|Light|89
+323|Console|Moss|Mycelia|Split Keyboard|Heat Sink|Wrench Arm|None|Daybreak|Heavy|434
+324|Side Lights|Abyss|Keyhole|Trackball|None|None|None|Mosaic|Light|147
+325|Codex Header|Lichen|Seeker|Datasette|None|Plug Cable|None|Lattice|Standard|2217
+326|Handheld|Pewter|Peek|Codex Slate|None|None|Battery Pack|Mosaic|Standard|1358
+327|Side Lights|Moss|Lidded|Split Keyboard|Beacon|None|None|Crossroads|Standard|1390
+328|Framed|Slate|Frown|Numpad|Periscope|Thruster Pods|None|Nightfall|Heavy|908
+329|Codex Header|Crimson|Lidded|Split Keyboard|Work Lamp|None|None|Nightfall|Standard|1684
+330|Twin Tier|Frost|Sigil|Dial Deck|None|Thruster Pods|None|Nightfall|Standard|1664
+331|Tower|Lichen|Dots|Dial Deck|None|Solar Wings|None|Slipstream|Standard|1622
+332|Porthole|Moss|Frown|Dial Deck|None|Robot Arms|None|Searchlight|Standard|1303
+333|Codex Header|Glacier|Theorem|Numpad|Heat Sink|None|None|Mosaic|Standard|1350
+334|Tower|Tide|Happy|Codex Slate|Rabbit Ears|Sword and Shield|None|Downpour|Heavy|849
+335|Side Lights|Slate|Dashes|Gamepad|None|None|None|Daybreak|Light|261
+336|Framed|Ember|Reticle|Trackball|Rabbit Ears|Thruster Pods|None|Daybreak|Heavy|547
+337|Brackets|Ash|Scowl|Mouse|Beacon|Speakers|None|Crossroads|Heavy|702
+338|Console|Ash|Scowl|Joystick|None|None|Signal Mast|Mosaic|Standard|1750
+339|Porthole|Spore|Visor|Keyboard|Propeller|Robot Arms|None|Crossroads|Heavy|613
+340|Widescreen|Dune|Theorem|Keyboard|None|None|None|Slipstream|Light|184
+341|Radio|Bone|Slit|Fader Deck|None|Wrench Arm|None|Daybreak|Standard|1938
+342|Handheld|Bone|Steady|Datasette|None|None|Coolant Tank|Searchlight|Standard|1286
+343|Widescreen|Crimson|Tangle|Codex Slate|None|None|None|Searchlight|Light|280
+344|Classic|Lichen|Dome|Mouse|None|None|Battery Pack|Slipstream|Standard|1494
+345|Brackets|Frost|Visor|Fader Deck|Periscope|Robot Arms|None|Downpour|Heavy|499
+346|Tape Deck|Tide|Tangle|Classic Keyboard|Sonic Emitter|None|None|Crossroads|Standard|1973
+347|Side Car|Obsidian|Lens|Mouse|Dish|None|None|Downpour|Standard|1467
+348|Widescreen|Camo|Flatline|Fader Deck|Work Lamp|None|None|Mosaic|Standard|1675
+349|Codex Header|Obsidian|Tangle|Numpad|Beacon|Solar Wings|None|Nightfall|Heavy|776
+350|Split Shell|Pewter|Dashes|Numpad|Mushrooms|Thruster Pods|None|Slipstream|Heavy|430
+351|Split Shell|Tide|Peek|Mouse|Heat Sink|None|None|Slipstream|Standard|1195
+352|Widescreen|Tide|Shutter|Fader Deck|None|Thruster Pods|None|Mosaic|Standard|2176
+353|Twin Tier|Slate|Dashes|Numpad|Periscope|Sword and Shield|Banner|Daybreak|Fully Loaded|85
+354|Radio|Tide|Snowflake|Trackball|Sonic Emitter|None|None|Searchlight|Standard|1737
+355|Porthole|Sage|Theorem|Mouse|Heat Sink|Wrench Arm|None|Searchlight|Heavy|969
+356|Handheld|Ash|Snowflake|Codex Slate|None|Thruster Pods|None|Downpour|Standard|2096
+357|Widescreen|Crimson|Pulse|Dial Deck|None|None|None|Slipstream|Light|221
+358|Porthole|Lichen|Glitch|Fader Deck|None|Speakers|None|Downpour|Standard|2042
+359|Side Car|Frost|Scowl|Classic Keyboard|Work Lamp|Wrench Arm|None|Lattice|Heavy|677
+360|Classic|Sage|Peek|Gamepad|Work Lamp|Sword and Shield|None|Lattice|Heavy|906
+361|Porthole|Rust|Scowl|Codex Slate|None|Robot Arms|None|Crossroads|Standard|1477
+362|Radio|Slate|Squint|Gamepad|None|None|None|Slipstream|Light|376
+363|Side Lights|Rust|Pulse|Gamepad|None|None|Signal Mast|Downpour|Standard|1197
+364|Side Car|Abyss|Blocks|Joystick|None|None|Tesla Coil|Slipstream|Standard|1535
+365|Classic|Slate|Scowl|Numpad|Mushrooms|Speakers|None|Daybreak|Heavy|974
+366|Handheld|Moss|Dots|Floppy Drive|Dish|Speakers|None|Nightfall|Heavy|1073
+367|Hood|Obsidian|Frown|Datasette|Heat Sink|Sword and Shield|None|Slipstream|Heavy|1093
+368|Hood|Moss|Theorem|Trackball|Sonic Emitter|Thruster Pods|None|Crossroads|Heavy|1096
+369|Porthole|Tide|Seeker|Mouse|None|Solar Wings|None|Mosaic|Standard|2113
+370|Twin Tier|Spore|Frown|Mouse|Sonic Emitter|Speakers|None|Downpour|Heavy|761
+371|Split Shell|Pewter|Wary|Mouse|Mushrooms|Solar Wings|None|Daybreak|Heavy|679
+372|Side Lights|Mauve|Orb|Classic Keyboard|Rabbit Ears|Sword and Shield|None|Nightfall|Heavy|1100
+373|Radio|Mauve|Slit|None|None|None|None|Daybreak|Bare|15
+374|Tower|Frost|Sigil|Datasette|Mushrooms|None|None|Searchlight|Standard|1670
+375|Radio|Deep Teal|Theorem|Datasette|Sonic Emitter|Wrench Arm|None|Slipstream|Heavy|540
+376|Hood|Rust|Seeker|Classic Keyboard|Propeller|None|None|Crossroads|Standard|1407
+377|Codex Header|Slate|Scowl|Trackball|Beacon|Robot Arms|None|Searchlight|Heavy|645
+378|Classic|Abyss|Reticle|Floppy Drive|Rabbit Ears|Robot Arms|None|Nightfall|Heavy|586
+379|Tower|Slate|Dome|Joystick|Dish|Solar Wings|None|Nightfall|Heavy|653
+380|Widescreen|Glacier|Shutter|Joystick|Beacon|Sword and Shield|None|Nightfall|Heavy|594
+381|Tape Deck|Pewter|Shutter|Fader Deck|Sonic Emitter|None|None|Daybreak|Standard|2170
+382|Tower|Dune|Dashes|Mouse|None|None|Sword|Lattice|Standard|1605
+383|Classic|Lichen|Mycelia|Datasette|None|Solar Wings|None|Searchlight|Standard|2206
+384|Split Shell|Ash|Squint|Fader Deck|Beacon|Plug Cable|None|Daybreak|Heavy|579
+385|Console|Frost|Mycelia|Floppy Drive|Beacon|Wrench Arm|None|Mosaic|Heavy|397
+386|Brackets|Abyss|Dashes|Codex Slate|Work Lamp|None|None|Lattice|Standard|1825
+387|Tape Deck|Ember|Blocks|Mouse|Sonic Emitter|None|None|Crossroads|Standard|1869
+388|Handheld|Tide|Seeker|Numpad|Ice Crystals|Plug Cable|None|Downpour|Heavy|789
+389|Radio|Frost|Happy|Numpad|Beacon|None|None|Slipstream|Standard|1747
+390|Classic|Abyss|Shutter|Numpad|None|None|Tesla Coil|Searchlight|Standard|1586
+391|Handheld|Deep Teal|Keyhole|Fader Deck|None|Robot Arms|None|Downpour|Standard|1685
+392|Codex Header|Ember|Blocks|Numpad|Heat Sink|Solar Wings|None|Daybreak|Heavy|526
+393|Codex Header|Frost|Mycelia|Dial Deck|None|None|None|Daybreak|Light|329
+394|Split Shell|Camo|Snowflake|Compact Keyboard|None|Speakers|None|Daybreak|Standard|1427
+395|Porthole|Crimson|Dashes|Datasette|None|Robot Arms|None|Slipstream|Standard|2023
+396|Console|Mauve|Flatline|Classic Keyboard|None|None|Exhaust Pipes|Searchlight|Standard|1519
+397|Handheld|Rust|Reticle|Compact Keyboard|Ice Crystals|None|None|Daybreak|Standard|1267
+398|Split Shell|Frost|Mycelia|Joystick|None|None|Coolant Tank|Lattice|Standard|1505
+399|Console|Obsidian|Steady|Mouse|Beacon|None|None|Downpour|Standard|1311
+400|Hood|Ember|Glitch|Codex Slate|Work Lamp|Robot Arms|None|Nightfall|Heavy|834
+401|Framed|Pewter|Blocks|Fader Deck|Dish|Plug Cable|None|Daybreak|Heavy|848
+402|Porthole|Frost|Wide|Dial Deck|None|Plug Cable|None|Searchlight|Standard|2198
+403|Handheld|Glacier|Steady|Mouse|Periscope|Robot Arms|None|Lattice|Heavy|797
+404|Handheld|Rust|Peek|Fader Deck|None|Speakers|None|Daybreak|Standard|1389
+405|Side Car|Dune|Slit|Dial Deck|Sonic Emitter|Thruster Pods|None|Lattice|Heavy|738
+406|Tower|Dune|Pulse|Keyboard|None|Solar Wings|None|Daybreak|Standard|1959
+407|Radio|Tide|Mycelia|Codex Slate|Ice Crystals|None|None|Daybreak|Standard|2033
+408|Side Lights|Dune|Curious|Gamepad|Ice Crystals|Sword and Shield|None|Mosaic|Heavy|1030
+409|Console|Spore|Lens|Fader Deck|None|None|None|Daybreak|Light|277
+410|Twin Tier|Lichen|Curious|Mouse|Propeller|Speakers|None|Searchlight|Heavy|523
+411|Side Lights|Moss|Mycelia|Joystick|Propeller|Solar Wings|None|Crossroads|Heavy|787
+412|Side Car|Obsidian|Wary|Compact Keyboard|None|None|None|Daybreak|Light|271
+413|Widescreen|Deep Teal|Lens|Floppy Drive|None|None|Coolant Tank|Nightfall|Standard|1996
+414|Framed|Rust|Dome|Mouse|Periscope|Sword and Shield|None|Crossroads|Heavy|605
+415|Porthole|Lichen|Happy|Joystick|Heat Sink|None|None|Daybreak|Standard|1812
+416|Twin Tier|Lichen|Reticle|Trackball|Periscope|Thruster Pods|Banner|Nightfall|Fully Loaded|65
+417|Console|Lichen|Squint|None|None|None|None|Searchlight|Bare|18
+418|Handheld|Obsidian|Keyhole|Compact Keyboard|Ice Crystals|Solar Wings|None|Lattice|Heavy|1017
+419|Radio|Ember|Slant|Joystick|None|Plug Cable|None|Searchlight|Standard|2135
+420|Side Lights|Lichen|Pulse|Datasette|None|Wrench Arm|None|Mosaic|Standard|2182
+421|Side Car|Obsidian|Visor|Fader Deck|Rabbit Ears|Thruster Pods|None|Searchlight|Heavy|786
+422|Tower|Abyss|Shutter|Floppy Drive|Work Lamp|Solar Wings|None|Mosaic|Heavy|476
+423|Handheld|Crimson|Beans|Joystick|None|None|None|Searchlight|Light|231
+424|Widescreen|Crimson|Seeker|Split Keyboard|Propeller|None|None|Downpour|Standard|1717
+425|Tower|Glacier|Flatline|Numpad|None|Solar Wings|None|Lattice|Standard|2010
+426|Tape Deck|Moss|Dots|Trackball|Mushrooms|Plug Cable|None|Slipstream|Heavy|485
+427|Codex Header|Crimson|Tangle|Numpad|None|Sword and Shield|None|Nightfall|Standard|1894
+428|Framed|Lichen|Visor|Compact Keyboard|None|None|Sword|Daybreak|Standard|1995
+429|Brackets|Frost|Dashes|Joystick|None|None|None|Daybreak|Light|289
+430|Console|Frost|Visor|Datasette|None|None|None|Mosaic|Light|323
+431|Codex Header|Sage|Glitch|Trackball|Beacon|Sword and Shield|None|Lattice|Heavy|566
+432|Side Car|Camo|Blocks|Codex Slate|None|Wrench Arm|None|Slipstream|Standard|2127
+433|Porthole|Pewter|Blocks|Joystick|Sonic Emitter|Wrench Arm|None|Mosaic|Heavy|955
+434|Side Lights|Ash|Lens|Compact Keyboard|None|None|Coolant Tank|Downpour|Standard|2053
+435|Widescreen|Deep Teal|Snowflake|Classic Keyboard|Ice Crystals|Thruster Pods|None|Daybreak|Heavy|469
+436|Tower|Moss|Beans|Fader Deck|None|Solar Wings|None|Lattice|Standard|1775
+437|Radio|Rust|Dots|Dial Deck|Propeller|None|None|Nightfall|Standard|1117
+438|Brackets|Rust|Beans|Classic Keyboard|None|Solar Wings|None|Downpour|Standard|1723
+439|Widescreen|Obsidian|Dots|None|None|None|None|Downpour|Bare|30
+440|Codex Header|Ember|Frown|Numpad|Heat Sink|Thruster Pods|None|Slipstream|Heavy|721
+441|Tape Deck|Ash|Beans|Joystick|None|None|None|Slipstream|Light|347
+442|Twin Tier|Glacier|Sigil|Numpad|Ice Crystals|Wrench Arm|None|Daybreak|Heavy|700
+443|Widescreen|Bone|Snowflake|Trackball|None|None|Signal Mast|Slipstream|Standard|1179
+444|Hood|Lichen|Squint|Floppy Drive|Dish|Wrench Arm|None|Nightfall|Heavy|692
+445|Hood|Dune|Squint|Gamepad|Beacon|None|None|Slipstream|Standard|1261
+446|Widescreen|Spore|Pulse|Fader Deck|None|None|Battery Pack|Crossroads|Standard|1539
+447|Codex Header|Mauve|Lens|Numpad|Beacon|None|None|Nightfall|Standard|1736
+448|Handheld|Frost|Beans|Datasette|None|Robot Arms|None|Mosaic|Standard|1988
+449|Twin Tier|Sage|Dots|Split Keyboard|None|None|None|Mosaic|Light|260
+450|Classic|Frost|Flatline|Codex Slate|None|Speakers|None|Slipstream|Standard|1934
+451|Console|Obsidian|Blocks|Mouse|None|Plug Cable|None|Daybreak|Standard|1792
+452|Brackets|Frost|Dots|Fader Deck|None|None|Signal Mast|Daybreak|Standard|1118
+453|Brackets|Sage|Keyhole|Gamepad|None|Solar Wings|None|Nightfall|Standard|1402
+454|Brackets|Ember|Flatline|Split Keyboard|None|None|None|Searchlight|Light|182
+455|Radio|Ember|Flatline|Mouse|None|None|None|Downpour|Light|302
+456|Side Lights|Slate|Dots|Floppy Drive|Periscope|Thruster Pods|None|Crossroads|Heavy|992
+457|Porthole|Deep Teal|Flatline|Fader Deck|Work Lamp|Speakers|None|Slipstream|Heavy|652
+458|Console|Slate|Curious|Mouse|Sonic Emitter|None|None|Crossroads|Standard|1167
+459|Handheld|Abyss|Curious|Split Keyboard|Work Lamp|None|None|Slipstream|Standard|1236
+460|Tower|Tide|Seeker|Mouse|Mushrooms|None|None|Searchlight|Standard|1837
+461|Widescreen|Rust|Scowl|Trackball|None|Thruster Pods|None|Lattice|Standard|1493
+462|Codex Header|Pewter|Slit|Trackball|None|None|None|Searchlight|Light|169
+463|Tower|Moss|Slant|Joystick|Heat Sink|Solar Wings|None|Nightfall|Heavy|892
+464|Tower|Ember|Wide|Split Keyboard|None|None|Exhaust Pipes|Searchlight|Standard|1833
+465|Framed|Dune|Wary|Classic Keyboard|None|Plug Cable|None|Nightfall|Standard|1983
+466|Tower|Ember|Happy|Keyboard|Rabbit Ears|Robot Arms|None|Downpour|Heavy|772
+467|Side Car|Spore|Glitch|Compact Keyboard|Dish|Plug Cable|None|Slipstream|Heavy|765
+468|Widescreen|Camo|Reticle|Trackball|Heat Sink|None|None|Daybreak|Standard|1646
+469|Widescreen|Frost|Peek|Dial Deck|Ice Crystals|None|None|Mosaic|Standard|1351
+470|Hood|Spore|Mycelia|Numpad|Propeller|Plug Cable|None|Lattice|Heavy|675
+471|Tower|Glacier|Seeker|Gamepad|Sonic Emitter|Thruster Pods|None|Lattice|Heavy|935
+472|Codex Header|Pewter|Reticle|Split Keyboard|None|Wrench Arm|None|Searchlight|Standard|2188
+473|Tape Deck|Camo|Scowl|Gamepad|Work Lamp|Plug Cable|None|Nightfall|Heavy|415
+474|Classic|Slate|Steady|Compact Keyboard|None|None|None|Searchlight|Light|157
+475|Twin Tier|Moss|Blocks|Keyboard|None|None|Coolant Tank|Daybreak|Standard|1160
+476|Twin Tier|Tide|Wary|Codex Slate|None|Plug Cable|None|Crossroads|Standard|1829
+477|Hood|Frost|Sigil|Fader Deck|None|None|Battery Pack|Crossroads|Standard|1396
+478|Tower|Frost|Pulse|Floppy Drive|Beacon|Plug Cable|None|Searchlight|Heavy|764
+479|Handheld|Camo|Scowl|Compact Keyboard|Ice Crystals|Robot Arms|None|Slipstream|Heavy|877
+480|Codex Header|Spore|Dashes|Compact Keyboard|None|None|None|Searchlight|Light|366
+481|Widescreen|Slate|Theorem|Mouse|None|None|Exhaust Pipes|Daybreak|Standard|1146
+482|Framed|Slate|Seeker|Numpad|None|Wrench Arm|None|Lattice|Standard|1991
+483|Widescreen|Slate|Steady|Classic Keyboard|None|None|None|Mosaic|Light|267
+484|Tape Deck|Frost|Seeker|Keyboard|Ice Crystals|None|None|Lattice|Standard|2017
+485|Tower|Pewter|Lidded|Datasette|None|None|Exhaust Pipes|Slipstream|Standard|1839
+486|Porthole|Ash|Curious|Gamepad|Propeller|Speakers|None|Lattice|Heavy|793
+487|Console|Camo|Visor|Classic Keyboard|Ice Crystals|None|None|Nightfall|Standard|1754
+488|Classic|Bone|Wary|Fader Deck|Work Lamp|None|None|Nightfall|Standard|1243
+489|Codex Header|Crimson|Snowflake|Datasette|None|Sword and Shield|None|Nightfall|Standard|1909
+490|Side Lights|Spore|Blocks|Dial Deck|Ice Crystals|Wrench Arm|None|Lattice|Heavy|820
+491|Framed|Obsidian|Curious|Mouse|None|Sword and Shield|None|Searchlight|Standard|1198
+492|Tape Deck|Abyss|Slit|Codex Slate|Mushrooms|None|None|Daybreak|Standard|1911
+493|Console|Dune|Beans|Trackball|Heat Sink|Plug Cable|None|Downpour|Heavy|454
+494|Split Shell|Obsidian|Curious|Fader Deck|None|None|None|Downpour|Light|146
+495|Radio|Deep Teal|Reticle|Floppy Drive|Beacon|None|None|Nightfall|Standard|1916
+496|Classic|Tide|Flatline|Dial Deck|Work Lamp|None|None|Mosaic|Standard|1698
+497|Widescreen|Obsidian|Keyhole|Keyboard|Ice Crystals|Plug Cable|None|Daybreak|Heavy|921
+498|Twin Tier|Abyss|Snowflake|Mouse|Periscope|Solar Wings|Banner|Daybreak|Fully Loaded|70
+499|Split Shell|Frost|Theorem|Fader Deck|Beacon|None|None|Slipstream|Standard|1169
+500|Codex Header|Abyss|Shutter|Trackball|None|Sword and Shield|None|Daybreak|Standard|2147
+501|Side Lights|Camo|Tangle|Keyboard|None|None|None|Slipstream|Light|115
+502|Radio|Dune|Keyhole|Datasette|Mushrooms|Wrench Arm|None|Crossroads|Heavy|551
+503|Hood|Ash|Squint|Trackball|Heat Sink|None|None|Mosaic|Standard|1556
+504|Console|Ash|Slant|Compact Keyboard|Heat Sink|Plug Cable|None|Nightfall|Heavy|414
+505|Widescreen|Rust|Lens|Keyboard|Ice Crystals|Thruster Pods|None|Downpour|Heavy|475
+506|Brackets|Spore|Wide|Gamepad|Sonic Emitter|None|None|Mosaic|Standard|1908
+507|Handheld|Bone|Dome|Split Keyboard|None|None|Coolant Tank|Downpour|Standard|1201
+508|Brackets|Slate|Snowflake|Trackball|Propeller|None|None|Lattice|Standard|1219
+509|Side Lights|Spore|Keyhole|Compact Keyboard|None|Solar Wings|None|Mosaic|Standard|1569
+510|Widescreen|Slate|Shutter|Mouse|Heat Sink|None|None|Downpour|Standard|1471
+511|Classic|Tide|Pulse|Joystick|Mushrooms|Solar Wings|None|Nightfall|Heavy|850
+512|Codex Header|Deep Teal|Snowflake|Mouse|Heat Sink|None|None|Mosaic|Standard|1516
+513|Classic|Tide|Sigil|Trackball|Ice Crystals|None|None|Crossroads|Standard|1492
+514|Hood|Pewter|Steady|Numpad|None|Plug Cable|None|Downpour|Standard|2161
+515|Hood|Crimson|Scowl|Split Keyboard|Periscope|Sword and Shield|None|Nightfall|Heavy|701
+516|Side Lights|Glacier|Beans|Joystick|None|Speakers|None|Mosaic|Standard|1933
+517|Tape Deck|Mauve|Squint|Joystick|Mushrooms|None|None|Mosaic|Standard|1488
+518|Twin Tier|Rust|Theorem|Classic Keyboard|Sonic Emitter|Plug Cable|None|Lattice|Heavy|990
+519|Handheld|Spore|Sigil|Split Keyboard|Sonic Emitter|Wrench Arm|None|Searchlight|Heavy|832
+520|Framed|Glacier|Lens|Mouse|Heat Sink|Sword and Shield|None|Slipstream|Heavy|550
+521|Widescreen|Mauve|Beans|Numpad|Ice Crystals|None|None|Slipstream|Standard|1294
+522|Radio|Pewter|Dots|Numpad|Sonic Emitter|None|None|Downpour|Standard|1297
+523|Tape Deck|Glacier|Pulse|Compact Keyboard|Rabbit Ears|Plug Cable|None|Searchlight|Heavy|417
+524|Codex Header|Ash|Dashes|Fader Deck|None|Thruster Pods|None|Mosaic|Standard|2193
+525|Brackets|Deep Teal|Reticle|Numpad|None|Thruster Pods|None|Lattice|Standard|2098
+526|Tower|Glacier|Reticle|Mouse|Heat Sink|Sword and Shield|None|Downpour|Heavy|794
+527|Hood|Deep Teal|Wary|Floppy Drive|Propeller|Robot Arms|None|Mosaic|Heavy|735
+528|Console|Moss|Dome|Datasette|Rabbit Ears|Wrench Arm|None|Nightfall|Heavy|493
+529|Console|Lichen|Glitch|Compact Keyboard|Sonic Emitter|None|None|Nightfall|Standard|1929
+530|Brackets|Ash|Dome|Fader Deck|None|None|None|Slipstream|Light|244
+531|Codex Header|Abyss|Orb|Joystick|None|Robot Arms|None|Lattice|Standard|1659
+532|Radio|Mauve|Wide|Trackball|None|None|None|Downpour|Light|252
+533|Radio|Glacier|Dome|Joystick|None|None|Signal Mast|Crossroads|Standard|1536
+534|Split Shell|Camo|Keyhole|Dial Deck|Periscope|Speakers|Banner|Mosaic|Fully Loaded|56
+535|Widescreen|Moss|Scowl|Floppy Drive|None|None|None|Mosaic|Light|212
+536|Classic|Camo|Curious|Joystick|Propeller|Robot Arms|None|Nightfall|Heavy|1038
+537|Brackets|Moss|Mycelia|Dial Deck|None|None|None|Nightfall|Light|164
+538|Codex Header|Frost|Lens|Classic Keyboard|None|Solar Wings|None|Mosaic|Standard|2186
+539|Handheld|Frost|Theorem|Numpad|None|None|Signal Mast|Mosaic|Standard|1229
+540|Radio|Lichen|Snowflake|Split Keyboard|None|None|None|Slipstream|Light|315
+541|Widescreen|Abyss|Slant|Dial Deck|Heat Sink|Thruster Pods|None|Searchlight|Heavy|516
+542|Brackets|Slate|Squint|Trackball|Propeller|Solar Wings|None|Crossroads|Heavy|902
+543|Framed|Rust|Slit|Keyboard|None|None|None|Slipstream|Light|201
+544|Codex Header|Camo|Steady|Split Keyboard|None|Thruster Pods|None|Nightfall|Standard|2022
+545|Console|Glacier|Keyhole|Compact Keyboard|None|None|None|Downpour|Light|155
+546|Widescreen|Bone|Visor|Codex Slate|Ice Crystals|Plug Cable|None|Downpour|Heavy|739
+547|Classic|Camo|Lens|Codex Slate|Ice Crystals|Solar Wings|None|Searchlight|Heavy|518
+548|Classic|Dune|Beans|Keyboard|Ice Crystals|Solar Wings|None|Downpour|Heavy|682
+549|Side Car|Mauve|Blocks|Datasette|None|None|Exhaust Pipes|Searchlight|Standard|1364
+550|Side Car|Glacier|Dome|Numpad|Ice Crystals|None|None|Crossroads|Standard|1500
+551|Twin Tier|Ash|Slit|Datasette|None|None|Exhaust Pipes|Downpour|Standard|1415
+552|Split Shell|Rust|Shutter|Classic Keyboard|Periscope|Robot Arms|Banner|Slipstream|Fully Loaded|37
+553|Split Shell|Dune|Shutter|Classic Keyboard|None|None|None|Searchlight|Light|112
+554|Framed|Crimson|Pulse|Classic Keyboard|Beacon|None|None|Crossroads|Standard|1638
+555|Tower|Rust|Glitch|Mouse|Beacon|Robot Arms|None|Searchlight|Heavy|961
+556|Hood|Bone|Happy|Floppy Drive|Rabbit Ears|Speakers|None|Downpour|Heavy|1037
+557|Side Lights|Ember|Steady|None|None|None|None|Searchlight|Bare|10
+558|Side Car|Rust|Reticle|Gamepad|None|Thruster Pods|None|Downpour|Standard|1850
+559|Tape Deck|Bone|Theorem|Compact Keyboard|None|None|None|Lattice|Light|194
+560|Split Shell|Deep Teal|Theorem|Trackball|Periscope|Thruster Pods|Banner|Searchlight|Fully Loaded|44
+561|Classic|Glacier|Steady|Datasette|None|Thruster Pods|None|Mosaic|Standard|2007
+562|Brackets|Obsidian|Wide|Fader Deck|Dish|Thruster Pods|None|Nightfall|Heavy|576
+563|Codex Header|Tide|Shutter|Compact Keyboard|Beacon|Thruster Pods|None|Nightfall|Heavy|446
+564|Radio|Frost|Wide|Datasette|None|None|Signal Mast|Slipstream|Standard|1944
+565|Codex Header|Ash|Blocks|Keyboard|None|Speakers|None|Downpour|Standard|2160
+566|Hood|Pewter|Keyhole|Split Keyboard|None|Plug Cable|None|Slipstream|Standard|1940
+567|Porthole|Camo|Lens|Fader Deck|None|Thruster Pods|None|Searchlight|Standard|2155
+568|Classic|Ash|Seeker|Keyboard|Propeller|Plug Cable|None|Slipstream|Heavy|732
+569|Console|Deep Teal|Tangle|Split Keyboard|None|None|None|Slipstream|Light|342
+570|Porthole|Ember|Reticle|Trackball|None|Speakers|None|Crossroads|Standard|1956
+571|Hood|Ember|Slit|Split Keyboard|None|Thruster Pods|None|Nightfall|Standard|1870
+572|Console|Ember|Visor|Dial Deck|Beacon|None|None|Slipstream|Standard|1858
+573|Tape Deck|Lichen|Shutter|Floppy Drive|Dish|None|None|Searchlight|Standard|2195
+574|Codex Header|Mauve|Flatline|Split Keyboard|Work Lamp|Wrench Arm|None|Downpour|Heavy|729
+575|Radio|Camo|Wary|Numpad|None|None|Tesla Coil|Crossroads|Standard|1433
+576|Classic|Moss|Tangle|Split Keyboard|None|Thruster Pods|None|Crossroads|Standard|1587
+577|Twin Tier|Bone|Glitch|Trackball|Periscope|Thruster Pods|Banner|Lattice|Fully Loaded|71
+578|Widescreen|Moss|Keyhole|Gamepad|Rabbit Ears|None|None|Lattice|Standard|1182
+579|Framed|Sage|Squint|Classic Keyboard|Dish|None|None|Searchlight|Standard|1279
+580|Console|Abyss|Lidded|Trackball|Ice Crystals|None|None|Mosaic|Standard|1770
+581|Split Shell|Crimson|Squint|Codex Slate|Dish|Robot Arms|None|Daybreak|Heavy|513
+582|Twin Tier|Glacier|Steady|Split Keyboard|Work Lamp|None|None|Downpour|Standard|1352
+583|Twin Tier|Tide|Lens|Split Keyboard|Sonic Emitter|None|None|Nightfall|Standard|1728
+584|Radio|Mauve|Tangle|Floppy Drive|Propeller|None|None|Searchlight|Standard|1379
+585|Side Car|Ember|Happy|Numpad|Ice Crystals|Plug Cable|None|Nightfall|Heavy|678
+586|Side Car|Abyss|Scowl|Dial Deck|None|None|None|Downpour|Light|295
+587|Hood|Glacier|Flatline|Mouse|None|Robot Arms|None|Nightfall|Standard|1923
+588|Console|Dune|Pulse|Numpad|None|Wrench Arm|None|Daybreak|Standard|2152
+589|Widescreen|Ash|Visor|Gamepad|None|None|Battery Pack|Lattice|Standard|1803
+590|Handheld|Frost|Lidded|Codex Slate|Mushrooms|Wrench Arm|None|Crossroads|Heavy|676
+591|Tower|Frost|Steady|Numpad|Rabbit Ears|Solar Wings|None|Downpour|Heavy|635
+592|Hood|Tide|Tangle|Split Keyboard|Propeller|None|None|Downpour|Standard|1582
+593|Radio|Ash|Seeker|Keyboard|Mushrooms|None|None|Crossroads|Standard|2133
+594|Widescreen|Bone|Glitch|Split Keyboard|None|None|Signal Mast|Mosaic|Standard|1177
+595|Side Lights|Spore|Flatline|Gamepad|Rabbit Ears|Wrench Arm|None|Mosaic|Heavy|897
+596|Handheld|Obsidian|Orb|Dial Deck|None|Solar Wings|None|Slipstream|Standard|1176
+597|Radio|Moss|Slit|Trackball|Ice Crystals|Wrench Arm|None|Searchlight|Heavy|553
+598|Framed|Dune|Orb|Gamepad|Mushrooms|None|None|Downpour|Standard|1217
+599|Split Shell|Lichen|Wide|Gamepad|None|Plug Cable|None|Searchlight|Standard|2172
+600|Brackets|Lichen|Lens|Datasette|Sonic Emitter|Robot Arms|None|Searchlight|Heavy|416
+601|Tower|Glacier|Seeker|Codex Slate|Propeller|Solar Wings|None|Slipstream|Heavy|862
+602|Widescreen|Pewter|Steady|Split Keyboard|Work Lamp|None|None|Searchlight|Standard|1920
+603|Radio|Moss|Slant|Fader Deck|None|None|Sword|Mosaic|Standard|1511
+604|Handheld|Rust|Frown|None|None|None|None|Downpour|Bare|23
+605|Framed|Dune|Keyhole|Mouse|None|Thruster Pods|None|Crossroads|Standard|1551
+606|Porthole|Camo|Frown|Datasette|Beacon|Robot Arms|None|Mosaic|Heavy|1023
+607|Brackets|Mauve|Slant|Fader Deck|Work Lamp|Solar Wings|None|Lattice|Heavy|920
+608|Classic|Rust|Tangle|Split Keyboard|Sonic Emitter|Thruster Pods|None|Daybreak|Heavy|976
+609|Split Shell|Mauve|Dashes|Trackball|Periscope|Plug Cable|Banner|Downpour|Fully Loaded|74
+610|Console|Frost|Happy|Fader Deck|Ice Crystals|None|None|Downpour|Standard|1693
+611|Tape Deck|Crimson|Steady|Floppy Drive|Heat Sink|None|None|Daybreak|Standard|1863
+612|Classic|Abyss|Blocks|None|None|None|None|Crossroads|Bare|25
+613|Codex Header|Slate|Dome|Compact Keyboard|Beacon|Speakers|None|Downpour|Heavy|480
+614|Brackets|Camo|Lens|Classic Keyboard|Rabbit Ears|Speakers|None|Searchlight|Heavy|558
+615|Tape Deck|Spore|Dots|Fader Deck|None|None|None|Lattice|Light|382
+616|Split Shell|Crimson|Tangle|Keyboard|None|None|Sword|Crossroads|Standard|1213
+617|Widescreen|Lichen|Blocks|Trackball|None|None|Sword|Lattice|Standard|1925
+618|Tower|Ember|Flatline|Trackball|None|Thruster Pods|None|Mosaic|Standard|1918
+619|Tower|Crimson|Squint|Classic Keyboard|Propeller|Sword and Shield|None|Mosaic|Heavy|774
+620|Framed|Sage|Squint|Trackball|None|None|Sword|Slipstream|Standard|1263
+621|Handheld|Spore|Flatline|Dial Deck|None|Speakers|None|Daybreak|Standard|1914
+622|Framed|Sage|Wary|Numpad|None|None|Sword|Mosaic|Standard|1347
+623|Twin Tier|Crimson|Dome|Classic Keyboard|None|None|None|Crossroads|Light|225
+624|Radio|Crimson|Beans|Dial Deck|None|None|Signal Mast|Lattice|Standard|1485
+625|Widescreen|Mauve|Frown|Datasette|None|None|Exhaust Pipes|Downpour|Standard|1138
+626|Tower|Slate|Wary|Codex Slate|Rabbit Ears|Solar Wings|None|Lattice|Heavy|815
+627|Hood|Mauve|Reticle|Dial Deck|Mushrooms|None|None|Searchlight|Standard|1380
+628|Widescreen|Glacier|Tangle|Codex Slate|Ice Crystals|Thruster Pods|None|Slipstream|Heavy|716
+629|Tower|Deep Teal|Curious|Dial Deck|None|None|Sword|Downpour|Standard|1283
+630|Widescreen|Dune|Lidded|Numpad|None|Sword and Shield|None|Daybreak|Standard|2050
+631|Framed|Crimson|Sigil|Classic Keyboard|Beacon|Wrench Arm|None|Nightfall|Heavy|623
+632|Handheld|Abyss|Wary|Split Keyboard|Periscope|Robot Arms|None|Slipstream|Heavy|588
+633|Handheld|Slate|Pulse|Keyboard|Beacon|Robot Arms|None|Mosaic|Heavy|864
+634|Radio|Rust|Flatline|Fader Deck|Ice Crystals|Wrench Arm|None|Searchlight|Heavy|467
+635|Tower|Mauve|Dashes|Fader Deck|None|None|Coolant Tank|Crossroads|Standard|1401
+636|Porthole|Tide|Snowflake|Mouse|Mushrooms|Plug Cable|None|Mosaic|Heavy|780
+637|Classic|Deep Teal|Frown|Mouse|Work Lamp|Sword and Shield|None|Crossroads|Heavy|1012
+638|Split Shell|Glacier|Slit|Gamepad|None|None|Tesla Coil|Mosaic|Standard|1174
+639|Twin Tier|Crimson|Curious|Codex Slate|None|None|None|Downpour|Light|161
+640|Classic|Slate|Keyhole|Gamepad|None|Plug Cable|None|Slipstream|Standard|1371
+641|Brackets|Lichen|Sigil|Floppy Drive|None|Plug Cable|None|Slipstream|Standard|2185
+642|Twin Tier|Glacier|Pulse|Fader Deck|None|None|None|Lattice|Light|88
+643|Twin Tier|Slate|Happy|Classic Keyboard|Dish|None|None|Slipstream|Standard|1132
+644|Brackets|Slate|Dots|Codex Slate|Mushrooms|Speakers|None|Searchlight|Heavy|956
+645|Side Car|Pewter|Lidded|Split Keyboard|Sonic Emitter|None|None|Mosaic|Standard|1958
+646|Radio|Camo|Lens|Mouse|Rabbit Ears|None|None|Nightfall|Standard|1994
+647|Framed|Ember|Squint|Numpad|Periscope|Sword and Shield|None|Mosaic|Heavy|709
+648|Side Lights|Dune|Seeker|Dial Deck|Dish|None|None|Crossroads|Standard|1555
+649|Widescreen|Obsidian|Wary|Compact Keyboard|Dish|Plug Cable|None|Lattice|Heavy|993
+650|Side Car|Spore|Dome|Mouse|None|None|Tesla Coil|Downpour|Standard|1346
+651|Codex Header|Rust|Wide|Codex Slate|None|None|None|Crossroads|Light|310
+652|Split Shell|Spore|Dots|Classic Keyboard|Periscope|Solar Wings|Banner|Crossroads|Fully Loaded|54
+653|Framed|Camo|Glitch|None|None|None|None|Mosaic|Bare|2
+654|Radio|Slate|Shutter|Keyboard|None|None|None|Crossroads|Light|350
+655|Side Lights|Sage|Tangle|Joystick|Mushrooms|Speakers|None|Lattice|Heavy|783
+656|Brackets|Ash|Steady|Codex Slate|Propeller|Wrench Arm|None|Daybreak|Heavy|589
+657|Brackets|Mauve|Frown|Dial Deck|None|None|Signal Mast|Crossroads|Standard|1112
+658|Side Lights|Slate|Curious|Floppy Drive|Heat Sink|Robot Arms|None|Slipstream|Heavy|1010
+659|Brackets|Slate|Orb|Datasette|None|Sword and Shield|None|Daybreak|Standard|1342
+660|Side Car|Pewter|Flatline|Numpad|None|None|Battery Pack|Crossroads|Standard|1687
+661|Side Car|Lichen|Happy|Classic Keyboard|None|Thruster Pods|None|Slipstream|Standard|2164
+662|Framed|Mauve|Theorem|Dial Deck|Propeller|Plug Cable|None|Crossroads|Heavy|1070
+663|Console|Mauve|Seeker|Codex Slate|None|Wrench Arm|None|Downpour|Standard|2142
+664|Split Shell|Crimson|Snowflake|Compact Keyboard|Periscope|Robot Arms|Banner|Crossroads|Fully Loaded|83
+665|Console|Moss|Lens|Trackball|Mushrooms|None|None|Downpour|Standard|1913
+666|Hood|Lichen|Slant|Joystick|Rabbit Ears|Plug Cable|None|Daybreak|Heavy|571
+667|Console|Abyss|Shutter|Joystick|None|None|Coolant Tank|Crossroads|Standard|1998
+668|Console|Camo|Lidded|Compact Keyboard|Beacon|None|None|Lattice|Standard|1878
+669|Porthole|Spore|Glitch|Floppy Drive|Heat Sink|None|None|Slipstream|Standard|1378
+670|Porthole|Bone|Lidded|Classic Keyboard|None|Speakers|None|Daybreak|Standard|1761
+671|Tape Deck|Spore|Frown|Joystick|Beacon|None|None|Slipstream|Standard|1515
+672|Radio|Spore|Peek|Mouse|Mushrooms|None|None|Slipstream|Standard|1509
+673|Widescreen|Mauve|Peek|Trackball|Ice Crystals|Thruster Pods|None|Daybreak|Heavy|880
+674|Hood|Camo|Dashes|Joystick|Work Lamp|None|None|Downpour|Standard|1740
+675|Codex Header|Spore|Tangle|Floppy Drive|None|Wrench Arm|None|Lattice|Standard|2044
+676|Framed|Camo|Peek|Trackball|Rabbit Ears|Sword and Shield|None|Mosaic|Heavy|841
+677|Twin Tier|Crimson|Dome|Compact Keyboard|Periscope|Sword and Shield|Banner|Slipstream|Fully Loaded|76
+678|Side Lights|Sage|Wide|Classic Keyboard|None|None|Battery Pack|Slipstream|Standard|1461
+679|Widescreen|Bone|Orb|Dial Deck|Beacon|Sword and Shield|None|Lattice|Heavy|1074
+680|Side Car|Pewter|Mycelia|Dial Deck|None|Sword and Shield|None|Nightfall|Standard|2215
+681|Handheld|Abyss|Lens|Mouse|Mushrooms|None|None|Daybreak|Standard|1881
+682|Brackets|Rust|Seeker|Codex Slate|Rabbit Ears|Solar Wings|None|Crossroads|Heavy|854
+683|Hood|Abyss|Dome|Mouse|Mushrooms|None|None|Lattice|Standard|1400
+684|Tower|Pewter|Lens|Keyboard|Sonic Emitter|Wrench Arm|None|Slipstream|Heavy|631
+685|Handheld|Mauve|Pulse|Datasette|Beacon|Thruster Pods|None|Mosaic|Heavy|1045
+686|Handheld|Camo|Seeker|Compact Keyboard|None|Wrench Arm|None|Mosaic|Standard|2110
+687|Framed|Crimson|Frown|Dial Deck|Work Lamp|Plug Cable|None|Lattice|Heavy|795
+688|Hood|Dune|Pulse|Keyboard|None|Speakers|None|Daybreak|Standard|1886
+689|Codex Header|Moss|Slant|Split Keyboard|None|None|None|Slipstream|Light|337
+690|Tape Deck|Abyss|Slit|Keyboard|None|None|Sword|Lattice|Standard|1960
+691|Hood|Ember|Dome|Fader Deck|Sonic Emitter|Speakers|None|Searchlight|Heavy|628
+692|Twin Tier|Rust|Pulse|Codex Slate|Propeller|Sword and Shield|None|Searchlight|Heavy|745
+693|Side Car|Glacier|Dots|Datasette|None|None|Tesla Coil|Crossroads|Standard|1140
+694|Split Shell|Bone|Theorem|Split Keyboard|None|None|Signal Mast|Nightfall|Standard|1102
+695|Twin Tier|Ember|Visor|Codex Slate|None|Sword and Shield|None|Nightfall|Standard|1734
+696|Hood|Pewter|Seeker|Dial Deck|Heat Sink|Speakers|None|Downpour|Heavy|844
+697|Brackets|Slate|Glitch|Joystick|Work Lamp|Robot Arms|None|Nightfall|Heavy|855
+698|Console|Sage|Steady|Classic Keyboard|None|Wrench Arm|None|Lattice|Standard|2122
+699|Handheld|Crimson|Blocks|Mouse|None|Robot Arms|None|Mosaic|Standard|1813
+700|Widescreen|Lichen|Flatline|Floppy Drive|None|None|None|Lattice|Light|165
+701|Tower|Sage|Peek|Keyboard|None|None|Coolant Tank|Crossroads|Standard|1230
+702|Framed|Tide|Flatline|Keyboard|Propeller|None|None|Mosaic|Standard|1835
+703|Handheld|Mauve|Slit|Dial Deck|Rabbit Ears|Thruster Pods|None|Searchlight|Heavy|1036
+704|Radio|Spore|Snowflake|Split Keyboard|Sonic Emitter|Wrench Arm|None|Daybreak|Heavy|424
+705|Radio|Pewter|Dome|Keyboard|Periscope|Plug Cable|None|Mosaic|Heavy|433
+706|Console|Mauve|Beans|Numpad|None|Plug Cable|None|Lattice|Standard|2062
+707|Tape Deck|Moss|Curious|Gamepad|Work Lamp|None|None|Lattice|Standard|1291
+708|Twin Tier|Sage|Lidded|Dial Deck|Beacon|Thruster Pods|None|Mosaic|Heavy|530
+709|Brackets|Abyss|Theorem|Fader Deck|None|None|Battery Pack|Nightfall|Standard|1239
+710|Codex Header|Spore|Shutter|Mouse|Work Lamp|None|None|Nightfall|Standard|1871
+711|Classic|Obsidian|Wary|Compact Keyboard|Ice Crystals|Sword and Shield|None|Crossroads|Heavy|1028
+712|Framed|Glacier|Shutter|Gamepad|None|None|None|Searchlight|Light|111
+713|Side Lights|Crimson|Visor|None|None|None|None|Lattice|Bare|8
+714|Radio|Obsidian|Theorem|Joystick|Periscope|Plug Cable|None|Lattice|Heavy|771
+715|Hood|Frost|Lidded|Floppy Drive|Dish|Robot Arms|None|Nightfall|Heavy|633
+716|Split Shell|Glacier|Slant|Datasette|Periscope|Thruster Pods|Banner|Mosaic|Fully Loaded|42
+717|Handheld|Sage|Lens|Joystick|None|None|Coolant Tank|Downpour|Standard|1637
+718|Handheld|Obsidian|Blocks|Numpad|None|None|None|Downpour|Light|139
+719|Tower|Deep Teal|Wide|Classic Keyboard|Rabbit Ears|None|None|Daybreak|Standard|1968
+720|Widescreen|Ash|Dots|Fader Deck|Ice Crystals|None|None|Mosaic|Standard|1248
+721|Twin Tier|Rust|Happy|Compact Keyboard|Periscope|Plug Cable|Banner|Slipstream|Fully Loaded|55
+722|Side Car|Lichen|Mycelia|Compact Keyboard|None|None|Signal Mast|Nightfall|Standard|2025
+723|Split Shell|Sage|Peek|Compact Keyboard|Heat Sink|Robot Arms|None|Crossroads|Heavy|572
+724|Framed|Moss|Happy|Trackball|None|None|Sword|Mosaic|Standard|1357
+725|Framed|Ash|Frown|Gamepad|Sonic Emitter|Thruster Pods|None|Downpour|Heavy|751
+726|Codex Header|Glacier|Slant|Joystick|None|Sword and Shield|None|Crossroads|Standard|2056
+727|Codex Header|Dune|Slit|Gamepad|Heat Sink|Speakers|None|Mosaic|Heavy|575
+728|Hood|Ash|Reticle|Trackball|None|None|Coolant Tank|Slipstream|Standard|1831
+729|Console|Tide|Dashes|Dial Deck|Ice Crystals|None|None|Searchlight|Standard|1966
+730|Side Lights|Slate|Sigil|Joystick|None|None|None|Searchlight|Light|196
+731|Hood|Crimson|Mycelia|Numpad|None|Thruster Pods|None|Crossroads|Standard|2078
+732|Framed|Slate|Lidded|Classic Keyboard|Beacon|Plug Cable|None|Searchlight|Heavy|733
+733|Porthole|Lichen|Lens|Fader Deck|None|None|None|Slipstream|Light|106
+734|Tower|Slate|Tangle|Dial Deck|Sonic Emitter|Speakers|None|Downpour|Heavy|814
+735|Brackets|Lichen|Peek|Joystick|Beacon|None|None|Nightfall|Standard|1715
+736|Hood|Moss|Visor|Classic Keyboard|None|Speakers|None|Mosaic|Standard|1756
+737|Radio|Abyss|Blocks|Fader Deck|Mushrooms|None|None|Nightfall|Standard|1769
+738|Framed|Mauve|Orb|Compact Keyboard|Sonic Emitter|None|None|Mosaic|Standard|1162
+739|Classic|Obsidian|Orb|Trackball|Sonic Emitter|Wrench Arm|None|Slipstream|Heavy|1101
+740|Hood|Lichen|Blocks|Codex Slate|Rabbit Ears|None|None|Mosaic|Standard|1836
+741|Hood|Dune|Dashes|Compact Keyboard|None|None|Signal Mast|Searchlight|Standard|1365
+742|Side Lights|Glacier|Slant|Datasette|Work Lamp|None|None|Daybreak|Standard|1574
+743|Brackets|Lichen|Steady|Classic Keyboard|Rabbit Ears|None|None|Nightfall|Standard|1922
+744|Brackets|Pewter|Sigil|Datasette|None|Robot Arms|None|Crossroads|Standard|2119
+745|Tower|Slate|Tangle|Fader Deck|Sonic Emitter|None|None|Lattice|Standard|1245
+746|Framed|Glacier|Dashes|Compact Keyboard|None|None|Sword|Slipstream|Standard|1847
+747|Radio|Camo|Visor|Codex Slate|None|None|Tesla Coil|Searchlight|Standard|1613
+748|Classic|Frost|Snowflake|Split Keyboard|Propeller|None|None|Nightfall|Standard|1460
+749|Side Car|Crimson|Beans|Numpad|Work Lamp|None|None|Slipstream|Standard|1627
+750|Handheld|Bone|Dome|Datasette|None|None|None|Daybreak|Light|140
+751|Radio|Bone|Blocks|Trackball|None|None|Sword|Downpour|Standard|1429
+752|Tower|Mauve|Keyhole|Trackball|Sonic Emitter|Solar Wings|None|Nightfall|Heavy|1052
+753|Console|Bone|Wary|Split Keyboard|None|None|Battery Pack|Downpour|Standard|1278
+754|Framed|Moss|Lens|Fader Deck|None|None|None|Crossroads|Light|170
+755|Side Car|Glacier|Snowflake|Datasette|Work Lamp|Sword and Shield|None|Searchlight|Heavy|688
+756|Framed|Deep Teal|Dashes|Trackball|None|None|None|Mosaic|Light|300
+757|Side Lights|Pewter|Wide|Mouse|Ice Crystals|Speakers|None|Nightfall|Heavy|463
+758|Tape Deck|Deep Teal|Slant|Joystick|Heat Sink|None|None|Crossroads|Standard|1926
+759|Side Lights|Frost|Dome|Numpad|None|Robot Arms|None|Nightfall|Standard|1852
+760|Hood|Lichen|Tangle|Floppy Drive|None|Robot Arms|None|Crossroads|Standard|2079
+761|Split Shell|Ash|Squint|Split Keyboard|Sonic Emitter|Thruster Pods|None|Slipstream|Heavy|525
+762|Tape Deck|Sage|Shutter|Mouse|None|None|None|Mosaic|Light|384
+763|Hood|Slate|Beans|Joystick|None|Robot Arms|None|Daybreak|Standard|1621
+764|Framed|Abyss|Frown|Compact Keyboard|None|Plug Cable|None|Downpour|Standard|1730
+765|Hood|Mauve|Wary|Dial Deck|None|Solar Wings|None|Mosaic|Standard|1576
+766|Tower|Spore|Curious|Classic Keyboard|Beacon|Speakers|None|Daybreak|Heavy|919
+767|Split Shell|Abyss|Glitch|Floppy Drive|Beacon|Solar Wings|None|Slipstream|Heavy|527
+768|Twin Tier|Moss|Shutter|Joystick|Dish|Thruster Pods|None|Slipstream|Heavy|573
+769|Side Lights|Dune|Frown|Dial Deck|Periscope|Speakers|None|Mosaic|Heavy|1011
+770|Tower|Slate|Lens|Fader Deck|None|None|None|Searchlight|Light|166
+771|Framed|Spore|Frown|Fader Deck|Dish|Wrench Arm|None|Searchlight|Heavy|876
+772|Porthole|Ash|Wary|Codex Slate|None|None|None|Lattice|Light|187
+773|Hood|Dune|Happy|Floppy Drive|None|Solar Wings|None|Daybreak|Standard|1777
+774|Widescreen|Camo|Dome|Mouse|None|Thruster Pods|None|Searchlight|Standard|1876
+775|Tower|Dune|Wide|Datasette|Mushrooms|Speakers|None|Lattice|Heavy|451
+776|Twin Tier|Slate|Peek|Numpad|Periscope|Plug Cable|Banner|Downpour|Fully Loaded|78
+777|Handheld|Rust|Squint|Floppy Drive|None|None|None|Nightfall|Light|188
+778|Handheld|Sage|Tangle|Dial Deck|None|None|Battery Pack|Nightfall|Standard|1185
+779|Porthole|Slate|Happy|Keyboard|Dish|Robot Arms|None|Nightfall|Heavy|845
+780|Handheld|Lichen|Beans|Codex Slate|Periscope|Speakers|None|Downpour|Heavy|441
+781|Brackets|Glacier|Beans|Datasette|Periscope|Plug Cable|None|Crossroads|Heavy|781
+782|Classic|Bone|Tangle|Fader Deck|Propeller|Speakers|None|Daybreak|Heavy|1034
+783|Porthole|Ash|Sigil|Classic Keyboard|Rabbit Ears|None|None|Mosaic|Standard|1865
+784|Codex Header|Ash|Lidded|Trackball|Beacon|None|None|Mosaic|Standard|1967
+785|Hood|Obsidian|Beans|Compact Keyboard|Heat Sink|Wrench Arm|None|Daybreak|Heavy|997
+786|Tower|Ash|Shutter|Floppy Drive|None|None|Exhaust Pipes|Nightfall|Standard|2034
+787|Classic|Tide|Lidded|Keyboard|Beacon|None|None|Searchlight|Standard|1806
+788|Widescreen|Deep Teal|Flatline|Split Keyboard|Periscope|Wrench Arm|None|Lattice|Heavy|522
+789|Side Car|Pewter|Keyhole|Compact Keyboard|Propeller|Thruster Pods|None|Lattice|Heavy|889
+790|Side Lights|Bone|Lidded|Classic Keyboard|Dish|Sword and Shield|None|Slipstream|Heavy|1027
+791|Radio|Lichen|Slant|Keyboard|Dish|None|None|Mosaic|Standard|2019
+792|Porthole|Frost|Lidded|Numpad|None|None|Coolant Tank|Lattice|Standard|1642
+793|Codex Header|Glacier|Visor|Numpad|Work Lamp|Speakers|None|Searchlight|Heavy|557
+794|Twin Tier|Dune|Steady|Dial Deck|None|Sword and Shield|None|Lattice|Standard|1604
+795|Handheld|Frost|Peek|Dial Deck|None|None|None|Downpour|Light|214
+796|Side Lights|Mauve|Reticle|Fader Deck|Rabbit Ears|Plug Cable|None|Mosaic|Heavy|1000
+797|Brackets|Bone|Wary|Mouse|None|None|Sword|Searchlight|Standard|1257
+798|Side Lights|Lichen|Snowflake|Keyboard|Ice Crystals|None|None|Lattice|Standard|1640
+799|Console|Moss|Steady|Mouse|Periscope|Plug Cable|None|Crossroads|Heavy|512
+800|Handheld|Frost|Keyhole|Gamepad|None|None|Signal Mast|Slipstream|Standard|1192
+801|Side Lights|Frost|Visor|Codex Slate|None|Speakers|None|Slipstream|Standard|1982
+802|Tower|Obsidian|Lens|Fader Deck|Work Lamp|Solar Wings|None|Mosaic|Heavy|699
+803|Side Car|Rust|Pulse|Keyboard|Beacon|Sword and Shield|None|Mosaic|Heavy|835
+804|Hood|Tide|Snowflake|Codex Slate|Mushrooms|Sword and Shield|None|Downpour|Heavy|736
+805|Handheld|Abyss|Slant|Keyboard|None|None|None|Nightfall|Light|202
+806|Classic|Spore|Steady|Fader Deck|Mushrooms|Wrench Arm|None|Crossroads|Heavy|798
+807|Hood|Camo|Blocks|Fader Deck|Sonic Emitter|None|None|Lattice|Standard|1537
+808|Side Car|Ash|Scowl|Gamepad|Periscope|Wrench Arm|None|Slipstream|Heavy|563
+809|Framed|Slate|Lidded|Classic Keyboard|Work Lamp|None|None|Downpour|Standard|1481
+810|Side Lights|Mauve|Blocks|Classic Keyboard|Periscope|Solar Wings|None|Nightfall|Heavy|1026
+811|Hood|Tide|Dashes|Trackball|Heat Sink|Solar Wings|None|Lattice|Heavy|444
+812|Tape Deck|Glacier|Tangle|Numpad|Propeller|None|None|Nightfall|Standard|1874
+813|Tape Deck|Dune|Reticle|Trackball|None|None|None|Slipstream|Light|332
+814|Classic|Tide|Slant|Gamepad|Sonic Emitter|None|None|Lattice|Standard|1584
+815|Handheld|Glacier|Slant|Datasette|Rabbit Ears|Plug Cable|None|Lattice|Heavy|941
+816|Hood|Ember|Slant|Datasette|None|Solar Wings|None|Nightfall|Standard|1892
+817|Porthole|Abyss|Keyhole|Joystick|None|Thruster Pods|None|Slipstream|Standard|1672
+818|Brackets|Glacier|Blocks|Numpad|Propeller|None|None|Nightfall|Standard|1644
+819|Widescreen|Frost|Sigil|Mouse|None|None|None|Lattice|Light|211
+820|Console|Glacier|Tangle|Dial Deck|Rabbit Ears|Wrench Arm|None|Mosaic|Heavy|542
+821|Twin Tier|Abyss|Dots|Floppy Drive|Mushrooms|Plug Cable|None|Searchlight|Heavy|720
+822|Hood|Mauve|Flatline|Trackball|Periscope|Robot Arms|None|Slipstream|Heavy|942
+823|Classic|Ember|Keyhole|Trackball|None|None|None|Nightfall|Light|130
+824|Radio|Rust|Slant|Fader Deck|None|None|None|Crossroads|Light|334
+825|Brackets|Ash|Pulse|Floppy Drive|Sonic Emitter|None|None|Slipstream|Standard|1941
+826|Porthole|Frost|Lens|Split Keyboard|None|Plug Cable|None|Searchlight|Standard|2208
+827|Brackets|Spore|Slit|Classic Keyboard|None|Speakers|None|Searchlight|Standard|1932
+828|Radio|Frost|Visor|Classic Keyboard|Dish|Plug Cable|None|Downpour|Heavy|419
+829|Tower|Lichen|Pulse|Floppy Drive|None|Wrench Arm|None|Downpour|Standard|2199
+830|Side Car|Ash|Blocks|Classic Keyboard|None|None|None|Crossroads|Light|190
+831|Split Shell|Pewter|Scowl|Datasette|None|None|Tesla Coil|Daybreak|Standard|1190
+832|Tower|Bone|Theorem|Split Keyboard|Dish|Thruster Pods|None|Searchlight|Heavy|1083
+833|Tape Deck|Bone|Keyhole|Numpad|Rabbit Ears|Plug Cable|None|Slipstream|Heavy|458
+834|Handheld|Lichen|Snowflake|Mouse|Ice Crystals|None|None|Slipstream|Standard|1577
+835|Porthole|Obsidian|Shutter|Floppy Drive|None|Robot Arms|None|Slipstream|Standard|1673
+836|Tower|Dune|Sigil|Numpad|Propeller|None|None|Crossroads|Standard|1489
+837|Porthole|Pewter|Theorem|Numpad|None|Solar Wings|None|Daybreak|Standard|1889
+838|Twin Tier|Crimson|Reticle|Trackball|None|None|None|Searchlight|Light|138
+839|Classic|Pewter|Blocks|Codex Slate|None|None|Tesla Coil|Searchlight|Standard|1558
+840|Classic|Rust|Blocks|Dial Deck|None|None|Battery Pack|Daybreak|Standard|1189
+841|Handheld|Abyss|Glitch|Fader Deck|Rabbit Ears|None|None|Searchlight|Standard|1356
+842|Framed|Lichen|Seeker|Fader Deck|Work Lamp|None|None|Crossroads|Standard|2081
+843|Radio|Lichen|Peek|Classic Keyboard|None|None|None|Crossroads|Light|301
+844|Handheld|Pewter|Seeker|Fader Deck|None|None|Battery Pack|Nightfall|Standard|1703
+845|Console|Rust|Lidded|Mouse|Rabbit Ears|None|None|Downpour|Standard|1546
+846|Handheld|Rust|Squint|Trackball|Ice Crystals|Sword and Shield|None|Lattice|Heavy|954
+847|Twin Tier|Camo|Slit|Joystick|Propeller|None|None|Lattice|Standard|1254
+848|Radio|Frost|Steady|Numpad|Mushrooms|Wrench Arm|None|Nightfall|Heavy|431
+849|Codex Header|Mauve|Sigil|Gamepad|Work Lamp|None|None|Daybreak|Standard|1376
+850|Widescreen|Crimson|Dome|Split Keyboard|None|None|None|Slipstream|Light|357
+851|Side Car|Moss|Glitch|Classic Keyboard|Ice Crystals|Plug Cable|None|Crossroads|Heavy|873
+852|Hood|Rust|Shutter|Classic Keyboard|Rabbit Ears|Thruster Pods|None|Daybreak|Heavy|744
+853|Brackets|Obsidian|Lens|Split Keyboard|Sonic Emitter|Sword and Shield|None|Nightfall|Heavy|731
+854|Brackets|Sage|Lidded|Keyboard|None|None|Coolant Tank|Lattice|Standard|1441
+855|Radio|Abyss|Pulse|Compact Keyboard|None|None|None|Nightfall|Light|276
+856|Side Lights|Moss|Tangle|Compact Keyboard|Dish|Sword and Shield|None|Daybreak|Heavy|1059
+857|Widescreen|Rust|Dashes|Keyboard|Propeller|None|None|Searchlight|Standard|1554
+858|Split Shell|Frost|Orb|Gamepad|Rabbit Ears|Wrench Arm|None|Nightfall|Heavy|830
+859|Porthole|Lichen|Peek|Joystick|None|None|Coolant Tank|Searchlight|Standard|1602
+860|Widescreen|Slate|Theorem|Codex Slate|None|None|Tesla Coil|Slipstream|Standard|1139
+861|Console|Camo|Shutter|Floppy Drive|None|None|None|Downpour|Light|249
+862|Framed|Abyss|Slant|Trackball|None|Thruster Pods|None|Crossroads|Standard|1948
+863|Brackets|Slate|Theorem|Mouse|None|Plug Cable|None|Mosaic|Standard|1499
+864|Side Lights|Obsidian|Slit|Gamepad|Mushrooms|Solar Wings|None|Slipstream|Heavy|1049
+865|Radio|Moss|Tangle|Split Keyboard|Ice Crystals|None|None|Downpour|Standard|1316
+866|Tape Deck|Tide|Lens|Fader Deck|Ice Crystals|None|None|Slipstream|Standard|2154
+867|Codex Header|Dune|Curious|Trackball|Beacon|Wrench Arm|None|Crossroads|Heavy|827
+868|Framed|Dune|Theorem|Fader Deck|None|None|None|Mosaic|Light|206
+869|Classic|Mauve|Dots|Mouse|Rabbit Ears|Robot Arms|None|Nightfall|Heavy|1095
+870|Twin Tier|Glacier|Tangle|Datasette|None|None|Coolant Tank|Downpour|Standard|1215
+871|Widescreen|Spore|Dashes|Numpad|None|None|Signal Mast|Crossroads|Standard|1618
+872|Brackets|Tide|Scowl|Keyboard|None|Solar Wings|None|Downpour|Standard|1945
+873|Tape Deck|Sage|Theorem|Trackball|Ice Crystals|None|None|Lattice|Standard|1292
+874|Console|Ash|Lidded|Classic Keyboard|None|None|Tesla Coil|Searchlight|Standard|2031
+875|Twin Tier|Frost|Theorem|None|None|None|None|Mosaic|Bare|14
+876|Classic|Frost|Frown|Gamepad|Propeller|Solar Wings|None|Mosaic|Heavy|953
+877|Brackets|Obsidian|Lidded|Fader Deck|None|Wrench Arm|None|Downpour|Standard|1710
+878|Radio|Dune|Scowl|Numpad|None|None|None|Nightfall|Light|322
+879|Console|Spore|Sigil|Joystick|None|None|None|Slipstream|Light|333
+880|Handheld|Frost|Happy|Joystick|None|None|Exhaust Pipes|Daybreak|Standard|1495
+881|Porthole|Obsidian|Shutter|Gamepad|None|None|Coolant Tank|Lattice|Standard|1255
+882|Codex Header|Tide|Visor|Dial Deck|None|Thruster Pods|None|Daybreak|Standard|2117
+883|Framed|Crimson|Slant|Compact Keyboard|Rabbit Ears|None|None|Slipstream|Standard|1448
+884|Console|Glacier|Glitch|Numpad|Dish|Plug Cable|None|Daybreak|Heavy|599
+885|Handheld|Spore|Wary|Gamepad|None|None|None|Nightfall|Light|216
+886|Radio|Spore|Pulse|Datasette|None|None|Coolant Tank|Searchlight|Standard|1762
+887|Twin Tier|Dune|Blocks|Dial Deck|Rabbit Ears|Thruster Pods|None|Lattice|Heavy|718
+888|Porthole|Tide|Keyhole|Fader Deck|Beacon|None|None|Nightfall|Standard|1370
+889|Split Shell|Ash|Beans|Datasette|Rabbit Ears|None|None|Daybreak|Standard|1517
+890|Console|Dune|Reticle|Dial Deck|Heat Sink|None|None|Daybreak|Standard|1764
+891|Tape Deck|Frost|Visor|Floppy Drive|None|None|None|Downpour|Light|361
+892|Hood|Ember|Dome|Codex Slate|None|None|Exhaust Pipes|Lattice|Standard|1369
+893|Handheld|Lichen|Wide|Numpad|Ice Crystals|None|None|Mosaic|Standard|2024
+894|Split Shell|Glacier|Seeker|Datasette|Propeller|Speakers|None|Downpour|Heavy|662
+895|Radio|Bone|Seeker|Fader Deck|Ice Crystals|None|None|Downpour|Standard|1478
+896|Brackets|Deep Teal|Lidded|Floppy Drive|None|None|None|Daybreak|Light|180
+897|Tower|Tide|Snowflake|Dial Deck|Mushrooms|None|None|Nightfall|Standard|1624
+898|Console|Pewter|Seeker|Datasette|Heat Sink|None|None|Nightfall|Standard|2084
+899|Handheld|Lichen|Sigil|Trackball|None|Thruster Pods|None|Crossroads|Standard|2109
+900|Porthole|Glacier|Frown|Classic Keyboard|Dish|Robot Arms|None|Downpour|Heavy|1044
+901|Porthole|Glacier|Visor|Gamepad|None|None|None|Downpour|Light|99
+902|Hood|Sage|Scowl|Mouse|Propeller|Thruster Pods|None|Downpour|Heavy|910
+903|Classic|Camo|Sigil|Joystick|Heat Sink|Solar Wings|None|Searchlight|Heavy|891
+904|Hood|Mauve|Dots|Classic Keyboard|Beacon|None|None|Downpour|Standard|1108
+905|Tape Deck|Rust|Blocks|Gamepad|Rabbit Ears|None|None|Searchlight|Standard|1575
+906|Hood|Frost|Visor|Numpad|Rabbit Ears|Solar Wings|None|Mosaic|Heavy|649
+907|Tower|Crimson|Peek|None|None|None|None|Downpour|Bare|12
+908|Porthole|Abyss|Flatline|Trackball|None|None|Coolant Tank|Searchlight|Standard|1470
+909|Tower|Camo|Sigil|Floppy Drive|None|Thruster Pods|None|Crossroads|Standard|1962
+910|Brackets|Tide|Shutter|Compact Keyboard|Dish|Solar Wings|None|Downpour|Heavy|559
+911|Console|Sage|Slit|Codex Slate|None|None|None|Mosaic|Light|371
+912|Console|Deep Teal|Sigil|Fader Deck|None|None|Battery Pack|Searchlight|Standard|1713
+913|Radio|Spore|Tangle|Gamepad|Periscope|Plug Cable|None|Mosaic|Heavy|453
+914|Widescreen|Abyss|Snowflake|Keyboard|None|Wrench Arm|None|Nightfall|Standard|2089
+915|Split Shell|Tide|Lidded|Split Keyboard|None|Robot Arms|None|Crossroads|Standard|1851
+916|Brackets|Dune|Lidded|Dial Deck|Propeller|Speakers|None|Slipstream|Heavy|752
+917|Side Car|Ember|Tangle|Gamepad|Ice Crystals|Plug Cable|None|Crossroads|Heavy|608
+918|Framed|Crimson|Snowflake|Gamepad|Dish|Thruster Pods|None|Lattice|Heavy|501
+919|Tape Deck|Bone|Seeker|Floppy Drive|None|None|None|Nightfall|Light|116
+920|Hood|Camo|Peek|Keyboard|Sonic Emitter|Speakers|None|Slipstream|Heavy|916
+921|Twin Tier|Slate|Slant|None|None|None|None|Slipstream|Bare|4
+922|Codex Header|Obsidian|Squint|Compact Keyboard|Heat Sink|Robot Arms|None|Slipstream|Heavy|809
+923|Porthole|Spore|Dashes|Codex Slate|None|Thruster Pods|None|Daybreak|Standard|2086
+924|Split Shell|Spore|Peek|Gamepad|None|Robot Arms|None|Searchlight|Standard|1383
+925|Radio|Ember|Dome|Joystick|None|None|None|Daybreak|Light|385
+926|Console|Lichen|Sigil|Compact Keyboard|Propeller|Plug Cable|None|Daybreak|Heavy|411
+927|Codex Header|Dune|Glitch|Gamepad|None|Solar Wings|None|Searchlight|Standard|1720
+928|Widescreen|Pewter|Lidded|Joystick|None|None|Battery Pack|Nightfall|Standard|1784
+929|Codex Header|Camo|Seeker|Classic Keyboard|None|Speakers|None|Slipstream|Standard|2077
+930|Side Lights|Mauve|Pulse|Compact Keyboard|Rabbit Ears|Solar Wings|None|Crossroads|Heavy|1054
+931|Hood|Pewter|Orb|Dial Deck|Dish|Wrench Arm|None|Crossroads|Heavy|1080
+932|Widescreen|Tide|Snowflake|Trackball|None|None|None|Crossroads|Light|136
+933|Side Lights|Glacier|Dots|Keyboard|None|None|Exhaust Pipes|Slipstream|Standard|1134
+934|Radio|Pewter|Curious|Classic Keyboard|Work Lamp|None|None|Slipstream|Standard|1550
+935|Split Shell|Camo|Curious|Compact Keyboard|Propeller|Wrench Arm|None|Nightfall|Heavy|927
+936|Tape Deck|Moss|Theorem|Joystick|Propeller|None|None|Downpour|Standard|1462
+937|Tape Deck|Spore|Lidded|Gamepad|None|None|None|Mosaic|Light|356
+938|Radio|Rust|Reticle|Mouse|None|None|None|Mosaic|Light|286
+939|Tower|Rust|Dashes|Keyboard|None|None|None|Slipstream|Light|224
+940|Widescreen|Rust|Theorem|Split Keyboard|Dish|Wrench Arm|None|Crossroads|Heavy|991
+941|Handheld|Deep Teal|Wide|Joystick|None|Solar Wings|None|Lattice|Standard|2169
+942|Framed|Frost|Theorem|Mouse|Mushrooms|Thruster Pods|None|Crossroads|Heavy|800
+943|Radio|Frost|Frown|Joystick|Dish|Plug Cable|None|Nightfall|Heavy|533
+944|Tape Deck|Slate|Slit|Compact Keyboard|Ice Crystals|None|None|Lattice|Standard|1392
+945|Side Car|Deep Teal|Reticle|Codex Slate|None|None|None|Slipstream|Light|220
+946|Widescreen|Glacier|Lens|Numpad|None|Plug Cable|None|Crossroads|Standard|2216
+947|Codex Header|Ember|Slit|Compact Keyboard|None|Wrench Arm|None|Crossroads|Standard|2043
+948|Hood|Ash|Peek|Classic Keyboard|None|None|Signal Mast|Lattice|Standard|1472
+949|Twin Tier|Camo|Happy|Keyboard|Mushrooms|None|None|Daybreak|Standard|1264
+950|Framed|Obsidian|Sigil|Trackball|None|None|Sword|Slipstream|Standard|1210
+951|Widescreen|Sage|Wide|None|None|None|None|Searchlight|Bare|0
+952|Tape Deck|Camo|Slit|Datasette|None|None|None|Slipstream|Light|296
+953|Classic|Camo|Slant|Fader Deck|None|Robot Arms|None|Downpour|Standard|1840
+954|Handheld|Dune|Visor|Fader Deck|Propeller|None|None|Lattice|Standard|1482
+955|Framed|Mauve|Visor|Trackball|None|Sword and Shield|None|Slipstream|Standard|1855
+956|Hood|Slate|Seeker|Floppy Drive|Sonic Emitter|None|None|Lattice|Standard|1355
+957|Porthole|Sage|Orb|Datasette|Sonic Emitter|None|None|Downpour|Standard|1165
+958|Porthole|Slate|Peek|Floppy Drive|None|None|None|Mosaic|Light|222
+959|Tower|Moss|Dashes|Trackball|None|None|Exhaust Pipes|Nightfall|Standard|1394
+960|Tower|Ash|Theorem|Datasette|Dish|None|None|Mosaic|Standard|1653
+961|Split Shell|Sage|Reticle|Datasette|Dish|Thruster Pods|None|Daybreak|Heavy|461
+962|Handheld|Dune|Tangle|Floppy Drive|Rabbit Ears|Speakers|None|Slipstream|Heavy|867
+963|Codex Header|Bone|Slant|Split Keyboard|Work Lamp|Plug Cable|None|Lattice|Heavy|715
+964|Side Lights|Deep Teal|Flatline|Floppy Drive|None|Thruster Pods|None|Nightfall|Standard|1974
+965|Porthole|Camo|Slant|Keyboard|Rabbit Ears|None|None|Lattice|Standard|1514
+966|Tape Deck|Mauve|Visor|Gamepad|None|Plug Cable|None|Nightfall|Standard|2134
+967|Hood|Ember|Sigil|Datasette|Sonic Emitter|Speakers|None|Crossroads|Heavy|773
+968|Radio|Crimson|Curious|Floppy Drive|Dish|None|None|Daybreak|Standard|1268
+969|Classic|Obsidian|Theorem|Datasette|Dish|None|None|Downpour|Standard|1114
+970|Split Shell|Slate|Tangle|Fader Deck|Mushrooms|Speakers|None|Lattice|Heavy|614
+971|Split Shell|Rust|Happy|Mouse|None|None|Signal Mast|Downpour|Standard|1109
+972|Porthole|Camo|Dashes|Numpad|Sonic Emitter|None|None|Daybreak|Standard|1704
+973|Framed|Obsidian|Visor|Gamepad|None|None|None|Searchlight|Light|254
+974|Codex Header|Bone|Slant|Fader Deck|None|Speakers|None|Searchlight|Standard|1636
+975|Handheld|Bone|Theorem|Keyboard|Rabbit Ears|Solar Wings|None|Searchlight|Heavy|1086
+976|Split Shell|Sage|Blocks|Split Keyboard|None|Sword and Shield|None|Downpour|Standard|1457
+977|Tape Deck|Spore|Lidded|Floppy Drive|None|None|Battery Pack|Daybreak|Standard|1864
+978|Side Car|Camo|Slant|Fader Deck|Periscope|Wrench Arm|None|Searchlight|Heavy|606
+979|Hood|Moss|Wary|None|None|None|None|Crossroads|Bare|11
+980|Porthole|Moss|Shutter|Floppy Drive|None|None|Sword|Searchlight|Standard|1614
+981|Handheld|Ember|Wide|Gamepad|Periscope|Speakers|None|Daybreak|Heavy|422
+982|Tower|Dune|Mycelia|Codex Slate|None|Robot Arms|None|Downpour|Standard|2105
+983|Hood|Obsidian|Dome|Classic Keyboard|None|None|None|Daybreak|Light|247
+984|Radio|Deep Teal|Wary|Fader Deck|Sonic Emitter|None|None|Mosaic|Standard|1724
+985|Porthole|Sage|Keyhole|Mouse|Heat Sink|None|None|Searchlight|Standard|1149
+986|Classic|Obsidian|Flatline|Split Keyboard|Rabbit Ears|Sword and Shield|None|Crossroads|Heavy|1032
+987|Side Lights|Abyss|Visor|Joystick|None|None|Battery Pack|Downpour|Standard|1406
+988|Porthole|Ash|Flatline|Classic Keyboard|None|Sword and Shield|None|Lattice|Standard|2167
+989|Console|Deep Teal|Reticle|Keyboard|Dish|Wrench Arm|None|Mosaic|Heavy|407
+990|Side Car|Deep Teal|Seeker|Compact Keyboard|Ice Crystals|Plug Cable|None|Searchlight|Heavy|556
+991|Codex Header|Spore|Dome|Gamepad|None|Robot Arms|None|Nightfall|Standard|1900
+992|Side Car|Dune|Scowl|Trackball|None|None|Battery Pack|Searchlight|Standard|1214
+993|Handheld|Tide|Pulse|Keyboard|None|None|Battery Pack|Lattice|Standard|1592
+994|Framed|Lichen|Seeker|Gamepad|Mushrooms|Thruster Pods|None|Lattice|Heavy|482
+995|Porthole|Ash|Blocks|Joystick|Beacon|Solar Wings|None|Daybreak|Heavy|643
+996|Hood|Bone|Scowl|Trackball|None|Robot Arms|None|Mosaic|Standard|1373
+997|Framed|Slate|Beans|Trackball|Sonic Emitter|Sword and Shield|None|Nightfall|Heavy|663
+998|Brackets|Deep Teal|Frown|Gamepad|None|None|Battery Pack|Crossroads|Standard|1173
+999|Twin Tier|Obsidian|Wide|Numpad|Periscope|Wrench Arm|Banner|Slipstream|Fully Loaded|61
+1000|Side Lights|Ember|Theorem|Datasette|None|Thruster Pods|None|Downpour|Standard|1643
+1001|Twin Tier|Ash|Seeker|Numpad|Ice Crystals|Plug Cable|None|Searchlight|Heavy|471
+1002|Hood|Ash|Shutter|Datasette|None|None|Coolant Tank|Daybreak|Standard|2011
+1003|Brackets|Deep Teal|Snowflake|Mouse|None|Robot Arms|None|Searchlight|Standard|1910
+1004|Split Shell|Bone|Slant|Numpad|None|Solar Wings|None|Downpour|Standard|1293
+1005|Side Car|Deep Teal|Beans|Classic Keyboard|None|Plug Cable|None|Lattice|Standard|2156
+1006|Porthole|Frost|Slit|Split Keyboard|Mushrooms|Wrench Arm|None|Crossroads|Heavy|705
+1007|Console|Abyss|Orb|Codex Slate|None|None|None|Crossroads|Light|320
+1008|Twin Tier|Obsidian|Mycelia|Mouse|Propeller|Solar Wings|None|Searchlight|Heavy|583
+1009|Porthole|Pewter|Curious|Datasette|None|Sword and Shield|None|Lattice|Standard|1787
+1010|Handheld|Ember|Scowl|Trackball|Ice Crystals|Speakers|None|Mosaic|Heavy|768
+1011|Tape Deck|Ember|Orb|Datasette|Rabbit Ears|None|None|Daybreak|Standard|1510
+1012|Twin Tier|Ember|Steady|Numpad|Ice Crystals|Sword and Shield|None|Downpour|Heavy|498
+1013|Radio|Ash|Shutter|Codex Slate|Work Lamp|None|None|Crossroads|Standard|2166
+1014|Side Lights|Glacier|Blocks|Trackball|Ice Crystals|Sword and Shield|None|Lattice|Heavy|963
+1015|Console|Rust|Shutter|Gamepad|Propeller|None|None|Downpour|Standard|1745
+1016|Handheld|Crimson|Curious|Floppy Drive|Propeller|None|None|Downpour|Standard|1172
+1017|Console|Glacier|Steady|Keyboard|None|None|None|Crossroads|Light|167
+1018|Framed|Obsidian|Theorem|Mouse|None|None|Sword|Crossroads|Standard|1123
+1019|Console|Pewter|Slant|Dial Deck|None|Wrench Arm|None|Searchlight|Standard|2202
+1020|Side Lights|Bone|Steady|Dial Deck|Work Lamp|Plug Cable|None|Mosaic|Heavy|1048
+1021|Codex Header|Abyss|Dashes|Trackball|None|Wrench Arm|None|Daybreak|Standard|2146
+1022|Porthole|Dune|Pulse|Fader Deck|Sonic Emitter|Speakers|None|Slipstream|Heavy|840
+1023|Radio|Mauve|Snowflake|Classic Keyboard|None|Wrench Arm|None|Daybreak|Standard|1943
+1024|Framed|Abyss|Curious|Classic Keyboard|Heat Sink|None|None|Downpour|Standard|1260
+1025|Classic|Slate|Lens|Datasette|Beacon|Speakers|None|Daybreak|Heavy|587
+1026|Radio|Bone|Lidded|Gamepad|None|None|Coolant Tank|Nightfall|Standard|1454
+1027|Console|Ember|Lens|Trackball|None|None|Coolant Tank|Mosaic|Standard|2021
+1028|Porthole|Rust|Lens|Split Keyboard|None|Wrench Arm|None|Nightfall|Standard|2108
+1029|Radio|Camo|Beans|Datasette|None|None|None|Crossroads|Light|269
+1030|Classic|Frost|Slit|Trackball|None|None|Signal Mast|Lattice|Standard|1301
+1031|Twin Tier|Crimson|Wide|Floppy Drive|Beacon|None|None|Nightfall|Standard|1468
+1032|Tower|Tide|Happy|Numpad|Mushrooms|Solar Wings|None|Mosaic|Heavy|857
+1033|Codex Header|Sage|Snowflake|Mouse|None|Robot Arms|None|Downpour|Standard|1645
+1034|Side Lights|Lichen|Snowflake|Numpad|Mushrooms|Speakers|None|Downpour|Heavy|532
+1035|Tape Deck|Slate|Frown|Trackball|Periscope|Plug Cable|None|Lattice|Heavy|418
+1036|Classic|Moss|Visor|Joystick|Heat Sink|Thruster Pods|None|Crossroads|Heavy|943
+1037|Side Lights|Camo|Glitch|Gamepad|None|None|Tesla Coil|Mosaic|Standard|1231
+1038|Radio|Dune|Blocks|Compact Keyboard|Periscope|Plug Cable|None|Mosaic|Heavy|529
+1039|Split Shell|Frost|Blocks|Keyboard|None|Speakers|None|Downpour|Standard|1677
+1040|Tape Deck|Ash|Curious|Codex Slate|None|None|Signal Mast|Slipstream|Standard|1607
+1041|Handheld|Deep Teal|Orb|Fader Deck|Sonic Emitter|Solar Wings|None|Crossroads|Heavy|944
+1042|Widescreen|Lichen|Shutter|Mouse|Propeller|None|None|Slipstream|Standard|2085
+1043|Split Shell|Pewter|Flatline|Compact Keyboard|Mushrooms|Speakers|None|Crossroads|Heavy|660
+1044|Classic|Glacier|Orb|Numpad|Ice Crystals|Speakers|None|Crossroads|Heavy|1067
+1045|Codex Header|Pewter|Seeker|Mouse|Heat Sink|Solar Wings|None|Mosaic|Heavy|562
+1046|Console|Sage|Flatline|Numpad|None|None|None|Searchlight|Light|364
+1047|Hood|Camo|Theorem|Dial Deck|Beacon|Speakers|None|Searchlight|Heavy|1040
+1048|Side Car|Glacier|Peek|Trackball|None|None|None|Nightfall|Light|124
+1049|Classic|Rust|Reticle|Keyboard|None|None|Exhaust Pipes|Crossroads|Standard|1314
+1050|Tower|Frost|Blocks|Compact Keyboard|None|None|Sword|Lattice|Standard|1650
+1051|Console|Deep Teal|Blocks|Keyboard|Mushrooms|None|None|Lattice|Standard|1927
+1052|Classic|Mauve|Dashes|Trackball|Heat Sink|Solar Wings|None|Searchlight|Heavy|603
+1053|Tape Deck|Crimson|Glitch|Fader Deck|Rabbit Ears|None|None|Downpour|Standard|1648
+1054|Handheld|Tide|Glitch|Codex Slate|Dish|Solar Wings|None|Daybreak|Heavy|812
+1055|Console|Ash|Happy|Numpad|Heat Sink|None|None|Mosaic|Standard|2008
+1056|Handheld|Crimson|Dots|Trackball|None|None|None|Searchlight|Light|245
+1057|Tower|Tide|Dots|Dial Deck|None|None|None|Nightfall|Light|125
+1058|Twin Tier|Spore|Lidded|Classic Keyboard|None|None|Coolant Tank|Nightfall|Standard|1305
+1059|Split Shell|Dune|Wide|Codex Slate|Periscope|Solar Wings|Banner|Crossroads|Fully Loaded|53
+1060|Handheld|Spore|Visor|Codex Slate|None|None|None|Daybreak|Light|191
+1061|Handheld|Slate|Lidded|Dial Deck|None|None|Sword|Mosaic|Standard|1338
+1062|Classic|Crimson|Beans|Fader Deck|Propeller|Robot Arms|None|Searchlight|Heavy|590
+1063|Codex Header|Rust|Beans|Mouse|Beacon|Speakers|None|Mosaic|Heavy|561
+1064|Widescreen|Bone|Lidded|Joystick|Sonic Emitter|Thruster Pods|None|Searchlight|Heavy|852
+1065|Radio|Glacier|Orb|Codex Slate|Propeller|None|None|Slipstream|Standard|1411
+1066|Radio|Obsidian|Glitch|Classic Keyboard|None|Plug Cable|None|Mosaic|Standard|1619
+1067|Tower|Ember|Keyhole|Keyboard|Propeller|Robot Arms|None|Slipstream|Heavy|807
+1068|Codex Header|Bone|Flatline|Compact Keyboard|Beacon|None|None|Searchlight|Standard|1321
+1069|Twin Tier|Pewter|Blocks|Mouse|None|Solar Wings|None|Crossroads|Standard|1767
+1070|Handheld|Mauve|Frown|Split Keyboard|Mushrooms|None|None|Searchlight|Standard|1124
+1071|Side Lights|Sage|Lidded|Floppy Drive|None|None|Signal Mast|Mosaic|Standard|1270
+1072|Handheld|Ember|Happy|Keyboard|None|None|Tesla Coil|Crossroads|Standard|1334
+1073|Split Shell|Glacier|Peek|Codex Slate|Periscope|Speakers|Banner|Lattice|Fully Loaded|33
+1074|Tower|Bone|Keyhole|Trackball|None|None|Coolant Tank|Slipstream|Standard|1129
+1075|Brackets|Dune|Flatline|Classic Keyboard|None|None|Sword|Slipstream|Standard|1543
+1076|Split Shell|Obsidian|Dots|Joystick|None|None|None|Slipstream|Light|175
+1077|Side Lights|Ember|Steady|Floppy Drive|Rabbit Ears|None|None|Searchlight|Standard|1520
+1078|Brackets|Pewter|Snowflake|Datasette|Periscope|Sword and Shield|None|Nightfall|Heavy|712
+1079|Twin Tier|Rust|Tangle|Mouse|Periscope|Robot Arms|Banner|Daybreak|Fully Loaded|47
+1080|Side Car|Frost|Lens|Dial Deck|None|None|Tesla Coil|Crossroads|Standard|1898
+1081|Classic|Dune|Reticle|Classic Keyboard|Dish|Thruster Pods|None|Mosaic|Heavy|821
+1082|Console|Sage|Dots|Gamepad|None|None|None|Crossroads|Light|387
+1083|Tape Deck|Sage|Orb|Gamepad|Ice Crystals|None|None|Nightfall|Standard|1249
+1084|Twin Tier|Lichen|Blocks|Split Keyboard|None|None|Signal Mast|Searchlight|Standard|1337
+1085|Brackets|Sage|Slit|Keyboard|None|None|None|Searchlight|Light|251
+1086|Framed|Rust|Dashes|Gamepad|Heat Sink|None|None|Nightfall|Standard|1430
+1087|Classic|Bone|Seeker|Split Keyboard|Work Lamp|Wrench Arm|None|Slipstream|Heavy|1041
+1088|Split Shell|Moss|Tangle|Dial Deck|Beacon|Solar Wings|None|Mosaic|Heavy|796
+1089|Tape Deck|Tide|Tangle|Numpad|Beacon|Plug Cable|None|Searchlight|Heavy|402
+1090|Widescreen|Ember|Wary|Gamepad|None|None|None|Downpour|Light|257
+1091|Widescreen|Frost|Mycelia|Dial Deck|Sonic Emitter|Sword and Shield|None|Slipstream|Heavy|440
+1092|Brackets|Abyss|Seeker|Codex Slate|None|Speakers|None|Searchlight|Standard|2083
+1093|Brackets|Pewter|Blocks|Datasette|Dish|Sword and Shield|None|Downpour|Heavy|926
+1094|Brackets|Abyss|Mycelia|Compact Keyboard|None|Speakers|None|Slipstream|Standard|2129
+1095|Porthole|Dune|Dots|Split Keyboard|Mushrooms|Sword and Shield|None|Crossroads|Heavy|1001
+1096|Console|Crimson|Curious|Joystick|None|None|Exhaust Pipes|Crossroads|Standard|1274
+1097|Porthole|Mauve|Squint|Codex Slate|Heat Sink|Plug Cable|None|Crossroads|Heavy|1058
+1098|Tape Deck|Obsidian|Slit|Keyboard|None|None|None|Daybreak|Light|344
+1099|Framed|Spore|Tangle|Mouse|Mushrooms|None|None|Slipstream|Standard|1522
+1100|Split Shell|Spore|Wary|Gamepad|None|None|None|Crossroads|Light|148
+1101|Console|Moss|Dome|Fader Deck|Mushrooms|None|None|Searchlight|Standard|1501
+1102|Tape Deck|Dune|Seeker|Datasette|Sonic Emitter|None|None|Daybreak|Standard|1969
+1103|Codex Header|Rust|Wide|Compact Keyboard|Work Lamp|None|None|Searchlight|Standard|1674
+1104|Framed|Frost|Wary|Numpad|None|None|None|Mosaic|Light|266
+1105|Brackets|Camo|Lens|Datasette|None|Wrench Arm|None|Crossroads|Standard|2204
+1106|Console|Deep Teal|Glitch|Trackball|None|None|None|Slipstream|Light|319
+1107|Framed|Mauve|Steady|Fader Deck|None|Plug Cable|None|Nightfall|Standard|1977
+1108|Brackets|Crimson|Steady|Compact Keyboard|Propeller|None|None|Lattice|Standard|1548
+1109|Radio|Rust|Shutter|Compact Keyboard|Rabbit Ears|None|None|Nightfall|Standard|1623
+1110|Classic|Slate|Wary|Datasette|None|None|Signal Mast|Lattice|Standard|1145
+1111|Twin Tier|Moss|Pulse|Classic Keyboard|Work Lamp|Sword and Shield|None|Mosaic|Heavy|856
+1112|Framed|Rust|Squint|Mouse|None|None|None|Slipstream|Light|240
+1113|Widescreen|Dune|Frown|Mouse|Heat Sink|Sword and Shield|None|Nightfall|Heavy|957
+1114|Tape Deck|Dune|Wary|Codex Slate|Sonic Emitter|None|None|Searchlight|Standard|1735
+1115|Console|Rust|Squint|Classic Keyboard|Mushrooms|Wrench Arm|None|Downpour|Heavy|597
+1116|Handheld|Dune|Sigil|Classic Keyboard|None|Sword and Shield|None|Searchlight|Standard|1901
+1117|Hood|Glacier|Frown|Joystick|Mushrooms|Thruster Pods|None|Searchlight|Heavy|1075
+1118|Framed|Sage|Reticle|Dial Deck|Propeller|None|None|Nightfall|Standard|1538
+1119|Split Shell|Obsidian|Lens|Numpad|Propeller|None|None|Mosaic|Standard|1194
+1120|Tower|Bone|Wide|Floppy Drive|None|Sword and Shield|None|Crossroads|Standard|2048
+1121|Side Car|Crimson|Flatline|Datasette|Heat Sink|Thruster Pods|None|Nightfall|Heavy|517
+1122|Classic|Dune|Shutter|Keyboard|None|Robot Arms|None|Mosaic|Standard|2041
+1123|Brackets|Tide|Happy|Keyboard|None|None|Exhaust Pipes|Slipstream|Standard|1654
+1124|Hood|Tide|Steady|Gamepad|None|Solar Wings|None|Crossroads|Standard|2059
+1125|Twin Tier|Frost|Wide|Trackball|Periscope|Sword and Shield|Banner|Downpour|Fully Loaded|73
+1126|Split Shell|Deep Teal|Glitch|Codex Slate|None|None|None|Nightfall|Light|119
+1127|Codex Header|Frost|Lens|Keyboard|None|None|None|Crossroads|Light|265
+1128|Codex Header|Camo|Peek|Compact Keyboard|None|None|None|Slipstream|Light|274
+1129|Handheld|Ember|Sigil|Classic Keyboard|Propeller|Plug Cable|None|Daybreak|Heavy|878
+1130|Side Lights|Moss|Happy|Numpad|Dish|None|None|Lattice|Standard|1284
+1131|Brackets|Pewter|Wary|Split Keyboard|Work Lamp|Sword and Shield|None|Downpour|Heavy|893
+1132|Radio|Moss|Wide|Split Keyboard|Propeller|None|None|Daybreak|Standard|1859
+1133|Side Car|Bone|Orb|Datasette|Sonic Emitter|None|None|Mosaic|Standard|1175
+1134|Radio|Mauve|Beans|Keyboard|Ice Crystals|Plug Cable|None|Searchlight|Heavy|488
+1135|Side Lights|Lichen|Keyhole|Classic Keyboard|Beacon|None|None|Daybreak|Standard|1521
+1136|Handheld|Tide|Slit|Split Keyboard|None|None|None|Crossroads|Light|110
+1137|Hood|Deep Teal|Seeker|Mouse|None|None|Coolant Tank|Lattice|Standard|1647
+1138|Porthole|Glacier|Dots|Numpad|Dish|Robot Arms|None|Searchlight|Heavy|1046
+1139|Handheld|Mauve|Glitch|Floppy Drive|None|Solar Wings|None|Downpour|Standard|1530
+1140|Console|Rust|Beans|Compact Keyboard|None|None|None|Slipstream|Light|275
+1141|Console|Moss|Blocks|Trackball|Dish|None|None|Slipstream|Standard|1563
+1142|Radio|Sage|Theorem|Floppy Drive|None|None|None|Searchlight|Light|365
+1143|Widescreen|Ash|Frown|Classic Keyboard|Ice Crystals|None|None|Nightfall|Standard|1387
+1144|Hood|Deep Teal|Curious|Split Keyboard|None|None|Tesla Coil|Slipstream|Standard|1163
+1145|Handheld|Dune|Lens|Keyboard|None|Speakers|None|Searchlight|Standard|2114
+1146|Side Lights|Bone|Glitch|Joystick|Sonic Emitter|None|None|Crossroads|Standard|1207
+1147|Porthole|Bone|Slit|Dial Deck|Propeller|Speakers|None|Nightfall|Heavy|988
+1148|Console|Slate|Peek|Numpad|None|None|None|Slipstream|Light|348
+1149|Side Lights|Lichen|Mycelia|Trackball|None|Sword and Shield|None|Mosaic|Standard|2203
+1150|Twin Tier|Bone|Lens|Split Keyboard|Sonic Emitter|Wrench Arm|None|Mosaic|Heavy|568
+1151|Twin Tier|Pewter|Lidded|Keyboard|None|Plug Cable|None|Searchlight|Standard|2060
+1152|Classic|Obsidian|Wary|Joystick|None|None|None|Searchlight|Light|203
+1153|Widescreen|Ember|Curious|Fader Deck|Heat Sink|Wrench Arm|None|Nightfall|Heavy|843
+1154|Porthole|Glacier|Squint|Compact Keyboard|Mushrooms|Thruster Pods|None|Daybreak|Heavy|1031
+1155|Radio|Slate|Tangle|Dial Deck|None|None|None|Lattice|Light|375
+1156|Porthole|Ember|Frown|Floppy Drive|None|Speakers|None|Daybreak|Standard|1452
+1157|Split Shell|Tide|Sigil|Keyboard|None|None|Battery Pack|Downpour|Standard|1273
+1158|Tower|Glacier|Frown|Datasette|None|Sword and Shield|None|Crossroads|Standard|1666
+1159|Widescreen|Tide|Tangle|Datasette|None|Wrench Arm|None|Searchlight|Standard|2136
+1160|Porthole|Deep Teal|Blocks|Dial Deck|Propeller|Robot Arms|None|Mosaic|Heavy|728
+1161|Handheld|Obsidian|Glitch|Gamepad|None|Sword and Shield|None|Crossroads|Standard|1306
+1162|Widescreen|Moss|Slit|Gamepad|None|Plug Cable|None|Nightfall|Standard|1897
+1163|Framed|Obsidian|Reticle|Numpad|Sonic Emitter|None|None|Lattice|Standard|1272
+1164|Twin Tier|Moss|Slant|Codex Slate|Sonic Emitter|None|None|Mosaic|Standard|1161
+1165|Handheld|Ember|Shutter|Numpad|None|Speakers|None|Crossroads|Standard|2070
+1166|Classic|Pewter|Beans|Classic Keyboard|None|Speakers|None|Nightfall|Standard|2055
+1167|Brackets|Mauve|Slit|Dial Deck|Rabbit Ears|Speakers|None|Crossroads|Heavy|967
+1168|Codex Header|Glacier|Happy|Compact Keyboard|None|Plug Cable|None|Nightfall|Standard|2082
+1169|Codex Header|Slate|Lidded|Classic Keyboard|None|None|None|Downpour|Light|369
+1170|Console|Pewter|Frown|Joystick|Dish|None|None|Mosaic|Standard|1581
+1171|Side Lights|Tide|Dome|Classic Keyboard|None|None|None|Downpour|Light|120
+1172|Console|Lichen|Glitch|Floppy Drive|Heat Sink|None|None|Slipstream|Standard|1917
+1173|Classic|Tide|Squint|Compact Keyboard|Periscope|Sword and Shield|None|Daybreak|Heavy|914
+1174|Brackets|Camo|Keyhole|Keyboard|Beacon|None|None|Crossroads|Standard|1313
+1175|Radio|Dune|Slit|Dial Deck|Work Lamp|Plug Cable|None|Searchlight|Heavy|521
+1176|Radio|Deep Teal|Shutter|Keyboard|None|None|Tesla Coil|Crossroads|Standard|1915
+1177|Codex Header|Ember|Keyhole|Gamepad|Work Lamp|Solar Wings|None|Searchlight|Heavy|565
+1178|Tower|Obsidian|Dome|Trackball|None|Robot Arms|None|Daybreak|Standard|1320
+1179|Radio|Ash|Reticle|Numpad|None|Wrench Arm|None|Nightfall|Standard|2219
+1180|Side Lights|Rust|Orb|Datasette|None|None|None|Downpour|Light|118
+1181|Split Shell|Slate|Scowl|Codex Slate|Sonic Emitter|None|None|Mosaic|Standard|1113
+1182|Porthole|Crimson|Visor|Split Keyboard|None|None|Sword|Daybreak|Standard|1570
+1183|Handheld|Deep Teal|Slit|Datasette|None|Plug Cable|None|Crossroads|Standard|2080
+1184|Tape Deck|Pewter|Lens|Numpad|None|None|None|Searchlight|Light|143
+1185|Porthole|Bone|Wide|Keyboard|None|None|Exhaust Pipes|Lattice|Standard|1573
+1186|Side Lights|Tide|Frown|Floppy Drive|Rabbit Ears|Robot Arms|None|Crossroads|Heavy|1007
+1187|Hood|Moss|Blocks|Numpad|Work Lamp|None|None|Slipstream|Standard|1362
+1188|Brackets|Rust|Squint|Trackball|None|Solar Wings|None|Lattice|Standard|1424
+1189|Porthole|Moss|Seeker|Floppy Drive|Beacon|Sword and Shield|None|Slipstream|Heavy|981
+1190|Brackets|Bone|Wary|Numpad|None|Robot Arms|None|Crossroads|Standard|1593
+1191|Porthole|Tide|Sigil|Codex Slate|Rabbit Ears|Robot Arms|None|Lattice|Heavy|757
+1192|Side Lights|Frost|Keyhole|Keyboard|Work Lamp|Robot Arms|None|Searchlight|Heavy|802
+1193|Side Lights|Glacier|Dots|Codex Slate|Sonic Emitter|Solar Wings|None|Lattice|Heavy|1062
+1194|Handheld|Obsidian|Steady|Joystick|Dish|Robot Arms|None|Daybreak|Heavy|928
+1195|Tower|Moss|Snowflake|Classic Keyboard|None|None|None|Daybreak|Light|177
+1196|Split Shell|Moss|Frown|Datasette|None|Speakers|None|Nightfall|Standard|1147
+1197|Split Shell|Ember|Sigil|Dial Deck|None|None|Tesla Coil|Slipstream|Standard|1180
+1198|Tape Deck|Bone|Happy|Keyboard|Dish|None|None|Lattice|Standard|1625
+1199|Tower|Obsidian|Dots|Codex Slate|None|Sword and Shield|None|Daybreak|Standard|1135
+1200|Console|Slate|Tangle|Keyboard|None|Wrench Arm|None|Crossroads|Standard|1964
+1201|Twin Tier|Sage|Dashes|Compact Keyboard|Periscope|Thruster Pods|Banner|Mosaic|Fully Loaded|69
+1202|Hood|Rust|Visor|Fader Deck|None|Solar Wings|None|Nightfall|Standard|1697
+1203|Tower|Rust|Beans|Mouse|None|Robot Arms|None|Nightfall|Standard|1649
+1204|Framed|Deep Teal|Beans|Fader Deck|Propeller|None|None|Searchlight|Standard|1729
+1205|Tower|Lichen|Mycelia|Dial Deck|None|None|Coolant Tank|Daybreak|Standard|2063
+1206|Split Shell|Dune|Tangle|Compact Keyboard|None|None|Tesla Coil|Mosaic|Standard|1120
+1207|Handheld|Pewter|Theorem|Joystick|None|Speakers|None|Nightfall|Standard|1848
+1208|Porthole|Bone|Curious|None|None|None|None|Daybreak|Bare|19
+1209|Porthole|Slate|Dome|Compact Keyboard|Heat Sink|Thruster Pods|None|Mosaic|Heavy|730
+1210|Side Car|Spore|Flatline|Mouse|Ice Crystals|None|None|Slipstream|Standard|1528
+1211|Side Lights|Camo|Lens|Split Keyboard|Work Lamp|None|None|Daybreak|Standard|1903
+1212|Framed|Frost|Dashes|Compact Keyboard|Rabbit Ears|Wrench Arm|None|Lattice|Heavy|412
+1213|Split Shell|Deep Teal|Frown|Fader Deck|None|None|Signal Mast|Daybreak|Standard|1110
+1214|Brackets|Mauve|Pulse|Trackball|Mushrooms|Speakers|None|Lattice|Heavy|1013
+1215|Tape Deck|Slate|Happy|Codex Slate|None|None|Exhaust Pipes|Crossroads|Standard|1503
+1216|Codex Header|Ash|Theorem|Trackball|Beacon|Speakers|None|Crossroads|Heavy|555
+1217|Hood|Pewter|Wide|Keyboard|Mushrooms|Robot Arms|None|Daybreak|Heavy|478
+1218|Widescreen|Spore|Steady|Classic Keyboard|Dish|Plug Cable|None|Crossroads|Heavy|642
+1219|Tower|Ash|Scowl|Numpad|Beacon|None|None|Mosaic|Standard|1691
+1220|Radio|Pewter|Orb|Fader Deck|None|None|None|Lattice|Light|199
+1221|Handheld|Tide|Steady|Split Keyboard|None|Wrench Arm|None|Slipstream|Standard|2143
+1222|Twin Tier|Lichen|Shutter|Joystick|Dish|None|None|Daybreak|Standard|1796
+1223|Codex Header|Frost|Dome|Numpad|None|None|None|Lattice|Light|370
+1224|Tape Deck|Glacier|Orb|Mouse|None|Plug Cable|None|Mosaic|Standard|2046
+1225|Classic|Crimson|Snowflake|Split Keyboard|None|Sword and Shield|None|Lattice|Standard|1791
+1226|Porthole|Frost|Scowl|Compact Keyboard|None|Solar Wings|None|Slipstream|Standard|1779
+1227|Widescreen|Frost|Scowl|Floppy Drive|Sonic Emitter|None|None|Crossroads|Standard|1484
+1228|Twin Tier|Deep Teal|Frown|Fader Deck|None|Sword and Shield|None|Nightfall|Standard|1315
+1229|Tape Deck|Lichen|Flatline|Fader Deck|None|None|None|Downpour|Light|311
+1230|Porthole|Abyss|Dots|Mouse|None|None|Exhaust Pipes|Slipstream|Standard|1122
+1231|Side Lights|Moss|Squint|Trackball|Rabbit Ears|None|None|Nightfall|Standard|1170
+1232|Side Car|Obsidian|Keyhole|Codex Slate|Beacon|Wrench Arm|None|Crossroads|Heavy|984
+1233|Side Lights|Ash|Peek|Fader Deck|None|None|Coolant Tank|Nightfall|Standard|1542
+1234|Classic|Crimson|Wary|Codex Slate|Ice Crystals|Speakers|None|Nightfall|Heavy|602
+1235|Radio|Lichen|Pulse|Mouse|None|Plug Cable|None|Lattice|Standard|2214
+1236|Classic|Dune|Dots|Compact Keyboard|Ice Crystals|Robot Arms|None|Slipstream|Heavy|994
+1237|Console|Tide|Pulse|Compact Keyboard|None|Plug Cable|None|Lattice|Standard|2207
+1238|Side Lights|Obsidian|Reticle|Codex Slate|Dish|Robot Arms|None|Downpour|Heavy|901
+1239|Brackets|Frost|Snowflake|Trackball|Sonic Emitter|Solar Wings|None|Mosaic|Heavy|585
+1240|Tape Deck|Obsidian|Lidded|Trackball|Beacon|None|None|Lattice|Standard|1447
+1241|Twin Tier|Abyss|Squint|Keyboard|None|None|None|Downpour|Light|159
+1242|Side Car|Moss|Reticle|Split Keyboard|None|None|Battery Pack|Downpour|Standard|1366
+1243|Widescreen|Spore|Dots|Compact Keyboard|Mushrooms|Plug Cable|None|Downpour|Heavy|924
+1244|Framed|Lichen|Dots|Keyboard|Propeller|Wrench Arm|None|Downpour|Heavy|626
+1245|Console|Camo|Snowflake|Dial Deck|None|None|None|Slipstream|Light|298
+1246|Side Car|Slate|Seeker|Keyboard|Sonic Emitter|Thruster Pods|None|Mosaic|Heavy|690
+1247|Porthole|Frost|Mycelia|Keyboard|None|Robot Arms|None|Lattice|Standard|2162
+1248|Brackets|Abyss|Reticle|Split Keyboard|None|Sword and Shield|None|Crossroads|Standard|2100
+1249|Twin Tier|Mauve|Frown|Gamepad|Periscope|Plug Cable|Banner|Lattice|Fully Loaded|62
+1250|Console|Moss|Scowl|Trackball|None|None|None|Daybreak|Light|305
+1251|Side Car|Obsidian|Dots|Dial Deck|Heat Sink|Thruster Pods|None|Crossroads|Heavy|1018
+1252|Tape Deck|Spore|Slant|Mouse|Periscope|Plug Cable|None|Crossroads|Heavy|393
+1253|Hood|Obsidian|Dashes|Datasette|None|None|None|Nightfall|Light|235
+1254|Brackets|Moss|Dome|Codex Slate|None|Thruster Pods|None|Mosaic|Standard|1690
+1255|Handheld|Glacier|Keyhole|Numpad|Ice Crystals|Speakers|None|Mosaic|Heavy|938
+1256|Tape Deck|Sage|Seeker|Gamepad|Periscope|Plug Cable|None|Mosaic|Heavy|394
+1257|Classic|Spore|Peek|Fader Deck|None|Solar Wings|None|Slipstream|Standard|1708
+1258|Twin Tier|Tide|Shutter|Dial Deck|Rabbit Ears|Sword and Shield|None|Mosaic|Heavy|457
+1259|Widescreen|Mauve|Theorem|Fader Deck|Sonic Emitter|Thruster Pods|None|Daybreak|Heavy|1053
+1260|Brackets|Ember|Visor|Split Keyboard|None|None|Signal Mast|Mosaic|Standard|1437
+1261|Widescreen|Ember|Keyhole|Split Keyboard|None|None|None|Lattice|Light|238
+1262|Codex Header|Deep Teal|Happy|Gamepad|None|Sword and Shield|None|Daybreak|Standard|2045
+1263|Tower|Lichen|Lidded|Dial Deck|Beacon|Thruster Pods|None|Daybreak|Heavy|514
+1264|Side Lights|Abyss|Wary|Compact Keyboard|None|Robot Arms|None|Downpour|Standard|1805
+1265|Hood|Glacier|Beans|Gamepad|None|None|Battery Pack|Mosaic|Standard|1374
+1266|Split Shell|Slate|Shutter|Classic Keyboard|None|None|Exhaust Pipes|Mosaic|Standard|1204
+1267|Widescreen|Pewter|Sigil|Gamepad|Sonic Emitter|None|None|Daybreak|Standard|1827
+1268|Handheld|Camo|Dome|Joystick|Sonic Emitter|Sword and Shield|None|Downpour|Heavy|750
+1269|Codex Header|Lichen|Wide|Mouse|None|Thruster Pods|None|Daybreak|Standard|2213
+1270|Twin Tier|Frost|Visor|Mouse|Ice Crystals|Robot Arms|None|Nightfall|Heavy|428
+1271|Handheld|Spore|Shutter|Compact Keyboard|None|None|None|Lattice|Light|160
+1272|Widescreen|Deep Teal|Squint|Compact Keyboard|None|Sword and Shield|None|Searchlight|Standard|1930
+1273|Tape Deck|Dune|Curious|Trackball|None|None|None|Nightfall|Light|351
+1274|Handheld|Lichen|Theorem|Floppy Drive|None|None|Sword|Crossroads|Standard|1599
+1275|Split Shell|Bone|Seeker|Codex Slate|Mushrooms|Sword and Shield|None|Nightfall|Heavy|826
+1276|Widescreen|Glacier|Wide|Codex Slate|Beacon|None|None|Downpour|Standard|2015
+1277|Brackets|Obsidian|Slant|Datasette|Dish|None|None|Lattice|Standard|1186
+1278|Split Shell|Obsidian|Lens|Mouse|None|Solar Wings|None|Lattice|Standard|1393
+1279|Classic|Ember|Peek|Floppy Drive|Dish|Robot Arms|None|Crossroads|Heavy|833
+1280|Framed|Tide|Flatline|Trackball|None|None|Sword|Nightfall|Standard|1778
+1281|Porthole|Ash|Wide|Trackball|Mushrooms|None|None|Slipstream|Standard|2094
+1282|Console|Lichen|Flatline|Gamepad|Heat Sink|Plug Cable|None|Nightfall|Heavy|406
+1283|Console|Bone|Steady|Codex Slate|Work Lamp|None|None|Downpour|Standard|1633
+1284|Hood|Obsidian|Pulse|Split Keyboard|Dish|None|None|Nightfall|Standard|1196
+1285|Tower|Bone|Keyhole|Gamepad|None|Speakers|None|Searchlight|Standard|1322
+1286|Widescreen|Sage|Reticle|Floppy Drive|None|Wrench Arm|None|Crossroads|Standard|2037
+1287|Radio|Ember|Dots|Joystick|None|None|None|Lattice|Light|368
+1288|Twin Tier|Abyss|Dashes|Fader Deck|None|None|Sword|Mosaic|Standard|1403
+1289|Handheld|Abyss|Lidded|Codex Slate|Work Lamp|Solar Wings|None|Crossroads|Heavy|601
+1290|Console|Ash|Seeker|Keyboard|None|None|None|Nightfall|Light|150
+1291|Handheld|Obsidian|Dashes|None|None|None|None|Mosaic|Bare|31
+1292|Classic|Abyss|Slant|Trackball|None|Speakers|None|Downpour|Standard|1802
+1293|Radio|Moss|Mycelia|Keyboard|None|None|Exhaust Pipes|Downpour|Standard|1783
+1294|Handheld|Ash|Mycelia|Datasette|Sonic Emitter|None|None|Searchlight|Standard|2092
+1295|Codex Header|Abyss|Glitch|Trackball|None|Speakers|None|Lattice|Standard|1799
+1296|Twin Tier|Ash|Seeker|Keyboard|Rabbit Ears|None|None|Mosaic|Standard|1683
+1297|Framed|Bone|Orb|Classic Keyboard|None|Wrench Arm|None|Searchlight|Standard|1540
+1298|Hood|Spore|Frown|Fader Deck|Heat Sink|Solar Wings|None|Nightfall|Heavy|949
+1299|Twin Tier|Pewter|Theorem|Split Keyboard|None|None|Coolant Tank|Slipstream|Standard|1200
+1300|Tape Deck|Crimson|Beans|Dial Deck|None|None|None|Crossroads|Light|381
+1301|Handheld|Moss|Beans|Gamepad|Sonic Emitter|Thruster Pods|None|Slipstream|Heavy|960
+1302|Widescreen|Deep Teal|Pulse|Floppy Drive|Rabbit Ears|None|None|Daybreak|Standard|1739
+1303|Side Car|Bone|Squint|Mouse|Ice Crystals|Plug Cable|None|Lattice|Heavy|937
+1304|Twin Tier|Abyss|Lidded|Classic Keyboard|None|Sword and Shield|None|Slipstream|Standard|1818
+1305|Brackets|Glacier|Peek|Fader Deck|Sonic Emitter|Plug Cable|None|Downpour|Heavy|1014
+1306|Console|Slate|Slant|Keyboard|Propeller|None|None|Crossroads|Standard|1486
+1307|Side Lights|Camo|Reticle|Fader Deck|Ice Crystals|Solar Wings|None|Crossroads|Heavy|636
+1308|Split Shell|Moss|Snowflake|Joystick|Work Lamp|Robot Arms|None|Mosaic|Heavy|670
+1309|Radio|Glacier|Flatline|Compact Keyboard|None|None|Exhaust Pipes|Daybreak|Standard|1701
+1310|Tape Deck|Lichen|Wide|Codex Slate|Beacon|None|None|Downpour|Standard|2212
+1311|Widescreen|Obsidian|Orb|Joystick|Mushrooms|Wrench Arm|None|Daybreak|Heavy|1076
+1312|Widescreen|Ember|Peek|Keyboard|Work Lamp|Sword and Shield|None|Crossroads|Heavy|691
+1313|Hood|Ash|Reticle|Datasette|None|Speakers|None|Nightfall|Standard|2159
+1314|Widescreen|Rust|Lidded|Joystick|None|None|None|Nightfall|Light|248
+1315|Hood|Abyss|Tangle|Datasette|Rabbit Ears|None|None|Lattice|Standard|1428
+1316|Side Lights|Pewter|Sigil|Numpad|None|None|Exhaust Pipes|Nightfall|Standard|1634
+1317|Side Car|Ember|Orb|Floppy Drive|None|None|Signal Mast|Daybreak|Standard|1203
+1318|Handheld|Camo|Wide|Joystick|Rabbit Ears|Robot Arms|None|Crossroads|Heavy|460
+1319|Split Shell|Abyss|Pulse|Dial Deck|Heat Sink|Speakers|None|Nightfall|Heavy|496
+1320|Side Car|Mauve|Dots|Datasette|Beacon|Wrench Arm|None|Downpour|Heavy|1050
+1321|Twin Tier|Sage|Lens|Fader Deck|Work Lamp|Thruster Pods|None|Slipstream|Heavy|427
+1322|Side Lights|Obsidian|Orb|Codex Slate|Ice Crystals|Robot Arms|None|Lattice|Heavy|1084
+1323|Split Shell|Ember|Steady|Fader Deck|None|None|Coolant Tank|Slipstream|Standard|1256
+1324|Console|Obsidian|Curious|Floppy Drive|Rabbit Ears|None|None|Slipstream|Standard|1116
+1325|Twin Tier|Pewter|Squint|Floppy Drive|None|Wrench Arm|None|Downpour|Standard|1752
+1326|Framed|Deep Teal|Seeker|Trackball|None|Plug Cable|None|Daybreak|Standard|2171
+1327|Brackets|Spore|Tangle|Mouse|Work Lamp|None|None|Mosaic|Standard|1508
+1328|Split Shell|Spore|Shutter|Numpad|None|None|Battery Pack|Nightfall|Standard|1307
+1329|Framed|Moss|Blocks|Mouse|Sonic Emitter|Thruster Pods|None|Searchlight|Heavy|959
+1330|Console|Glacier|Orb|Mouse|None|None|Tesla Coil|Daybreak|Standard|1280
+1331|Tower|Ember|Scowl|Fader Deck|Work Lamp|Plug Cable|None|Slipstream|Heavy|903
+1332|Side Car|Moss|Glitch|Floppy Drive|None|None|None|Slipstream|Light|230
+1333|Side Car|Deep Teal|Lens|Mouse|None|Thruster Pods|None|Slipstream|Standard|2190
+1334|Brackets|Rust|Scowl|Mouse|Periscope|Solar Wings|None|Searchlight|Heavy|917
+1335|Tower|Deep Teal|Frown|Joystick|Work Lamp|None|None|Crossroads|Standard|1299
+1336|Side Car|Tide|Slit|Trackball|Ice Crystals|Plug Cable|None|Daybreak|Heavy|641
+1337|Side Lights|Pewter|Snowflake|Trackball|Propeller|Speakers|None|Nightfall|Heavy|858
+1338|Tower|Camo|Slant|Trackball|Rabbit Ears|Robot Arms|None|Daybreak|Heavy|775
+1339|Console|Frost|Seeker|Classic Keyboard|Beacon|None|None|Daybreak|Standard|2009
+1340|Widescreen|Spore|Curious|Joystick|Work Lamp|None|None|Downpour|Standard|1290
+1341|Framed|Spore|Sigil|Dial Deck|Dish|Plug Cable|None|Nightfall|Heavy|710
+1342|Tape Deck|Sage|Squint|Compact Keyboard|Heat Sink|Plug Cable|None|Downpour|Heavy|399
+1343|Brackets|Ember|Frown|Fader Deck|None|Solar Wings|None|Mosaic|Standard|1523
+1344|Porthole|Rust|Snowflake|Fader Deck|Rabbit Ears|None|None|Slipstream|Standard|1232
+1345|Side Lights|Dune|Frown|Gamepad|None|Plug Cable|None|Mosaic|Standard|1469
+1346|Tower|Abyss|Happy|Compact Keyboard|None|Plug Cable|None|Searchlight|Standard|2047
+1347|Radio|Mauve|Blocks|Compact Keyboard|None|None|None|Crossroads|Light|189
+1348|Hood|Glacier|Sigil|Datasette|Beacon|Thruster Pods|None|Searchlight|Heavy|989
+1349|Side Car|Ash|Theorem|Codex Slate|Beacon|None|None|Lattice|Standard|1732
+1350|Twin Tier|Spore|Squint|Codex Slate|Sonic Emitter|Sword and Shield|None|Nightfall|Heavy|666
+1351|Tape Deck|Crimson|Reticle|Dial Deck|Rabbit Ears|None|None|Downpour|Standard|1904
+1352|Brackets|Crimson|Wary|Floppy Drive|None|None|Signal Mast|Mosaic|Standard|1276
+1353|Radio|Deep Teal|Dashes|Numpad|Ice Crystals|None|None|Crossroads|Standard|1845
+1354|Codex Header|Glacier|Orb|Split Keyboard|Work Lamp|Thruster Pods|None|Mosaic|Heavy|905
+1355|Side Lights|Crimson|Snowflake|Codex Slate|None|Sword and Shield|None|Lattice|Standard|1814
+1356|Hood|Crimson|Mycelia|Floppy Drive|Propeller|Wrench Arm|None|Mosaic|Heavy|528
+1357|Split Shell|Bone|Keyhole|Floppy Drive|None|Sword and Shield|None|Searchlight|Standard|1193
+1358|Classic|Camo|Dome|Floppy Drive|Rabbit Ears|None|None|Lattice|Standard|1349
+1359|Side Lights|Spore|Slant|Codex Slate|None|None|None|Nightfall|Light|163
+1360|Twin Tier|Ember|Happy|Datasette|Dish|Plug Cable|None|Downpour|Heavy|661
+1361|Twin Tier|Spore|Peek|Codex Slate|None|None|Exhaust Pipes|Lattice|Standard|1158
+1362|Side Lights|Abyss|Peek|Fader Deck|None|None|Signal Mast|Crossroads|Standard|1227
+1363|Brackets|Tide|Sigil|Split Keyboard|Dish|None|None|Nightfall|Standard|1738
+1364|Widescreen|Slate|Shutter|Joystick|None|Plug Cable|None|Crossroads|Standard|2069
+1365|Twin Tier|Slate|Sigil|Mouse|Periscope|Speakers|Banner|Lattice|Fully Loaded|67
+1366|Widescreen|Lichen|Visor|Datasette|Beacon|None|None|Slipstream|Standard|2005
+1367|Tape Deck|Tide|Orb|Floppy Drive|Mushrooms|None|None|Lattice|Standard|1676
+1368|Handheld|Pewter|Flatline|Codex Slate|Sonic Emitter|None|None|Nightfall|Standard|1766
+1369|Widescreen|Crimson|Flatline|Classic Keyboard|Ice Crystals|Sword and Shield|None|Crossroads|Heavy|479
+1370|Tower|Crimson|Slant|Gamepad|None|None|None|Slipstream|Light|229
+1371|Twin Tier|Sage|Dashes|Floppy Drive|None|Plug Cable|None|Crossroads|Standard|1699
+1372|Brackets|Spore|Dome|Joystick|None|Speakers|None|Slipstream|Standard|1891
+1373|Framed|Pewter|Peek|Keyboard|Beacon|Plug Cable|None|Downpour|Heavy|883
+1374|Twin Tier|Camo|Glitch|Floppy Drive|None|None|None|Daybreak|Light|103
+1375|Split Shell|Spore|Theorem|Floppy Drive|Dish|Thruster Pods|None|Slipstream|Heavy|770
+1376|Classic|Pewter|Glitch|Dial Deck|Periscope|Robot Arms|None|Slipstream|Heavy|888
+1377|Tower|Abyss|Beans|Joystick|Heat Sink|None|None|Crossroads|Standard|1594
+1378|Classic|Lichen|Wide|Floppy Drive|Dish|Solar Wings|None|Crossroads|Heavy|403
+1379|Radio|Moss|Orb|Trackball|Periscope|Plug Cable|None|Daybreak|Heavy|838
+1380|Tape Deck|Dune|Squint|Mouse|Rabbit Ears|None|None|Downpour|Standard|1524
+1381|Split Shell|Obsidian|Frown|Compact Keyboard|None|None|None|Slipstream|Light|121
+1382|Widescreen|Frost|Pulse|Split Keyboard|None|Wrench Arm|None|Searchlight|Standard|2148
+1383|Twin Tier|Bone|Slit|Numpad|Ice Crystals|Thruster Pods|None|Slipstream|Heavy|782
+1384|Console|Bone|Dome|Numpad|Sonic Emitter|None|None|Crossroads|Standard|1409
+1385|Side Lights|Sage|Slit|Split Keyboard|None|None|None|Daybreak|Light|256
+1386|Console|Abyss|Beans|Numpad|Mushrooms|Plug Cable|None|Lattice|Heavy|421
+1387|Tape Deck|Slate|Wary|Classic Keyboard|None|None|None|Nightfall|Light|388
+1388|Tape Deck|Ash|Mycelia|Datasette|None|None|Coolant Tank|Searchlight|Standard|2192
+1389|Porthole|Lichen|Dashes|Datasette|None|None|None|Mosaic|Light|186
+1390|Split Shell|Ash|Wary|Joystick|Sonic Emitter|None|None|Searchlight|Standard|1439
+1391|Brackets|Tide|Glitch|Fader Deck|Work Lamp|None|None|Downpour|Standard|1608
+1392|Framed|Abyss|Mycelia|Fader Deck|Propeller|Wrench Arm|None|Downpour|Heavy|452
+1393|Tower|Abyss|Pulse|Fader Deck|Sonic Emitter|Robot Arms|None|Daybreak|Heavy|654
+1394|Handheld|Abyss|Dashes|Datasette|Beacon|Robot Arms|None|Slipstream|Heavy|420
+1395|Side Car|Ember|Snowflake|Gamepad|None|None|None|Nightfall|Light|243
+1396|Tape Deck|Pewter|Flatline|Dial Deck|Propeller|None|None|Crossroads|Standard|2071
+1397|Twin Tier|Frost|Dome|Datasette|Propeller|Sword and Shield|None|Crossroads|Heavy|443
+1398|Porthole|Deep Teal|Curious|Split Keyboard|Heat Sink|Plug Cable|None|Searchlight|Heavy|907
+1399|Tape Deck|Ember|Mycelia|Codex Slate|Work Lamp|None|None|Lattice|Standard|2138
+1400|Radio|Camo|Peek|Floppy Drive|None|None|Battery Pack|Searchlight|Standard|1330
+1401|Split Shell|Ember|Visor|Codex Slate|None|None|Exhaust Pipes|Slipstream|Standard|1266
+1402|Console|Tide|Glitch|Datasette|Dish|None|None|Lattice|Standard|1823
+1403|Console|Crimson|Keyhole|Trackball|None|Plug Cable|None|Mosaic|Standard|1899
+1404|Brackets|Dune|Glitch|Datasette|None|None|Battery Pack|Daybreak|Standard|1244
+1405|Porthole|Mauve|Wide|Datasette|Work Lamp|Solar Wings|None|Nightfall|Heavy|546
+1406|Classic|Rust|Reticle|Joystick|None|Robot Arms|None|Lattice|Standard|1742
+1407|Side Lights|Dune|Theorem|Datasette|Dish|None|None|Downpour|Standard|1238
+1408|Framed|Deep Teal|Dome|Fader Deck|None|None|None|Crossroads|Light|321
+1409|Side Lights|Bone|Steady|Floppy Drive|None|Robot Arms|None|Crossroads|Standard|1668
+1410|Tape Deck|Bone|Keyhole|None|None|None|None|Daybreak|Bare|26
+1411|Side Lights|Camo|Wary|Datasette|Heat Sink|Robot Arms|None|Lattice|Heavy|890
+1412|Classic|Camo|Lidded|Codex Slate|Dish|Speakers|None|Daybreak|Heavy|819
+1413|Split Shell|Slate|Mycelia|Joystick|None|Thruster Pods|None|Crossroads|Standard|1588
+1414|Radio|Sage|Curious|Numpad|None|None|None|Daybreak|Light|386
+1415|Tower|Sage|Mycelia|Joystick|None|None|None|Mosaic|Light|287
+1416|Widescreen|Tide|Curious|Fader Deck|Beacon|Thruster Pods|None|Lattice|Heavy|872
+1417|Classic|Dune|Sigil|Mouse|Periscope|Thruster Pods|None|Slipstream|Heavy|909
+1418|Side Lights|Pewter|Scowl|Dial Deck|Mushrooms|None|None|Downpour|Standard|1504
+1419|Framed|Camo|Wide|Fader Deck|Beacon|None|None|Crossroads|Standard|1946
+1420|Codex Header|Lichen|Dashes|Mouse|Work Lamp|Solar Wings|None|Mosaic|Heavy|391
+1421|Tape Deck|Camo|Happy|Trackball|Beacon|Plug Cable|None|Daybreak|Heavy|408
+1422|Framed|Camo|Theorem|Compact Keyboard|Mushrooms|Plug Cable|None|Nightfall|Heavy|1033
+1423|Tower|Abyss|Slant|Split Keyboard|None|None|Sword|Nightfall|Standard|1591
+1424|Widescreen|Abyss|Beans|Floppy Drive|Propeller|Plug Cable|None|Lattice|Heavy|536
+1425|Side Lights|Sage|Beans|Compact Keyboard|Propeller|Thruster Pods|None|Daybreak|Heavy|754
+1426|Tape Deck|Tide|Scowl|Numpad|Work Lamp|None|None|Searchlight|Standard|1893
+1427|Classic|Ember|Slant|Datasette|Heat Sink|Speakers|None|Slipstream|Heavy|714
+1428|Handheld|Dune|Slit|Trackball|Ice Crystals|None|None|Nightfall|Standard|1269
+1429|Tape Deck|Moss|Visor|Numpad|Heat Sink|None|None|Searchlight|Standard|1725
+1430|Codex Header|Dune|Steady|Numpad|Beacon|Robot Arms|None|Downpour|Heavy|549
+1431|Side Lights|Deep Teal|Dashes|Datasette|None|Robot Arms|None|Lattice|Standard|2093
+1432|Split Shell|Ember|Orb|Joystick|Dish|None|None|Searchlight|Standard|1126
+1433|Hood|Ash|Dome|Codex Slate|Work Lamp|Solar Wings|None|Mosaic|Heavy|519
+1434|Console|Spore|Lens|Compact Keyboard|Ice Crystals|None|None|Mosaic|Standard|2026
+1435|Widescreen|Frost|Blocks|Codex Slate|Periscope|Sword and Shield|None|Searchlight|Heavy|552
+1436|Hood|Obsidian|Lens|Keyboard|Propeller|Robot Arms|None|Mosaic|Heavy|743
+1437|Framed|Camo|Wary|Gamepad|Sonic Emitter|Sword and Shield|None|Nightfall|Heavy|803
+1438|Console|Abyss|Dome|None|None|None|None|Nightfall|Bare|27
+1439|Radio|Deep Teal|Happy|Floppy Drive|Ice Crystals|Wrench Arm|None|Slipstream|Heavy|426
+1440|Widescreen|Moss|Orb|Numpad|Sonic Emitter|None|None|Mosaic|Standard|1184
+1441|Hood|Abyss|Happy|Compact Keyboard|Periscope|Solar Wings|None|Searchlight|Heavy|703
+1442|Radio|Obsidian|Slit|Fader Deck|None|Plug Cable|None|Mosaic|Standard|1711
+1443|Side Car|Dune|Slit|Mouse|None|None|Exhaust Pipes|Daybreak|Standard|1377
+1444|Classic|Ash|Shutter|Split Keyboard|Heat Sink|None|None|Crossroads|Standard|1999
+1445|Tape Deck|Camo|Reticle|Trackball|Mushrooms|None|None|Mosaic|Standard|1955
+1446|Tower|Spore|Sigil|Joystick|Heat Sink|Thruster Pods|None|Lattice|Heavy|760
+1447|Side Car|Ember|Wide|Keyboard|None|Sword and Shield|None|Mosaic|Standard|2197
+1448|Porthole|Glacier|Tangle|Classic Keyboard|None|None|Coolant Tank|Crossroads|Standard|1465
+1449|Widescreen|Dune|Scowl|Split Keyboard|Mushrooms|None|None|Crossroads|Standard|1327
+1450|Hood|Bone|Mycelia|Classic Keyboard|Mushrooms|Solar Wings|None|Downpour|Heavy|810
+1451|Tower|Obsidian|Orb|Joystick|Propeller|Robot Arms|None|Crossroads|Heavy|1090
+1452|Codex Header|Dune|Beans|Mouse|Beacon|None|None|Lattice|Standard|1466
+1453|Radio|Glacier|Glitch|Trackball|Rabbit Ears|None|None|Daybreak|Standard|1557
+1454|Porthole|Dune|Frown|Split Keyboard|None|None|None|Nightfall|Light|208
+1455|Tape Deck|Mauve|Scowl|Floppy Drive|Beacon|None|None|Slipstream|Standard|1459
+1456|Side Car|Rust|Tangle|Gamepad|Propeller|None|None|Slipstream|Standard|1287
+1457|Radio|Abyss|Keyhole|Joystick|None|None|None|Nightfall|Light|355
+1458|Side Car|Abyss|Snowflake|Fader Deck|Dish|Sword and Shield|None|Downpour|Heavy|489
+1459|Handheld|Deep Teal|Happy|Floppy Drive|None|Thruster Pods|None|Lattice|Standard|1953
+1460|Hood|Sage|Dots|Codex Slate|Dish|Robot Arms|None|Searchlight|Heavy|911
+1461|Console|Abyss|Pulse|Codex Slate|Heat Sink|None|None|Slipstream|Standard|1868
+1462|Split Shell|Ember|Reticle|Datasette|Periscope|Sword and Shield|Banner|Lattice|Fully Loaded|52
+1463|Porthole|Spore|Dome|Keyboard|None|Speakers|None|Downpour|Standard|1890
+1464|Framed|Bone|Glitch|Mouse|Rabbit Ears|Sword and Shield|None|Nightfall|Heavy|986
+1465|Side Lights|Ash|Mycelia|Compact Keyboard|None|Speakers|None|Searchlight|Standard|2181
+1466|Split Shell|Mauve|Theorem|Trackball|None|None|None|Crossroads|Light|90
+1467|Classic|Ash|Lens|Compact Keyboard|Ice Crystals|None|None|Nightfall|Standard|2016
+1468|Handheld|Moss|Peek|Datasette|Dish|None|None|Searchlight|Standard|1228
+1469|Framed|Spore|Lens|Gamepad|None|Plug Cable|None|Crossroads|Standard|2209
+1470|Tape Deck|Lichen|Visor|Mouse|Work Lamp|None|None|Slipstream|Standard|2144
+1471|Hood|Moss|Frown|Split Keyboard|Beacon|Sword and Shield|None|Slipstream|Heavy|1092
+1472|Codex Header|Obsidian|Dots|Mouse|None|Speakers|None|Searchlight|Standard|1115
+1473|Codex Header|Moss|Seeker|Mouse|None|None|None|Nightfall|Light|149
+1474|Tower|Moss|Wary|Classic Keyboard|None|Speakers|None|Nightfall|Standard|1656
+1475|Split Shell|Sage|Dome|Split Keyboard|None|Wrench Arm|None|Slipstream|Standard|1434
+1476|Tower|Rust|Visor|Numpad|Heat Sink|Robot Arms|None|Mosaic|Heavy|822
+1477|Split Shell|Dune|Steady|Joystick|None|Solar Wings|None|Lattice|Standard|1572
+1478|Side Lights|Deep Teal|Peek|Mouse|None|Solar Wings|None|Daybreak|Standard|1726
+1479|Tower|Lichen|Visor|Trackball|None|None|None|Downpour|Light|141
+1480|Handheld|Frost|Slant|Split Keyboard|Sonic Emitter|Robot Arms|None|Searchlight|Heavy|595
+1481|Side Car|Spore|Peek|Joystick|Rabbit Ears|None|None|Slipstream|Standard|1455
+1482|Classic|Spore|Glitch|Floppy Drive|Periscope|Plug Cable|None|Searchlight|Heavy|866
+1483|Classic|Abyss|Squint|Dial Deck|Heat Sink|Plug Cable|None|Downpour|Heavy|882
+1484|Side Lights|Mauve|Slit|Split Keyboard|Mushrooms|Plug Cable|None|Slipstream|Heavy|1068
+1485|Tape Deck|Sage|Scowl|Keyboard|None|None|None|Nightfall|Light|389
+1486|Codex Header|Obsidian|Pulse|Classic Keyboard|None|Robot Arms|None|Nightfall|Standard|1566
+1487|Codex Header|Camo|Visor|Trackball|Heat Sink|Speakers|None|Lattice|Heavy|492
+1488|Hood|Camo|Tangle|Floppy Drive|None|Speakers|None|Downpour|Standard|1785
+1489|Console|Tide|Frown|Fader Deck|None|None|Signal Mast|Slipstream|Standard|1324
+1490|Framed|Ash|Snowflake|Numpad|Sonic Emitter|Thruster Pods|None|Searchlight|Heavy|500
+1491|Tape Deck|Pewter|Wide|Trackball|Work Lamp|None|None|Nightfall|Standard|2183
+1492|Handheld|Slate|Wary|Gamepad|Work Lamp|None|None|Daybreak|Standard|1223
+1493|Framed|Glacier|Snowflake|Compact Keyboard|None|None|Sword|Mosaic|Standard|1595
+1494|Hood|Rust|Lens|Fader Deck|None|Sword and Shield|None|Lattice|Standard|2036
+1495|Side Car|Glacier|Frown|Fader Deck|Mushrooms|None|None|Lattice|Standard|1289
+1496|Porthole|Slate|Mycelia|Dial Deck|Work Lamp|None|None|Downpour|Standard|1568
+1497|Split Shell|Lichen|Dots|Codex Slate|Periscope|Plug Cable|Banner|Mosaic|Fully Loaded|45
+1498|Hood|Sage|Slit|Numpad|Periscope|Robot Arms|None|Lattice|Heavy|723
+1499|Side Car|Sage|Keyhole|Fader Deck|None|None|None|Searchlight|Light|327
+1500|Tower|Mauve|Visor|Split Keyboard|Heat Sink|Thruster Pods|None|Crossroads|Heavy|886
+1501|Brackets|Lichen|Slant|Split Keyboard|Mushrooms|None|None|Mosaic|Standard|1857
+1502|Codex Header|Bone|Wide|Keyboard|None|Robot Arms|None|Mosaic|Standard|2052
+1503|Side Car|Bone|Curious|Split Keyboard|Mushrooms|Sword and Shield|None|Daybreak|Heavy|1020
+1504|Classic|Moss|Dots|Dial Deck|Work Lamp|Solar Wings|None|Daybreak|Heavy|1081
+1505|Classic|Spore|Slit|Joystick|None|Sword and Shield|None|Downpour|Standard|1950
+1506|Porthole|Ember|Slant|Fader Deck|Mushrooms|Robot Arms|None|Crossroads|Heavy|657
+1507|Tower|Sage|Glitch|Dial Deck|Rabbit Ears|Speakers|None|Lattice|Heavy|741
+1508|Side Lights|Mauve|Dots|Fader Deck|Periscope|Robot Arms|None|Lattice|Heavy|1065
+1509|Split Shell|Tide|Slant|Compact Keyboard|Periscope|Speakers|Banner|Mosaic|Fully Loaded|75
+1510|Brackets|Dune|Glitch|Numpad|Beacon|Wrench Arm|None|Crossroads|Heavy|972
+1511|Console|Rust|Tangle|Split Keyboard|Work Lamp|None|None|Nightfall|Standard|1463
+1512|Porthole|Moss|Tangle|Dial Deck|None|None|Exhaust Pipes|Nightfall|Standard|1250
+1513|Split Shell|Moss|Pulse|Trackball|Rabbit Ears|Robot Arms|None|Downpour|Heavy|817
+1514|Widescreen|Rust|Orb|Gamepad|Ice Crystals|Plug Cable|None|Mosaic|Heavy|1029
+1515|Tape Deck|Moss|Frown|Datasette|Propeller|None|None|Lattice|Standard|1296
+1516|Side Car|Lichen|Peek|Compact Keyboard|None|None|Coolant Tank|Searchlight|Standard|1671
+1517|Side Lights|Tide|Lens|Compact Keyboard|Propeller|Sword and Shield|None|Daybreak|Heavy|630
+1518|Split Shell|Moss|Pulse|Codex Slate|Sonic Emitter|Robot Arms|None|Crossroads|Heavy|767
+1519|Porthole|Abyss|Squint|Joystick|None|Solar Wings|None|Daybreak|Standard|1790
+1520|Tape Deck|Ember|Dots|Floppy Drive|None|None|Exhaust Pipes|Downpour|Standard|1252
+1521|Tape Deck|Moss|Blocks|Dial Deck|None|None|None|Slipstream|Light|316
+1522|Handheld|Pewter|Mycelia|Classic Keyboard|None|None|None|Lattice|Light|96
+1523|Framed|Camo|Glitch|Mouse|None|None|Sword|Lattice|Standard|1456
+1524|Porthole|Tide|Tangle|Numpad|Propeller|Solar Wings|None|Searchlight|Heavy|816
+1525|Codex Header|Slate|Happy|Mouse|Heat Sink|Robot Arms|None|Daybreak|Heavy|569
+1526|Twin Tier|Dune|Sigil|Compact Keyboard|None|None|None|Searchlight|Light|104
+1527|Brackets|Bone|Tangle|Compact Keyboard|None|None|None|Daybreak|Light|102
+1528|Classic|Mauve|Dashes|Datasette|None|None|Battery Pack|Downpour|Standard|1282
+1529|Tower|Pewter|Snowflake|Codex Slate|Sonic Emitter|None|None|Searchlight|Standard|1714
+1530|Framed|Frost|Pulse|Dial Deck|Work Lamp|None|None|Lattice|Standard|1788
+1531|Split Shell|Dune|Beans|Numpad|Propeller|Speakers|None|Lattice|Heavy|574
+1532|Radio|Abyss|Dome|Dial Deck|Rabbit Ears|None|None|Searchlight|Standard|1612
+1533|Radio|Dune|Happy|Trackball|None|None|None|Downpour|Light|291
+1534|Framed|Pewter|Curious|Trackball|Periscope|Sword and Shield|None|Downpour|Heavy|900
+1535|Codex Header|Abyss|Reticle|None|None|None|None|Slipstream|Bare|16
+1536|Framed|Deep Teal|Lidded|Keyboard|Dish|None|None|Downpour|Standard|1872
+1537|Console|Ash|Scowl|Dial Deck|Work Lamp|None|None|Nightfall|Standard|1937
+1538|Codex Header|Crimson|Snowflake|Datasette|None|None|None|Crossroads|Light|363
+1539|Twin Tier|Camo|Orb|Classic Keyboard|Sonic Emitter|Thruster Pods|None|Daybreak|Heavy|932
+1540|Porthole|Mauve|Visor|Numpad|Dish|None|None|Searchlight|Standard|1363
+1541|Tape Deck|Rust|Peek|Keyboard|None|None|Tesla Coil|Nightfall|Standard|1302
+1542|Tower|Pewter|Scowl|Codex Slate|None|Thruster Pods|None|Lattice|Standard|1978
+1543|Classic|Lichen|Theorem|Mouse|None|Sword and Shield|None|Downpour|Standard|1949
+1544|Hood|Abyss|Curious|Trackball|Periscope|Speakers|None|Searchlight|Heavy|823
+1545|Classic|Slate|Pulse|Joystick|None|None|Signal Mast|Nightfall|Standard|1202
+1546|Split Shell|Glacier|Pulse|Classic Keyboard|None|None|Signal Mast|Downpour|Standard|1241
+1547|Console|Bone|Snowflake|Floppy Drive|None|Wrench Arm|None|Lattice|Standard|1954
+1548|Handheld|Ash|Scowl|Dial Deck|Sonic Emitter|Speakers|None|Crossroads|Heavy|687
+1549|Widescreen|Dune|Dots|Datasette|Dish|Wrench Arm|None|Slipstream|Heavy|931
+1550|Split Shell|Rust|Lidded|Gamepad|Beacon|Speakers|None|Lattice|Heavy|665
+1551|Radio|Spore|Steady|Floppy Drive|None|Wrench Arm|None|Daybreak|Standard|2168
+1552|Side Lights|Tide|Squint|Fader Deck|None|Solar Wings|None|Searchlight|Standard|1834
+1553|Split Shell|Slate|Lens|Trackball|None|None|Coolant Tank|Nightfall|Standard|1234
+1554|Tape Deck|Ember|Frown|Classic Keyboard|None|None|None|Daybreak|Light|359
+1555|Brackets|Abyss|Squint|Dial Deck|None|Robot Arms|None|Downpour|Standard|1797
+1556|Widescreen|Mauve|Frown|Codex Slate|Heat Sink|Thruster Pods|None|Searchlight|Heavy|1042
+1557|Widescreen|Obsidian|Reticle|Dial Deck|Rabbit Ears|Sword and Shield|None|Searchlight|Heavy|763
+1558|Split Shell|Moss|Scowl|Dial Deck|None|None|Battery Pack|Daybreak|Standard|1106
+1559|Porthole|Mauve|Wary|Codex Slate|Beacon|Speakers|None|Mosaic|Heavy|998
+1560|Side Lights|Rust|Tangle|Datasette|Rabbit Ears|Thruster Pods|None|Slipstream|Heavy|1008
+1561|Console|Spore|Peek|Datasette|None|None|Battery Pack|Mosaic|Standard|1453
+1562|Radio|Spore|Steady|Datasette|None|None|None|Searchlight|Light|317
+1563|Hood|Slate|Snowflake|Compact Keyboard|None|Robot Arms|None|Daybreak|Standard|1479
+1564|Handheld|Slate|Dashes|Numpad|Ice Crystals|Thruster Pods|None|Downpour|Heavy|449
+1565|Console|Crimson|Blocks|Numpad|Periscope|Plug Cable|None|Nightfall|Heavy|429
+1566|Side Lights|Abyss|Glitch|Codex Slate|Ice Crystals|None|None|Daybreak|Standard|1295
+1567|Classic|Lichen|Steady|Trackball|Beacon|Speakers|None|Searchlight|Heavy|560
+1568|Tower|Tide|Reticle|Mouse|Dish|Robot Arms|None|Daybreak|Heavy|615
+1569|Codex Header|Obsidian|Keyhole|Trackball|None|None|None|Downpour|Light|313
+1570|Classic|Rust|Curious|Keyboard|Sonic Emitter|Solar Wings|None|Downpour|Heavy|1063
+1571|Split Shell|Spore|Happy|Floppy Drive|Mushrooms|None|None|Mosaic|Standard|1259
+1572|Tower|Glacier|Steady|Floppy Drive|Propeller|Solar Wings|None|Daybreak|Heavy|818
+1573|Classic|Pewter|Shutter|Trackball|None|Solar Wings|None|Searchlight|Standard|2149
+1574|Porthole|Rust|Reticle|Split Keyboard|None|None|None|Slipstream|Light|173
+1575|Classic|Moss|Frown|Trackball|Periscope|Robot Arms|None|Downpour|Heavy|1079
+1576|Framed|Rust|Keyhole|Mouse|None|None|None|Lattice|Light|193
+1577|Console|Mauve|Keyhole|Keyboard|Mushrooms|Wrench Arm|None|Searchlight|Heavy|680
+1578|Split Shell|Sage|Keyhole|Dial Deck|Periscope|Robot Arms|Banner|Crossroads|Fully Loaded|41
+1579|Radio|Slate|Lens|Joystick|Sonic Emitter|None|None|Slipstream|Standard|1811
+1580|Console|Obsidian|Curious|Classic Keyboard|Rabbit Ears|Wrench Arm|None|Crossroads|Heavy|777
+1581|Codex Header|Glacier|Dashes|Compact Keyboard|None|Robot Arms|None|Crossroads|Standard|2106
+1582|Radio|Tide|Seeker|Joystick|Work Lamp|None|None|Crossroads|Standard|2054
+1583|Handheld|Ash|Scowl|Compact Keyboard|None|None|Tesla Coil|Daybreak|Standard|1416
+1584|Radio|Deep Teal|Mycelia|Split Keyboard|None|None|None|Downpour|Light|335
+1585|Classic|Dune|Happy|Keyboard|None|Speakers|None|Nightfall|Standard|1755
+1586|Side Car|Deep Teal|Slant|Dial Deck|Sonic Emitter|Sword and Shield|None|Downpour|Heavy|537
+1587|Radio|Glacier|Keyhole|Floppy Drive|Rabbit Ears|Wrench Arm|None|Slipstream|Heavy|610
+1588|Brackets|Dune|Wide|Split Keyboard|None|None|None|Nightfall|Light|207
+1589|Widescreen|Crimson|Mycelia|Classic Keyboard|None|None|Exhaust Pipes|Daybreak|Standard|1804
+1590|Radio|Rust|Pulse|Keyboard|Ice Crystals|None|None|Searchlight|Standard|1417
+1591|Side Car|Mauve|Squint|Joystick|None|None|None|Mosaic|Light|200
+1592|Codex Header|Camo|Pulse|Floppy Drive|None|None|None|Downpour|Light|197
+1593|Side Car|Dune|Steady|Joystick|Propeller|None|None|Downpour|Standard|1626
+1594|Side Car|Glacier|Keyhole|Keyboard|Ice Crystals|None|None|Nightfall|Standard|1323
+1595|Framed|Camo|Curious|Numpad|Mushrooms|Thruster Pods|None|Searchlight|Heavy|958
+1596|Twin Tier|Obsidian|Steady|Numpad|None|None|Battery Pack|Mosaic|Standard|1105
+1597|Twin Tier|Spore|Dome|Joystick|Beacon|Sword and Shield|None|Lattice|Heavy|490
+1598|Side Lights|Ash|Pulse|Mouse|Ice Crystals|Robot Arms|None|Searchlight|Heavy|600
+1599|Twin Tier|Ember|Beans|Datasette|None|None|None|Mosaic|Light|109
+1600|Side Car|Sage|Wide|Codex Slate|Rabbit Ears|None|None|Downpour|Standard|1763
+1601|Porthole|Obsidian|Curious|Dial Deck|None|None|Sword|Searchlight|Standard|1107
+1602|Tape Deck|Deep Teal|Dashes|Codex Slate|None|None|None|Nightfall|Light|383
+1603|Tape Deck|Rust|Lens|Fader Deck|Mushrooms|None|None|Daybreak|Standard|1987
+1604|Classic|Pewter|Visor|Datasette|Dish|Robot Arms|None|Daybreak|Heavy|791
+1605|Tower|Sage|Blocks|Split Keyboard|Work Lamp|Wrench Arm|None|Searchlight|Heavy|804
+1606|Side Car|Mauve|Dashes|Keyboard|None|None|None|Daybreak|Light|217
+1607|Framed|Spore|Seeker|Trackball|None|None|Sword|Daybreak|Standard|1800
+1608|Framed|Obsidian|Orb|Keyboard|None|Plug Cable|None|Mosaic|Standard|1325
+1609|Classic|Mauve|Orb|Datasette|Periscope|Wrench Arm|None|Nightfall|Heavy|1099
+1610|Brackets|Camo|Curious|Numpad|Periscope|Sword and Shield|None|Daybreak|Heavy|983
+1611|Porthole|Slate|Snowflake|Dial Deck|None|None|None|Crossroads|Light|250
+1612|Side Car|Abyss|Visor|Compact Keyboard|Heat Sink|None|None|Crossroads|Standard|1680
+1613|Handheld|Tide|Wide|Classic Keyboard|None|None|Signal Mast|Downpour|Standard|1842
+1614|Codex Header|Spore|Squint|Numpad|None|Solar Wings|None|Lattice|Standard|1819
+1615|Handheld|Glacier|Dots|Classic Keyboard|None|Robot Arms|None|Nightfall|Standard|1336
+1616|Side Car|Ash|Happy|Joystick|None|None|None|Daybreak|Light|209
+1617|Framed|Ember|Dots|Gamepad|None|Sword and Shield|None|Daybreak|Standard|1391
+1618|Brackets|Lichen|Tangle|Trackball|None|Speakers|None|Slipstream|Standard|2064
+1619|Classic|Sage|Happy|Compact Keyboard|None|None|Tesla Coil|Lattice|Standard|1187
+1620|Console|Dune|Happy|Fader Deck|None|None|None|Nightfall|Light|293
+1621|Side Lights|Glacier|Dome|Keyboard|Ice Crystals|Solar Wings|None|Nightfall|Heavy|713
+1622|Side Car|Camo|Frown|Floppy Drive|None|None|None|Nightfall|Light|195
+1623|Codex Header|Pewter|Squint|Floppy Drive|None|Plug Cable|None|Searchlight|Standard|2087
+1624|Radio|Abyss|Visor|Trackball|Work Lamp|None|None|Searchlight|Standard|1810
+1625|Porthole|Dune|Mycelia|Trackball|Dish|Speakers|None|Mosaic|Heavy|612
+1626|Classic|Crimson|Keyhole|Classic Keyboard|Ice Crystals|Sword and Shield|None|Daybreak|Heavy|724
+1627|Codex Header|Moss|Dots|Floppy Drive|None|Robot Arms|None|Mosaic|Standard|1226
+1628|Twin Tier|Moss|Visor|Fader Deck|None|Thruster Pods|None|Crossroads|Standard|1436
+1629|Framed|Ember|Shutter|Dial Deck|Beacon|None|None|Daybreak|Standard|1873
+1630|Tower|Crimson|Squint|Joystick|Dish|None|None|Mosaic|Standard|1328
+1631|Tower|Tide|Slit|Gamepad|Dish|Speakers|None|Mosaic|Heavy|788
+1632|Side Lights|Tide|Beans|Mouse|None|None|Sword|Nightfall|Standard|1635
+1633|Framed|Glacier|Happy|Gamepad|Sonic Emitter|None|None|Searchlight|Standard|1616
+1634|Side Car|Glacier|Tangle|Keyboard|None|None|Battery Pack|Lattice|Standard|1474
+1635|Classic|Deep Teal|Seeker|Numpad|Propeller|Sword and Shield|None|Lattice|Heavy|828
+1636|Classic|Sage|Wide|Gamepad|Heat Sink|None|None|Downpour|Standard|1567
+1637|Tower|Rust|Seeker|Gamepad|Heat Sink|None|None|Daybreak|Standard|1381
+1638|Porthole|Tide|Snowflake|Datasette|None|None|Exhaust Pipes|Lattice|Standard|1560
+1639|Framed|Spore|Mycelia|Keyboard|None|None|None|Crossroads|Light|232
+1640|Side Car|Slate|Keyhole|Codex Slate|Dish|None|None|Nightfall|Standard|1183
+1641|Codex Header|Ember|Peek|Datasette|None|Wrench Arm|None|Lattice|Standard|1951
+1642|Radio|Ember|Frown|Classic Keyboard|None|None|None|Lattice|Light|340
+1643|Codex Header|Deep Teal|Slant|Codex Slate|None|Solar Wings|None|Mosaic|Standard|2032
+1644|Side Lights|Spore|Lens|Split Keyboard|None|None|Exhaust Pipes|Lattice|Standard|1830
+1645|Tape Deck|Slate|Reticle|Trackball|None|Plug Cable|None|Crossroads|Standard|2111
+1646|Codex Header|Spore|Squint|Joystick|None|None|None|Downpour|Light|372
+1647|Handheld|Dune|Lens|Fader Deck|None|None|None|Crossroads|Light|128
+1648|Classic|Glacier|Happy|Split Keyboard|None|None|Signal Mast|Mosaic|Standard|1329
+1649|Console|Sage|Wide|Split Keyboard|None|Wrench Arm|None|Crossroads|Standard|2194
+1650|Codex Header|Obsidian|Mycelia|Gamepad|None|Speakers|None|Crossroads|Standard|1709
+1651|Side Car|Lichen|Shutter|Mouse|None|None|None|Mosaic|Light|158
+1652|Console|Crimson|Curious|Datasette|None|None|None|Mosaic|Light|353
+1653|Classic|Ember|Squint|Floppy Drive|None|None|Coolant Tank|Mosaic|Standard|1271
+1654|Brackets|Ash|Slit|Compact Keyboard|None|Robot Arms|None|Mosaic|Standard|2124
+1655|Console|Pewter|Frown|Split Keyboard|Sonic Emitter|Wrench Arm|None|Lattice|Heavy|650
+1656|Hood|Glacier|Wary|Numpad|None|None|Signal Mast|Slipstream|Standard|1317
+1657|Side Car|Crimson|Steady|Numpad|None|Sword and Shield|None|Lattice|Standard|2057
+1658|Porthole|Rust|Flatline|Keyboard|None|None|None|Lattice|Light|144
+1659|Widescreen|Tide|Curious|Mouse|None|None|Tesla Coil|Nightfall|Standard|1209
+1660|Brackets|Slate|Reticle|Keyboard|Rabbit Ears|Robot Arms|None|Lattice|Heavy|655
+1661|Framed|Abyss|Sigil|Mouse|Mushrooms|Sword and Shield|None|Slipstream|Heavy|622
+1662|Tower|Spore|Reticle|Classic Keyboard|Sonic Emitter|Speakers|None|Searchlight|Heavy|593
+1663|Console|Camo|Keyhole|Gamepad|Mushrooms|None|None|Mosaic|Standard|1438
+1664|Tower|Sage|Orb|Compact Keyboard|None|None|None|Searchlight|Light|239
+1665|Tape Deck|Camo|Snowflake|Numpad|None|None|None|Slipstream|Light|306
+1666|Tower|Slate|Scowl|Compact Keyboard|Propeller|Speakers|None|Slipstream|Heavy|925
+1667|Twin Tier|Camo|Glitch|Compact Keyboard|None|None|Signal Mast|Downpour|Standard|1128
+1668|Widescreen|Ash|Slit|Classic Keyboard|None|None|Coolant Tank|Mosaic|Standard|1853
+1669|Framed|Obsidian|Scowl|Dial Deck|None|None|None|Lattice|Light|282
+1670|Codex Header|Ash|Sigil|Fader Deck|None|None|None|Downpour|Light|307
+1671|Tower|Deep Teal|Frown|Split Keyboard|None|None|None|Daybreak|Light|210
+1672|Twin Tier|Bone|Pulse|Mouse|Periscope|Speakers|Banner|Crossroads|Fully Loaded|60
+1673|Porthole|Sage|Beans|Fader Deck|None|None|Coolant Tank|Daybreak|Standard|1298
+1674|Widescreen|Sage|Seeker|Datasette|Mushrooms|Wrench Arm|None|Daybreak|Heavy|620
+1675|Porthole|Ash|Reticle|Joystick|None|None|Sword|Downpour|Standard|2006
+1676|Side Car|Obsidian|Seeker|Fader Deck|None|Sword and Shield|None|Slipstream|Standard|1748
+1677|Tape Deck|Crimson|Mycelia|Gamepad|Propeller|None|None|Daybreak|Standard|2061
+1678|Radio|Tide|Wary|Codex Slate|None|None|None|Crossroads|Light|253
+1679|Hood|Sage|Mycelia|Compact Keyboard|None|None|None|Daybreak|Light|228
+1680|Hood|Mauve|Flatline|Codex Slate|None|Wrench Arm|None|Downpour|Standard|1862
+1681|Codex Header|Mauve|Wary|Dial Deck|None|Robot Arms|None|Slipstream|Standard|1655
+1682|Radio|Glacier|Scowl|Joystick|Mushrooms|Plug Cable|None|Slipstream|Heavy|640
+1683|Handheld|Slate|Mycelia|Codex Slate|None|None|Tesla Coil|Slipstream|Standard|1331
+1684|Codex Header|Tide|Beans|Datasette|None|Robot Arms|None|Daybreak|Standard|2103
+1685|Side Car|Tide|Sigil|Split Keyboard|Beacon|Sword and Shield|None|Mosaic|Heavy|673
+1686|Widescreen|Glacier|Seeker|Dial Deck|None|None|Tesla Coil|Mosaic|Standard|1657
+1687|Widescreen|Obsidian|Blocks|Codex Slate|None|None|Signal Mast|Nightfall|Standard|1154
+1688|Porthole|Obsidian|Shutter|Keyboard|Work Lamp|Thruster Pods|None|Mosaic|Heavy|799
+1689|Tower|Mauve|Reticle|Gamepad|None|Robot Arms|None|Daybreak|Standard|1815
+1690|Hood|Ash|Scowl|Datasette|Heat Sink|None|None|Searchlight|Standard|1611
+1691|Tape Deck|Obsidian|Happy|Joystick|None|None|None|Searchlight|Light|343
+1692|Radio|Sage|Seeker|Trackball|None|Wrench Arm|None|Mosaic|Standard|2101
+1693|Codex Header|Mauve|Frown|Codex Slate|None|None|None|Daybreak|Light|242
+1694|Tape Deck|Abyss|Dots|Mouse|Dish|Plug Cable|None|Nightfall|Heavy|404
+1695|Handheld|Lichen|Happy|Keyboard|Dish|Speakers|None|Nightfall|Heavy|578
+1696|Radio|Camo|Flatline|Mouse|Ice Crystals|Plug Cable|None|Mosaic|Heavy|468
+1697|Porthole|Lichen|Visor|Datasette|Beacon|Solar Wings|None|Crossroads|Heavy|466
+1698|Split Shell|Glacier|Keyhole|Keyboard|Mushrooms|None|None|Searchlight|Standard|1166
+1699|Codex Header|Spore|Flatline|Fader Deck|None|None|None|Crossroads|Light|330
+1700|Classic|Camo|Glitch|Datasette|Mushrooms|Speakers|None|Slipstream|Heavy|936
+1701|Codex Header|Bone|Scowl|None|None|None|None|Nightfall|Bare|24
+1702|Split Shell|Camo|Flatline|Trackball|None|Speakers|None|Daybreak|Standard|1527
+1703|Tower|Sage|Squint|Numpad|None|None|None|Lattice|Light|294
+1704|Classic|Spore|Mycelia|Classic Keyboard|Rabbit Ears|Robot Arms|None|Searchlight|Heavy|581
+1705|Classic|Sage|Wide|Fader Deck|Sonic Emitter|Thruster Pods|None|Nightfall|Heavy|459
+1706|Tape Deck|Crimson|Curious|Gamepad|Propeller|Plug Cable|None|Crossroads|Heavy|400
+1707|Tower|Camo|Shutter|Codex Slate|Mushrooms|Wrench Arm|None|Lattice|Heavy|658
+1708|Handheld|Mauve|Frown|Classic Keyboard|Dish|None|None|Slipstream|Standard|1130
+1709|Brackets|Camo|Orb|Compact Keyboard|None|None|Tesla Coil|Mosaic|Standard|1164
+1710|Side Car|Pewter|Happy|Datasette|None|Wrench Arm|None|Mosaic|Standard|2174
+1711|Codex Header|Pewter|Happy|Dial Deck|None|Speakers|None|Mosaic|Standard|2073
+1712|Twin Tier|Pewter|Squint|Mouse|Rabbit Ears|Robot Arms|None|Mosaic|Heavy|766
+1713|Porthole|Tide|Peek|Floppy Drive|Sonic Emitter|Speakers|None|Nightfall|Heavy|808
+1714|Codex Header|Camo|Steady|Datasette|None|None|None|Crossroads|Light|262
+1715|Framed|Sage|Pulse|Dial Deck|Dish|None|None|Daybreak|Standard|1483
+1716|Tower|Spore|Tangle|Keyboard|Mushrooms|Speakers|None|Nightfall|Heavy|740
+1717|Brackets|Ash|Curious|Gamepad|Dish|None|None|Slipstream|Standard|1410
+1718|Radio|Crimson|Dots|Keyboard|None|Plug Cable|None|Lattice|Standard|1590
+1719|Side Car|Slate|Visor|Split Keyboard|None|None|None|Mosaic|Light|314
+1720|Handheld|Sage|Squint|Compact Keyboard|Propeller|None|None|Crossroads|Standard|1206
+1721|Side Lights|Obsidian|Lidded|Trackball|None|None|Sword|Nightfall|Standard|1199
+1722|Classic|Frost|Beans|Keyboard|Mushrooms|None|None|Nightfall|Standard|1600
+1723|Widescreen|Pewter|Steady|Compact Keyboard|None|Plug Cable|None|Crossroads|Standard|2177
+1724|Brackets|Sage|Visor|Joystick|Beacon|Robot Arms|None|Lattice|Heavy|604
+1725|Radio|Ash|Reticle|Dial Deck|None|None|Battery Pack|Lattice|Standard|1957
+1726|Porthole|Moss|Orb|Keyboard|None|None|Sword|Nightfall|Standard|1181
+1727|Codex Header|Tide|Frown|Codex Slate|None|Thruster Pods|None|Mosaic|Standard|1718
+1728|Handheld|Crimson|Theorem|Floppy Drive|None|None|Exhaust Pipes|Downpour|Standard|1216
+1729|Radio|Crimson|Squint|Gamepad|Propeller|None|None|Daybreak|Standard|1420
+1730|Side Car|Dune|Dome|Numpad|None|Thruster Pods|None|Slipstream|Standard|1844
+1731|Side Lights|Sage|Curious|Numpad|None|None|None|Downpour|Light|236
+1732|Handheld|Pewter|Tangle|Mouse|None|None|None|Daybreak|Light|97
+1733|Tape Deck|Obsidian|Mycelia|Codex Slate|None|None|None|Searchlight|Light|341
+1734|Widescreen|Camo|Glitch|Dial Deck|None|Wrench Arm|None|Mosaic|Standard|1997
+1735|Codex Header|Ash|Steady|Split Keyboard|None|Sword and Shield|None|Slipstream|Standard|2180
+1736|Porthole|Camo|Theorem|Floppy Drive|Work Lamp|Solar Wings|None|Lattice|Heavy|1009
+1737|Side Lights|Obsidian|Happy|Fader Deck|Beacon|Solar Wings|None|Nightfall|Heavy|1057
+1738|Framed|Pewter|Tangle|Compact Keyboard|None|None|Sword|Downpour|Standard|1751
+1739|Split Shell|Ember|Slit|Dial Deck|Periscope|Thruster Pods|Banner|Nightfall|Fully Loaded|38
+1740|Twin Tier|Bone|Peek|Datasette|Work Lamp|Sword and Shield|None|Nightfall|Heavy|896
+1741|Porthole|Slate|Seeker|Dial Deck|Dish|Robot Arms|None|Daybreak|Heavy|746
+1742|Hood|Pewter|Glitch|Classic Keyboard|Dish|Sword and Shield|None|Lattice|Heavy|971
+1743|Side Lights|Frost|Seeker|Numpad|None|None|Battery Pack|Slipstream|Standard|1533
+1744|Tape Deck|Obsidian|Dashes|Dial Deck|None|None|Signal Mast|Crossroads|Standard|1354
+1745|Brackets|Pewter|Dashes|Classic Keyboard|Mushrooms|Robot Arms|None|Searchlight|Heavy|470
+1746|Framed|Mauve|Slit|Compact Keyboard|Periscope|Wrench Arm|None|Slipstream|Heavy|915
+1747|Split Shell|Dune|Flatline|Numpad|None|None|None|Lattice|Light|107
+1748|Side Car|Crimson|Lidded|Datasette|None|None|None|Downpour|Light|299
+1749|Brackets|Deep Teal|Seeker|Dial Deck|None|None|Tesla Coil|Searchlight|Standard|1630
+1750|Side Lights|Tide|Visor|Mouse|None|None|Tesla Coil|Downpour|Standard|1473
+1751|Twin Tier|Obsidian|Keyhole|Gamepad|Rabbit Ears|Sword and Shield|None|Crossroads|Heavy|933
+1752|Codex Header|Deep Teal|Glitch|Gamepad|None|None|None|Nightfall|Light|324
+1753|Tape Deck|Camo|Dome|Classic Keyboard|None|None|Exhaust Pipes|Mosaic|Standard|1759
+1754|Widescreen|Slate|Happy|Compact Keyboard|Dish|None|None|Searchlight|Standard|1281
+1755|Tower|Frost|Blocks|Split Keyboard|None|None|None|Nightfall|Light|174
+1756|Brackets|Glacier|Pulse|None|None|None|None|Mosaic|Bare|3
+1757|Tape Deck|Bone|Lidded|Classic Keyboard|Ice Crystals|None|None|Downpour|Standard|1631
+1758|Radio|Lichen|Theorem|Compact Keyboard|Sonic Emitter|None|None|Nightfall|Standard|1757
+1759|Twin Tier|Obsidian|Seeker|Floppy Drive|None|None|Sword|Searchlight|Standard|1133
+1760|Side Lights|Moss|Shutter|Codex Slate|Heat Sink|None|None|Searchlight|Standard|1526
+1761|Tape Deck|Frost|Wide|Joystick|None|None|None|Nightfall|Light|377
+1762|Tape Deck|Glacier|Squint|Floppy Drive|None|None|None|Daybreak|Light|258
+1763|Tower|Mauve|Wary|Classic Keyboard|None|None|Exhaust Pipes|Slipstream|Standard|1258
+1764|Console|Ash|Slit|Keyboard|Ice Crystals|None|None|Slipstream|Standard|1980
+1765|Twin Tier|Crimson|Flatline|Keyboard|Rabbit Ears|Thruster Pods|None|Slipstream|Heavy|494
+1766|Split Shell|Moss|Squint|Split Keyboard|Heat Sink|Robot Arms|None|Lattice|Heavy|813
+1767|Tape Deck|Sage|Sigil|Datasette|None|None|Sword|Mosaic|Standard|1771
+1768|Brackets|Rust|Peek|Gamepad|Mushrooms|Robot Arms|None|Daybreak|Heavy|945
+1769|Handheld|Slate|Shutter|Keyboard|Work Lamp|Sword and Shield|None|Slipstream|Heavy|644
+1770|Console|Crimson|Squint|Split Keyboard|Propeller|None|None|Searchlight|Standard|1531
+1771|Split Shell|Deep Teal|Reticle|Trackball|Beacon|None|None|Mosaic|Standard|1344
+1772|Porthole|Lichen|Orb|Floppy Drive|Dish|Solar Wings|None|Lattice|Heavy|737
+1773|Tape Deck|Deep Teal|Keyhole|Mouse|None|Plug Cable|None|Crossroads|Standard|2102
+1774|Porthole|Pewter|Slant|Gamepad|None|None|Exhaust Pipes|Slipstream|Standard|1609
+1775|Porthole|Sage|Sigil|Trackball|Sonic Emitter|None|None|Lattice|Standard|1319
+1776|Codex Header|Moss|Dome|Codex Slate|None|Speakers|None|Crossroads|Standard|1686
+1777|Codex Header|Bone|Curious|Dial Deck|None|None|None|Nightfall|Light|241
+1778|Console|Pewter|Wide|Split Keyboard|Dish|None|None|Lattice|Standard|2163
+1779|Hood|Mauve|Steady|Dial Deck|Periscope|Speakers|None|Slipstream|Heavy|887
+1780|Hood|Sage|Curious|Codex Slate|None|None|None|Mosaic|Light|264
+1781|Console|Glacier|Orb|Gamepad|None|Plug Cable|None|Searchlight|Standard|1979
+1782|Tower|Obsidian|Curious|Split Keyboard|None|Thruster Pods|None|Mosaic|Standard|1171
+1783|Widescreen|Sage|Orb|Classic Keyboard|None|Thruster Pods|None|Crossroads|Standard|1442
+1784|Hood|Bone|Theorem|Dial Deck|None|None|Battery Pack|Daybreak|Standard|1119
+1785|Radio|Frost|Glitch|Classic Keyboard|Beacon|Plug Cable|None|Downpour|Heavy|462
+1786|Radio|Slate|Beans|Codex Slate|None|Wrench Arm|None|Crossroads|Standard|1971
+1787|Hood|Spore|Reticle|Mouse|None|None|Tesla Coil|Nightfall|Standard|1418
+1788|Framed|Ash|Keyhole|Keyboard|Heat Sink|Plug Cable|None|Lattice|Heavy|627
+1789|Classic|Pewter|Theorem|Mouse|Heat Sink|None|None|Lattice|Standard|1345
+1790|Handheld|Sage|Lens|Floppy Drive|Beacon|None|None|Daybreak|Standard|1695
+1791|Brackets|Frost|Squint|Floppy Drive|None|Sword and Shield|None|Crossroads|Standard|1885
+1792|Side Car|Ash|Dots|Split Keyboard|None|None|None|Daybreak|Light|288
+1793|Tape Deck|Ash|Beans|Compact Keyboard|None|Plug Cable|None|Nightfall|Standard|2220
+1794|Twin Tier|Bone|Keyhole|Compact Keyboard|Periscope|Wrench Arm|Banner|Nightfall|Fully Loaded|82
+1795|Twin Tier|Ember|Slant|Trackball|Periscope|Wrench Arm|Banner|Daybreak|Fully Loaded|72
+1796|Tape Deck|Deep Teal|Dashes|Compact Keyboard|Propeller|None|None|Crossroads|Standard|2075
+1797|Framed|Tide|Wide|Compact Keyboard|None|None|None|Lattice|Light|137
+1798|Twin Tier|Mauve|Mycelia|Dial Deck|None|None|Exhaust Pipes|Lattice|Standard|1251
+1799|Brackets|Pewter|Happy|Dial Deck|Mushrooms|Speakers|None|Searchlight|Heavy|895
+1800|Tower|Camo|Scowl|Joystick|Dish|Plug Cable|None|Downpour|Heavy|968
+1801|Framed|Ember|Sigil|Classic Keyboard|Propeller|Wrench Arm|None|Downpour|Heavy|706
+1802|Tape Deck|Rust|Steady|Joystick|None|None|Tesla Coil|Mosaic|Standard|1534
+1803|Radio|Pewter|Dome|Floppy Drive|Propeller|Wrench Arm|None|Lattice|Heavy|442
+1804|Hood|Camo|Happy|Gamepad|Periscope|Thruster Pods|None|Crossroads|Heavy|904
+1805|Brackets|Crimson|Flatline|Floppy Drive|Beacon|Wrench Arm|None|Downpour|Heavy|674
+1806|Porthole|Mauve|Steady|Trackball|None|None|None|Lattice|Light|105
+1807|Tower|Ash|Mycelia|Compact Keyboard|Work Lamp|None|None|Lattice|Standard|2115
+1808|Radio|Ash|Sigil|Numpad|Beacon|Plug Cable|None|Downpour|Heavy|438
+1809|Twin Tier|Tide|Squint|Mouse|Periscope|Wrench Arm|Banner|Slipstream|Fully Loaded|63
+1810|Tape Deck|Glacier|Snowflake|Floppy Drive|None|None|Tesla Coil|Downpour|Standard|1689
+1811|Split Shell|Bone|Glitch|Keyboard|Rabbit Ears|Sword and Shield|None|Daybreak|Heavy|879
+1812|Classic|Abyss|Wide|Classic Keyboard|None|None|None|Daybreak|Light|185
+1813|Widescreen|Spore|Dome|Joystick|None|Sword and Shield|None|Lattice|Standard|2013
+1814|Tape Deck|Deep Teal|Tangle|Numpad|None|None|Tesla Coil|Downpour|Standard|1721
+1815|Side Car|Ember|Wary|Floppy Drive|Heat Sink|Sword and Shield|None|Searchlight|Heavy|629
+1816|Widescreen|Ash|Frown|Keyboard|Mushrooms|None|None|Crossroads|Standard|1547
+1817|Side Lights|Frost|Wide|Mouse|None|None|None|Downpour|Light|153
+1818|Twin Tier|Frost|Mycelia|Datasette|None|Plug Cable|None|Slipstream|Standard|2066
+1819|Hood|Dune|Keyhole|Joystick|None|Solar Wings|None|Downpour|Standard|1518
+1820|Widescreen|Pewter|Squint|Datasette|Dish|None|None|Slipstream|Standard|1651
+1821|Side Car|Tide|Reticle|Fader Deck|Sonic Emitter|None|None|Crossroads|Standard|1905
+1822|Side Lights|Ember|Shutter|Dial Deck|None|Speakers|None|Slipstream|Standard|2058
+1823|Hood|Abyss|Shutter|Split Keyboard|Propeller|Sword and Shield|None|Daybreak|Heavy|511
+1824|Side Car|Slate|Beans|Joystick|None|Sword and Shield|None|Nightfall|Standard|1828
+1825|Classic|Spore|Orb|Compact Keyboard|Ice Crystals|Solar Wings|None|Downpour|Heavy|982
+1826|Radio|Sage|Lidded|Gamepad|None|Plug Cable|None|Slipstream|Standard|2088
+1827|Side Car|Moss|Seeker|Gamepad|Ice Crystals|None|None|Crossroads|Standard|1451
+1828|Classic|Deep Teal|Squint|Joystick|Dish|Speakers|None|Downpour|Heavy|825
+1829|Console|Mauve|Mycelia|Keyboard|None|None|Sword|Crossroads|Standard|1912
+1830|Framed|Slate|Blocks|Numpad|None|None|Sword|Searchlight|Standard|1341
+1831|Framed|Pewter|Lidded|Numpad|None|None|None|Mosaic|Light|113
+1832|Tape Deck|Frost|Flatline|Dial Deck|Sonic Emitter|None|None|Daybreak|Standard|1965
+1833|Framed|Abyss|Slit|Classic Keyboard|Propeller|None|None|Lattice|Standard|1629
+1834|Framed|Tide|Wide|Classic Keyboard|Heat Sink|Wrench Arm|None|Mosaic|Heavy|425
+1835|Porthole|Abyss|Dots|Compact Keyboard|Mushrooms|Speakers|None|Mosaic|Heavy|885
+1836|Radio|Sage|Shutter|Compact Keyboard|Mushrooms|None|None|Nightfall|Standard|1746
+1837|Hood|Crimson|Wide|Classic Keyboard|None|Robot Arms|None|Searchlight|Standard|2116
+1838|Side Car|Camo|Steady|Classic Keyboard|Dish|None|None|Nightfall|Standard|1733
+1839|Framed|Deep Teal|Beans|Trackball|None|None|None|Slipstream|Light|219
+1840|Console|Rust|Wary|Fader Deck|Propeller|Wrench Arm|None|Nightfall|Heavy|541
+1841|Side Lights|Crimson|Shutter|Split Keyboard|None|None|Battery Pack|Lattice|Standard|1496
+1842|Console|Tide|Theorem|Gamepad|Dish|Plug Cable|None|Searchlight|Heavy|616
+1843|Hood|Slate|Lidded|Gamepad|None|None|None|Searchlight|Light|205
+1844|Codex Header|Slate|Glitch|Trackball|Heat Sink|Robot Arms|None|Nightfall|Heavy|584
+1845|Classic|Glacier|Lidded|Codex Slate|Ice Crystals|Sword and Shield|None|Daybreak|Heavy|836
+1846|Console|Camo|Theorem|Fader Deck|None|Wrench Arm|None|Downpour|Standard|2039
+1847|Brackets|Obsidian|Flatline|Keyboard|Sonic Emitter|Thruster Pods|None|Daybreak|Heavy|978
+1848|Porthole|Pewter|Lidded|Gamepad|None|Sword and Shield|None|Crossroads|Standard|2150
+1849|Side Car|Ash|Dashes|Floppy Drive|Beacon|None|None|Lattice|Standard|2072
+1850|Brackets|Abyss|Mycelia|Trackball|Mushrooms|None|None|Searchlight|Standard|1846
+1851|Console|Slate|Reticle|Dial Deck|None|None|None|Downpour|Light|354
+1852|Side Car|Slate|Dots|Trackball|Ice Crystals|None|None|Downpour|Standard|1104
+1853|Framed|Deep Teal|Beans|Fader Deck|Heat Sink|None|None|Downpour|Standard|1688
+1854|Codex Header|Ember|Shutter|Floppy Drive|None|None|None|Downpour|Light|303
+1855|Twin Tier|Deep Teal|Theorem|Trackball|None|None|Tesla Coil|Nightfall|Standard|1121
+1856|Framed|Ash|Dome|Classic Keyboard|Heat Sink|Plug Cable|None|Lattice|Heavy|474
+1857|Framed|Bone|Visor|Keyboard|Beacon|None|None|Lattice|Standard|1446
+1858|Codex Header|Crimson|Wary|Datasette|None|Thruster Pods|None|Slipstream|Standard|1856
+1859|Tape Deck|Spore|Theorem|Compact Keyboard|Mushrooms|Plug Cable|None|Slipstream|Heavy|423
+1860|Classic|Rust|Flatline|None|None|None|None|Lattice|Bare|20
+1861|Twin Tier|Ash|Scowl|Joystick|None|None|None|Crossroads|Light|134
+1862|Twin Tier|Tide|Lens|Gamepad|Periscope|Plug Cable|Banner|Lattice|Fully Loaded|48
+1863|Classic|Slate|Curious|Keyboard|Ice Crystals|Robot Arms|None|Mosaic|Heavy|940
+1864|Codex Header|Frost|Orb|Fader Deck|None|Solar Wings|None|Daybreak|Standard|1669
+1865|Console|Dune|Sigil|Gamepad|None|Wrench Arm|None|Searchlight|Standard|2126
+1866|Classic|Bone|Happy|Codex Slate|None|None|None|Mosaic|Light|91
+1867|Porthole|Abyss|Beans|Codex Slate|Propeller|Robot Arms|None|Daybreak|Heavy|548
+1868|Twin Tier|Deep Teal|Scowl|Fader Deck|Mushrooms|Thruster Pods|None|Nightfall|Heavy|617
+1869|Tape Deck|Slate|Wide|Dial Deck|Heat Sink|None|None|Mosaic|Standard|1887
+1870|Split Shell|Tide|Beans|Joystick|Sonic Emitter|Sword and Shield|None|Downpour|Heavy|520
+1871|Brackets|Crimson|Shutter|Split Keyboard|Work Lamp|Wrench Arm|None|Downpour|Heavy|486
+1872|Codex Header|Rust|Peek|Numpad|Work Lamp|None|None|Crossroads|Standard|1240
+1873|Split Shell|Sage|Scowl|Split Keyboard|None|None|None|Searchlight|Light|234
+1874|Classic|Ash|Blocks|Dial Deck|None|Robot Arms|None|Mosaic|Standard|2121
+1875|Handheld|Crimson|Slant|Keyboard|Propeller|Thruster Pods|None|Mosaic|Heavy|648
+1876|Side Car|Mauve|Orb|None|None|None|None|Lattice|Bare|6
+1877|Framed|Glacier|Peek|Classic Keyboard|None|None|None|Lattice|Light|132
+1878|Widescreen|Moss|Reticle|Datasette|None|None|None|Downpour|Light|192
+1879|Twin Tier|Mauve|Dots|Fader Deck|Rabbit Ears|Thruster Pods|None|Mosaic|Heavy|1003
+1880|Widescreen|Bone|Lens|Floppy Drive|Sonic Emitter|Wrench Arm|None|Mosaic|Heavy|659
+1881|Codex Header|Frost|Keyhole|Floppy Drive|None|Thruster Pods|None|Searchlight|Standard|1731
+1882|Side Car|Sage|Curious|Gamepad|None|None|None|Daybreak|Light|339
+1883|Side Lights|Crimson|Wary|Joystick|None|None|Coolant Tank|Daybreak|Standard|1300
+1884|Classic|Tide|Flatline|Classic Keyboard|None|None|Exhaust Pipes|Crossroads|Standard|1597
+1885|Porthole|Mauve|Keyhole|Split Keyboard|None|None|Exhaust Pipes|Mosaic|Standard|1143
+1886|Side Car|Rust|Pulse|Keyboard|Work Lamp|None|None|Daybreak|Standard|1525
+1887|Widescreen|Sage|Dome|Compact Keyboard|Work Lamp|Thruster Pods|None|Daybreak|Heavy|539
+1888|Porthole|Ember|Glitch|Split Keyboard|Work Lamp|Thruster Pods|None|Lattice|Heavy|806
+1889|Handheld|Deep Teal|Snowflake|Mouse|Work Lamp|Speakers|None|Lattice|Heavy|638
+1890|Side Lights|Pewter|Scowl|Keyboard|None|Solar Wings|None|Searchlight|Standard|1921
+1891|Hood|Tide|Dots|Dial Deck|None|None|None|Lattice|Light|114
+1892|Hood|Spore|Shutter|Dial Deck|None|Speakers|None|Lattice|Standard|2095
+1893|Split Shell|Mauve|Visor|Floppy Drive|Sonic Emitter|Robot Arms|None|Daybreak|Heavy|669
+1894|Tape Deck|Rust|Peek|Keyboard|None|None|None|Mosaic|Light|336
+1895|Split Shell|Pewter|Slant|Numpad|None|Thruster Pods|None|Slipstream|Standard|1758
+1896|Brackets|Mauve|Mycelia|Keyboard|None|Thruster Pods|None|Nightfall|Standard|2030
+1897|Side Car|Ember|Visor|Fader Deck|None|Plug Cable|None|Daybreak|Standard|2137
+1898|Side Car|Tide|Lens|Dial Deck|Mushrooms|None|None|Lattice|Standard|2104
+1899|Hood|Bone|Squint|Gamepad|Rabbit Ears|Plug Cable|None|Crossroads|Heavy|1089
+1900|Tape Deck|Slate|Glitch|Trackball|Heat Sink|None|None|Lattice|Standard|1348
+1901|Side Car|Crimson|Lidded|Keyboard|None|Wrench Arm|None|Searchlight|Standard|2145
+1902|Split Shell|Obsidian|Dome|Gamepad|Periscope|Plug Cable|Banner|Slipstream|Fully Loaded|50
+1903|Split Shell|Lichen|Dots|Mouse|Rabbit Ears|Speakers|None|Lattice|Heavy|524
+1904|Hood|Ember|Dashes|Compact Keyboard|Work Lamp|Solar Wings|None|Downpour|Heavy|450
+1905|Side Lights|Rust|Blocks|Datasette|Dish|Sword and Shield|None|Lattice|Heavy|1025
+1906|Hood|Lichen|Peek|Floppy Drive|None|None|None|Daybreak|Light|126
+1907|Handheld|Pewter|Glitch|Classic Keyboard|Dish|Sword and Shield|None|Mosaic|Heavy|966
+1908|Classic|Mauve|Scowl|Compact Keyboard|None|Speakers|None|Crossroads|Standard|1375
+1909|Side Car|Frost|Lidded|Classic Keyboard|None|None|Signal Mast|Searchlight|Standard|1658
+1910|Console|Obsidian|Frown|Trackball|Beacon|Plug Cable|None|Daybreak|Heavy|865
+1911|Tape Deck|Mauve|Snowflake|Compact Keyboard|Propeller|Plug Cable|None|Slipstream|Heavy|413
+1912|Tape Deck|Frost|Sigil|Gamepad|None|Plug Cable|None|Nightfall|Standard|2200
+1913|Side Car|Lichen|Sigil|Fader Deck|None|None|Sword|Nightfall|Standard|1989
+1914|Tower|Glacier|Lidded|Trackball|Heat Sink|Robot Arms|None|Slipstream|Heavy|839
+1915|Twin Tier|Moss|Curious|Joystick|None|Thruster Pods|None|Searchlight|Standard|1156
+1916|Brackets|Frost|Wide|Joystick|None|Solar Wings|None|Searchlight|Standard|2173
+1917|Framed|Mauve|Wary|Mouse|None|Wrench Arm|None|Daybreak|Standard|1794
+1918|Framed|Moss|Tangle|Classic Keyboard|None|None|None|Mosaic|Light|233
+1919|Brackets|Spore|Seeker|Gamepad|None|Robot Arms|None|Slipstream|Standard|2074
+1920|Brackets|Ember|Sigil|Gamepad|None|None|None|Mosaic|Light|151
+1921|Tower|Abyss|Shutter|Mouse|None|None|None|Lattice|Light|171
+1922|Codex Header|Rust|Peek|Mouse|None|Solar Wings|None|Slipstream|Standard|1464
+1923|Side Car|Spore|Dashes|Codex Slate|None|None|Exhaust Pipes|Searchlight|Standard|1786
+1924|Widescreen|Abyss|Wide|Keyboard|None|None|Tesla Coil|Nightfall|Standard|1849
+1925|Side Lights|Deep Teal|Blocks|Joystick|Periscope|Speakers|None|Mosaic|Heavy|722
+1926|Split Shell|Deep Teal|Frown|Fader Deck|Periscope|Robot Arms|Banner|Searchlight|Fully Loaded|35
+1927|Widescreen|Sage|Beans|Codex Slate|None|Sword and Shield|None|Slipstream|Standard|1902
+1928|Side Lights|Dune|Sigil|Datasette|Beacon|Thruster Pods|None|Mosaic|Heavy|962
+1929|Console|Ember|Dots|Floppy Drive|Sonic Emitter|Wrench Arm|None|Nightfall|Heavy|545
+1930|Side Car|Rust|Pulse|Numpad|Dish|Sword and Shield|None|Slipstream|Heavy|846
+1931|Porthole|Bone|Scowl|Keyboard|Dish|Solar Wings|None|Crossroads|Heavy|1021
+1932|Radio|Lichen|Lens|None|None|None|None|Daybreak|Bare|21
+1933|Framed|Bone|Peek|Gamepad|Beacon|Sword and Shield|None|Searchlight|Heavy|987
+1934|Hood|Frost|Orb|Mouse|Mushrooms|Robot Arms|None|Nightfall|Heavy|975
+1935|Porthole|Obsidian|Happy|Trackball|Heat Sink|Speakers|None|Crossroads|Heavy|1015
+1936|Framed|Moss|Happy|None|None|None|None|Nightfall|Bare|13
+1937|Codex Header|Ash|Curious|Compact Keyboard|Heat Sink|None|None|Daybreak|Standard|1398
+1938|Tower|Abyss|Theorem|Codex Slate|None|None|None|Mosaic|Light|152
+1939|Brackets|Mauve|Lens|Split Keyboard|Sonic Emitter|Thruster Pods|None|Downpour|Heavy|727
+1940|Console|Obsidian|Theorem|Datasette|Mushrooms|Wrench Arm|None|Daybreak|Heavy|792
+1941|Side Car|Moss|Slant|Split Keyboard|None|Wrench Arm|None|Downpour|Standard|1935
+1942|Side Car|Rust|Squint|Split Keyboard|Rabbit Ears|None|None|Mosaic|Standard|1224
+1943|Tape Deck|Mauve|Steady|Datasette|None|None|None|Lattice|Light|259
+1944|Classic|Lichen|Scowl|Codex Slate|None|Robot Arms|None|Downpour|Standard|2002
+1945|Console|Deep Teal|Snowflake|Split Keyboard|None|None|Signal Mast|Searchlight|Standard|1598
+1946|Console|Rust|Peek|Codex Slate|Periscope|Wrench Arm|None|Nightfall|Heavy|507
+1947|Side Lights|Frost|Scowl|Keyboard|Propeller|None|None|Downpour|Standard|1385
+1948|Codex Header|Sage|Mycelia|Fader Deck|None|Wrench Arm|None|Slipstream|Standard|2128
+1949|Split Shell|Crimson|Slit|Mouse|None|None|None|Crossroads|Light|133
+1950|Split Shell|Abyss|Orb|Datasette|None|None|None|Nightfall|Light|122
+1951|Brackets|Frost|Orb|Joystick|Propeller|Robot Arms|None|Mosaic|Heavy|918
+1952|Classic|Ember|Peek|Floppy Drive|Mushrooms|Wrench Arm|None|Lattice|Heavy|922
+1953|Side Car|Dune|Shutter|Classic Keyboard|Periscope|Wrench Arm|None|Lattice|Heavy|497
+1954|Radio|Sage|Seeker|Floppy Drive|None|None|None|Crossroads|Light|285
+1955|Framed|Glacier|Reticle|Keyboard|Work Lamp|None|None|Searchlight|Standard|1879
+1956|Porthole|Dune|Lidded|Classic Keyboard|Rabbit Ears|Robot Arms|None|Crossroads|Heavy|759
+1957|Widescreen|Deep Teal|Mycelia|Trackball|Mushrooms|None|None|Slipstream|Standard|1952
+1958|Tower|Crimson|Frown|Keyboard|Sonic Emitter|None|None|Mosaic|Standard|1211
+1959|Porthole|Abyss|Blocks|Fader Deck|Mushrooms|Sword and Shield|None|Mosaic|Heavy|749
+1960|Tower|Pewter|Lens|Joystick|None|Solar Wings|None|Lattice|Standard|2210
+1961|Console|Abyss|Pulse|Classic Keyboard|None|None|None|Lattice|Light|279
+1962|Codex Header|Camo|Reticle|Compact Keyboard|None|Speakers|None|Lattice|Standard|2014
+1963|Brackets|Mauve|Dome|Joystick|None|Robot Arms|None|Lattice|Standard|1652
+1964|Twin Tier|Glacier|Curious|Datasette|None|Wrench Arm|None|Crossroads|Standard|1372
+1965|Codex Header|Mauve|Wary|Classic Keyboard|None|None|None|Searchlight|Light|273
+1966|Framed|Tide|Orb|Fader Deck|Heat Sink|Wrench Arm|None|Searchlight|Heavy|934
+1967|Brackets|Crimson|Frown|Trackball|None|None|None|Lattice|Light|227
+1968|Brackets|Glacier|Peek|Datasette|None|None|None|Daybreak|Light|98
+1969|Tower|Frost|Beans|Keyboard|None|None|Exhaust Pipes|Daybreak|Standard|1606
+1970|Twin Tier|Lichen|Flatline|Classic Keyboard|None|None|Exhaust Pipes|Mosaic|Standard|1475
+1971|Split Shell|Crimson|Curious|Keyboard|Periscope|Sword and Shield|Banner|Searchlight|Fully Loaded|58
+1972|Classic|Bone|Dome|Fader Deck|None|None|Signal Mast|Daybreak|Standard|1150
+1973|Classic|Frost|Snowflake|Floppy Drive|None|Speakers|None|Downpour|Standard|1822
+1974|Tower|Pewter|Flatline|Fader Deck|None|None|Exhaust Pipes|Mosaic|Standard|1722
+1975|Radio|Obsidian|Scowl|Compact Keyboard|Propeller|Wrench Arm|None|Mosaic|Heavy|762
+1976|Classic|Glacier|Frown|Fader Deck|Mushrooms|None|None|Lattice|Standard|1212
+1977|Brackets|Ember|Glitch|Codex Slate|None|None|Exhaust Pipes|Searchlight|Standard|1368
+1978|Console|Lichen|Orb|Compact Keyboard|Periscope|Plug Cable|None|Crossroads|Heavy|447
+1979|Twin Tier|Deep Teal|Orb|Floppy Drive|None|None|Coolant Tank|Downpour|Standard|1125
+1980|Porthole|Pewter|Mycelia|Codex Slate|None|Solar Wings|None|Nightfall|Standard|2187
+1981|Widescreen|Mauve|Sigil|Classic Keyboard|Propeller|None|None|Mosaic|Standard|1404
+1982|Twin Tier|Pewter|Slant|Datasette|None|Sword and Shield|None|Daybreak|Standard|1841
+1983|Hood|Bone|Sigil|Trackball|None|Sword and Shield|None|Crossroads|Standard|1662
+1984|Brackets|Ash|Keyhole|Mouse|Periscope|Speakers|None|Daybreak|Heavy|609
+1985|Radio|Slate|Pulse|Joystick|Rabbit Ears|None|None|Mosaic|Standard|1444
+1986|Twin Tier|Deep Teal|Beans|Mouse|Periscope|Thruster Pods|Banner|Downpour|Fully Loaded|81
+1987|Tape Deck|Abyss|Pulse|Compact Keyboard|Beacon|None|None|Searchlight|Standard|1963
+1988|Porthole|Dune|Seeker|Compact Keyboard|Dish|None|None|Crossroads|Standard|1583
+1989|Tower|Spore|Dome|Datasette|Mushrooms|Sword and Shield|None|Searchlight|Heavy|634
+1990|Brackets|Sage|Scowl|Numpad|None|None|None|Lattice|Light|272
+1991|Handheld|Moss|Orb|Dial Deck|Propeller|Thruster Pods|None|Downpour|Heavy|1097
+1992|Split Shell|Abyss|Flatline|Floppy Drive|Periscope|Solar Wings|Banner|Downpour|Fully Loaded|32
+1993|Widescreen|Obsidian|Slant|Dial Deck|None|None|None|Lattice|Light|270
+1994|Tower|Crimson|Peek|Compact Keyboard|Work Lamp|Sword and Shield|None|Downpour|Heavy|758
+1995|Tower|Frost|Beans|Gamepad|None|None|Coolant Tank|Crossroads|Standard|1552
+1996|Split Shell|Bone|Lidded|Floppy Drive|Heat Sink|Solar Wings|None|Nightfall|Heavy|707
+1997|Widescreen|Spore|Slit|Trackball|Work Lamp|Thruster Pods|None|Nightfall|Heavy|708
+1998|Side Lights|Frost|Seeker|Trackball|None|None|Tesla Coil|Daybreak|Standard|1480
+1999|Tower|Mauve|Visor|Split Keyboard|Heat Sink|None|None|Mosaic|Standard|1343
+2000|Side Lights|Crimson|Wide|Split Keyboard|None|Thruster Pods|None|Lattice|Standard|2091
+2001|Tower|Crimson|Dots|Floppy Drive|Dish|Wrench Arm|None|Mosaic|Heavy|868
+2002|Console|Dune|Wary|Gamepad|Rabbit Ears|None|None|Downpour|Standard|1545
+2003|Framed|Dune|Slant|Dial Deck|None|None|None|Nightfall|Light|268
+2004|Brackets|Tide|Dots|Classic Keyboard|None|None|Coolant Tank|Mosaic|Standard|1178
+2005|Twin Tier|Sage|Reticle|Gamepad|None|None|Battery Pack|Slipstream|Standard|1142
+2006|Porthole|Obsidian|Pulse|Classic Keyboard|Rabbit Ears|Wrench Arm|None|Nightfall|Heavy|1043
+2007|Twin Tier|Crimson|Scowl|Numpad|Periscope|Thruster Pods|Banner|Nightfall|Fully Loaded|57
+2008|Radio|Dune|Dashes|Mouse|None|None|Battery Pack|Nightfall|Standard|1553
+2009|Tape Deck|Frost|Snowflake|Classic Keyboard|None|None|Coolant Tank|Daybreak|Standard|1824
+2010|Radio|Crimson|Dashes|Classic Keyboard|Ice Crystals|Plug Cable|None|Slipstream|Heavy|390
+2011|Hood|Camo|Squint|Numpad|Beacon|Speakers|None|Crossroads|Heavy|979
+2012|Brackets|Camo|Happy|Joystick|Rabbit Ears|Solar Wings|None|Slipstream|Heavy|874
+2013|Side Lights|Moss|Slant|Codex Slate|Sonic Emitter|Speakers|None|Daybreak|Heavy|952
+2014|Tower|Moss|Slit|Datasette|Beacon|Thruster Pods|None|Downpour|Heavy|1019
+2015|Widescreen|Tide|Happy|Numpad|Heat Sink|Sword and Shield|None|Searchlight|Heavy|747
+2016|Side Lights|Mauve|Wide|Classic Keyboard|None|Robot Arms|None|Slipstream|Standard|1984
+2017|Tower|Obsidian|Slant|Compact Keyboard|Rabbit Ears|None|None|Nightfall|Standard|1152
+2018|Handheld|Sage|Tangle|Classic Keyboard|Rabbit Ears|None|None|Daybreak|Standard|1265
+2019|Hood|Deep Teal|Lens|Compact Keyboard|None|None|Sword|Downpour|Standard|1981
+2020|Codex Header|Lichen|Sigil|Gamepad|Work Lamp|Wrench Arm|None|Downpour|Heavy|439
+2021|Split Shell|Mauve|Wide|Keyboard|Dish|Sword and Shield|None|Crossroads|Heavy|448
+2022|Handheld|Spore|Pulse|Numpad|None|Solar Wings|None|Nightfall|Standard|1985
+2023|Radio|Lichen|Sigil|Compact Keyboard|None|Plug Cable|None|Downpour|Standard|2211
+2024|Side Lights|Tide|Snowflake|Fader Deck|None|None|None|Daybreak|Light|101
+2025|Hood|Lichen|Slant|Datasette|None|None|Tesla Coil|Slipstream|Standard|1632
+2026|Tape Deck|Lichen|Orb|Datasette|None|None|None|Downpour|Light|297
+2027|Radio|Tide|Keyhole|Split Keyboard|Propeller|Wrench Arm|None|Mosaic|Heavy|503
+2028|Widescreen|Abyss|Happy|Fader Deck|None|None|None|Lattice|Light|226
+2029|Codex Header|Dune|Orb|Gamepad|Heat Sink|Sword and Shield|None|Searchlight|Heavy|859
+2030|Side Lights|Spore|Slant|Fader Deck|None|Wrench Arm|None|Downpour|Standard|2003
+2031|Tower|Camo|Keyhole|Codex Slate|Heat Sink|Solar Wings|None|Downpour|Heavy|884
+2032|Porthole|Mauve|Slit|Mouse|None|Speakers|None|Daybreak|Standard|1578
+2033|Split Shell|Camo|Dome|Mouse|None|Robot Arms|None|Daybreak|Standard|1440
+2034|Side Lights|Camo|Squint|Mouse|Ice Crystals|None|None|Searchlight|Standard|1218
+2035|Codex Header|Moss|Lens|Numpad|None|Thruster Pods|None|Lattice|Standard|2097
+2036|Tape Deck|Ember|Dome|Numpad|Rabbit Ears|None|None|Searchlight|Standard|1776
+2037|Side Car|Pewter|Curious|Trackball|Propeller|None|None|Daybreak|Standard|1361
+2038|Widescreen|Dune|Keyhole|Keyboard|None|Sword and Shield|None|Downpour|Standard|1702
+2039|Hood|Glacier|Scowl|Codex Slate|None|Speakers|None|Mosaic|Standard|1760
+2040|Console|Ember|Dashes|Datasette|None|Wrench Arm|None|Nightfall|Standard|2205
+2041|Console|Bone|Mycelia|Compact Keyboard|None|Wrench Arm|None|Mosaic|Standard|2158
+2042|Side Lights|Rust|Keyhole|Keyboard|Work Lamp|Solar Wings|None|Crossroads|Heavy|1016
+2043|Side Lights|Abyss|Slit|Gamepad|Heat Sink|None|None|Crossroads|Standard|1405
+2044|Classic|Sage|Dashes|Gamepad|None|None|Sword|Slipstream|Standard|1445
+2045|Console|Sage|Frown|Mouse|None|None|None|Downpour|Light|378
+2046|Radio|Spore|Lens|Split Keyboard|None|None|Coolant Tank|Mosaic|Standard|2028
+2047|Tape Deck|Deep Teal|Sigil|Classic Keyboard|None|None|None|Searchlight|Light|338
+2048|Codex Header|Rust|Sigil|Compact Keyboard|Heat Sink|Sword and Shield|None|Mosaic|Heavy|697
+2049|Framed|Rust|Shutter|Compact Keyboard|None|Wrench Arm|None|Downpour|Standard|2065
+2050|Side Car|Sage|Flatline|Mouse|Periscope|Thruster Pods|None|Nightfall|Heavy|554
+2051|Porthole|Crimson|Sigil|Trackball|None|Solar Wings|None|Slipstream|Standard|1838
+2052|Hood|Bone|Visor|Joystick|Propeller|Robot Arms|None|Lattice|Heavy|923
+2053|Framed|Ember|Pulse|Mouse|None|None|Sword|Crossroads|Standard|1667
+2054|Handheld|Deep Teal|Sigil|Keyboard|None|Solar Wings|None|Lattice|Standard|2029
+2055|Twin Tier|Deep Teal|Frown|Dial Deck|Work Lamp|None|None|Crossroads|Standard|1136
+2056|Side Car|Lichen|Scowl|Keyboard|Mushrooms|None|None|Daybreak|Standard|1816
+2057|Tape Deck|Ash|Wide|Gamepad|None|None|Signal Mast|Daybreak|Standard|2165
+2058|Framed|Rust|Mycelia|Numpad|Rabbit Ears|Thruster Pods|None|Mosaic|Heavy|639
+2059|Handheld|Sage|Blocks|Trackball|Ice Crystals|Robot Arms|None|Crossroads|Heavy|689
+2060|Tape Deck|Obsidian|Peek|Compact Keyboard|None|Plug Cable|None|Searchlight|Standard|1706
+2061|Tower|Spore|Orb|Numpad|None|Speakers|None|Crossroads|Standard|1580
+2062|Side Car|Pewter|Frown|Floppy Drive|Rabbit Ears|Sword and Shield|None|Crossroads|Heavy|939
+2063|Codex Header|Tide|Curious|Split Keyboard|Work Lamp|Sword and Shield|None|Slipstream|Heavy|672
+2064|Console|Frost|Slant|Floppy Drive|Dish|None|None|Crossroads|Standard|1817
+2065|Twin Tier|Camo|Snowflake|Mouse|Ice Crystals|Speakers|None|Crossroads|Heavy|484
+2066|Console|Pewter|Dashes|Gamepad|Periscope|Plug Cable|None|Daybreak|Heavy|396
+2067|Split Shell|Rust|Steady|Trackball|Work Lamp|None|None|Crossroads|Standard|1159
+2068|Side Car|Camo|Wide|Joystick|None|None|Coolant Tank|Slipstream|Standard|1919
+2069|Handheld|Rust|Snowflake|Trackball|None|None|Tesla Coil|Searchlight|Standard|1144
+2070|Console|Ember|Shutter|Split Keyboard|None|None|Sword|Downpour|Standard|2035
+2071|Tape Deck|Lichen|Glitch|Compact Keyboard|Dish|None|None|Crossroads|Standard|2027
+2072|Tower|Camo|Tangle|Datasette|None|None|Coolant Tank|Nightfall|Standard|1414
+2073|Radio|Bone|Steady|Classic Keyboard|None|None|Exhaust Pipes|Lattice|Standard|1449
+2074|Classic|Deep Teal|Tangle|Dial Deck|None|None|None|Daybreak|Light|168
+2075|Radio|Frost|Curious|Split Keyboard|None|Wrench Arm|None|Slipstream|Standard|1882
+2076|Side Lights|Deep Teal|Seeker|Floppy Drive|Sonic Emitter|Wrench Arm|None|Daybreak|Heavy|784
+2077|Console|Sage|Mycelia|Mouse|None|None|None|Slipstream|Light|367
+2078|Widescreen|Camo|Dashes|Joystick|None|None|None|Downpour|Light|278
+2079|Hood|Abyss|Slant|Fader Deck|Rabbit Ears|Solar Wings|None|Daybreak|Heavy|621
+2080|Handheld|Glacier|Dashes|Gamepad|None|Speakers|None|Lattice|Standard|2038
+2081|Twin Tier|Ember|Dome|Codex Slate|Mushrooms|None|None|Nightfall|Standard|1222
+2082|Codex Header|Tide|Reticle|Joystick|None|Solar Wings|None|Daybreak|Standard|2141
+2083|Hood|Mauve|Curious|Split Keyboard|None|Sword and Shield|None|Nightfall|Standard|1304
+2084|Split Shell|Frost|Beans|Keyboard|Periscope|Robot Arms|Banner|Downpour|Fully Loaded|39
+2085|Side Car|Abyss|Shutter|Fader Deck|Dish|Thruster Pods|None|Lattice|Heavy|435
+2086|Brackets|Ember|Dots|Codex Slate|None|None|None|Slipstream|Light|198
+2087|Codex Header|Bone|Theorem|Dial Deck|None|Solar Wings|None|Downpour|Standard|1443
+2088|Framed|Lichen|Happy|Trackball|Rabbit Ears|None|None|Crossroads|Standard|1821
+2089|Twin Tier|Rust|Slit|Dial Deck|None|Wrench Arm|None|Lattice|Standard|1413
+2090|Classic|Bone|Happy|Classic Keyboard|Beacon|Speakers|None|Slipstream|Heavy|1061
+2091|Side Car|Mauve|Curious|Codex Slate|Ice Crystals|Plug Cable|None|Nightfall|Heavy|999
+2092|Classic|Moss|Lidded|Dial Deck|None|Thruster Pods|None|Lattice|Standard|1795
+2093|Brackets|Deep Teal|Curious|Floppy Drive|Propeller|Robot Arms|None|Lattice|Heavy|851
+2094|Brackets|Lichen|Pulse|Compact Keyboard|None|None|Coolant Tank|Nightfall|Standard|1861
+2095|Classic|Ember|Snowflake|Split Keyboard|None|Wrench Arm|None|Mosaic|Standard|1928
+2096|Widescreen|Abyss|Lidded|Joystick|Dish|None|None|Crossroads|Standard|1789
+2097|Side Car|Moss|Mycelia|Joystick|Mushrooms|Thruster Pods|None|Crossroads|Heavy|632
+2098|Side Lights|Ash|Frown|Floppy Drive|None|None|None|Searchlight|Light|135
+2099|Twin Tier|Ember|Blocks|Joystick|None|Wrench Arm|None|Slipstream|Standard|1781
+2100|Split Shell|Ember|Dome|Gamepad|Rabbit Ears|None|None|Searchlight|Standard|1188
+2101|Classic|Glacier|Theorem|Split Keyboard|Rabbit Ears|Thruster Pods|None|Crossroads|Heavy|1078
+2102|Radio|Rust|Wary|Floppy Drive|None|None|Signal Mast|Lattice|Standard|1247
+2103|Widescreen|Bone|Happy|Datasette|None|Plug Cable|None|Mosaic|Standard|1875
+2104|Brackets|Glacier|Dashes|Codex Slate|None|Solar Wings|None|Slipstream|Standard|2118
+2105|Codex Header|Sage|Wary|Gamepad|Heat Sink|Plug Cable|None|Crossroads|Heavy|544
+2106|Side Lights|Crimson|Scowl|Classic Keyboard|Ice Crystals|Solar Wings|None|Slipstream|Heavy|681
+2107|Brackets|Glacier|Beans|Datasette|Dish|Thruster Pods|None|Slipstream|Heavy|824
+2108|Hood|Slate|Blocks|Mouse|None|None|None|Crossroads|Light|154
+2109|Tower|Ash|Snowflake|Codex Slate|None|None|Sword|Crossroads|Standard|1854
+2110|Handheld|Glacier|Wary|Mouse|None|None|Signal Mast|Lattice|Standard|1288
+2111|Side Car|Frost|Sigil|None|None|None|None|Lattice|Bare|9
+2112|Tower|Mauve|Steady|Datasette|Beacon|Robot Arms|None|Slipstream|Heavy|929
+2113|Twin Tier|Mauve|Flatline|Floppy Drive|Mushrooms|None|None|Mosaic|Standard|1157
+2114|Codex Header|Deep Teal|Beans|Mouse|None|None|None|Searchlight|Light|292
+2115|Brackets|Rust|Steady|Compact Keyboard|Periscope|Sword and Shield|None|Nightfall|Heavy|847
+2116|Radio|Obsidian|Frown|Codex Slate|Ice Crystals|Wrench Arm|None|Daybreak|Heavy|711
+2117|Framed|Frost|Lens|Numpad|None|None|Sword|Crossroads|Standard|2051
+2118|Radio|Dune|Sigil|Keyboard|None|None|None|Lattice|Light|309
+2119|Console|Camo|Seeker|Codex Slate|None|None|Coolant Tank|Slipstream|Standard|1896
+2120|Widescreen|Dune|Blocks|Classic Keyboard|None|Sword and Shield|None|Slipstream|Standard|1992
+2121|Twin Tier|Camo|Beans|Split Keyboard|None|Wrench Arm|None|Lattice|Standard|1753
+2122|Classic|Mauve|Mycelia|Gamepad|None|None|Tesla Coil|Nightfall|Standard|1333
+2123|Split Shell|Spore|Dots|Floppy Drive|Periscope|Thruster Pods|Banner|Daybreak|Fully Loaded|64
+2124|Side Lights|Bone|Happy|Split Keyboard|Periscope|Thruster Pods|None|Crossroads|Heavy|1024
+2125|Hood|Deep Teal|Glitch|Mouse|Sonic Emitter|Thruster Pods|None|Downpour|Heavy|853
+2126|Console|Bone|Dashes|Classic Keyboard|None|None|None|Lattice|Light|290
+2127|Classic|Ash|Slit|Classic Keyboard|None|Solar Wings|None|Slipstream|Standard|2107
+2128|Twin Tier|Glacier|Tangle|Gamepad|None|None|Tesla Coil|Searchlight|Standard|1155
+2129|Porthole|Crimson|Wary|Datasette|None|None|Coolant Tank|Daybreak|Standard|1332
+2130|Porthole|Sage|Snowflake|Codex Slate|Heat Sink|Thruster Pods|None|Downpour|Heavy|625
+2131|Tower|Moss|Visor|Classic Keyboard|Rabbit Ears|Robot Arms|None|Downpour|Heavy|881
+2132|Split Shell|Slate|Visor|Floppy Drive|Periscope|Wrench Arm|Banner|Crossroads|Fully Loaded|66
+2133|Handheld|Moss|Squint|Joystick|None|Robot Arms|None|Nightfall|Standard|1532
+2134|Console|Deep Teal|Wary|Codex Slate|Ice Crystals|None|None|Mosaic|Standard|1694
+2135|Console|Frost|Lidded|Joystick|None|None|None|Crossroads|Light|352
+2136|Twin Tier|Obsidian|Wary|Mouse|Mushrooms|Solar Wings|None|Mosaic|Heavy|842
+2137|Twin Tier|Rust|Steady|Gamepad|Periscope|Wrench Arm|Banner|Slipstream|Fully Loaded|46
+2138|Twin Tier|Frost|Snowflake|Trackball|Periscope|Plug Cable|Banner|Downpour|Fully Loaded|80
+2139|Widescreen|Ember|Beans|Gamepad|Periscope|Plug Cable|None|Nightfall|Heavy|564
+2140|Twin Tier|Abyss|Dots|Fader Deck|None|None|Exhaust Pipes|Crossroads|Standard|1103
+2141|Classic|Frost|Dome|Datasette|None|None|None|Mosaic|Light|215
+2142|Framed|Spore|Wide|Mouse|None|None|Sword|Downpour|Standard|1961
+2143|Porthole|Crimson|Reticle|Numpad|None|Wrench Arm|None|Nightfall|Standard|2076
+2144|Tower|Rust|Lidded|None|None|None|None|Slipstream|Bare|22
+2145|Brackets|Dune|Orb|Compact Keyboard|Dish|Speakers|None|Searchlight|Heavy|1055
+2146|Widescreen|Lichen|Wide|Gamepad|None|Thruster Pods|None|Lattice|Standard|2218
+2147|Porthole|Obsidian|Beans|Floppy Drive|None|Sword and Shield|None|Mosaic|Standard|1502
+2148|Console|Crimson|Blocks|Gamepad|None|None|None|Crossroads|Light|318
+2149|Porthole|Glacier|Scowl|Classic Keyboard|Work Lamp|Speakers|None|Nightfall|Heavy|973
+2150|Radio|Obsidian|Steady|Codex Slate|Rabbit Ears|Wrench Arm|None|Downpour|Heavy|570
+2151|Console|Obsidian|Visor|Floppy Drive|None|None|Battery Pack|Lattice|Standard|1237
+2152|Twin Tier|Dune|Wide|Mouse|Dish|Robot Arms|None|Searchlight|Heavy|410
+2153|Split Shell|Obsidian|Seeker|None|None|None|None|Downpour|Bare|28
+2154|Tape Deck|Crimson|Pulse|Fader Deck|None|None|None|Crossroads|Light|345
+2155|Hood|Abyss|Sigil|Joystick|None|None|Exhaust Pipes|Crossroads|Standard|1513
+2156|Handheld|Rust|Curious|Floppy Drive|Propeller|Sword and Shield|None|Mosaic|Heavy|1066
+2157|Hood|Rust|Snowflake|Split Keyboard|Work Lamp|Thruster Pods|None|Searchlight|Heavy|863
+2158|Porthole|Camo|Pulse|Compact Keyboard|None|None|Exhaust Pipes|Downpour|Standard|1512
+2159|Widescreen|Ash|Seeker|Compact Keyboard|None|None|None|Nightfall|Light|100
+2160|Split Shell|Frost|Sigil|Split Keyboard|None|Thruster Pods|None|Daybreak|Standard|1663
+2161|Side Lights|Ash|Shutter|Gamepad|Beacon|Robot Arms|None|Downpour|Heavy|505
+2162|Handheld|Obsidian|Squint|Codex Slate|Rabbit Ears|Thruster Pods|None|Searchlight|Heavy|1064
+2163|Brackets|Spore|Blocks|Numpad|None|None|Tesla Coil|Downpour|Standard|1419
+2164|Tower|Pewter|Slit|Joystick|None|Speakers|None|Nightfall|Standard|2067
+2165|Classic|Mauve|Dashes|Floppy Drive|None|None|None|Crossroads|Light|129
+2166|Handheld|Glacier|Orb|Split Keyboard|Mushrooms|Robot Arms|None|Slipstream|Heavy|1071
+2167|Porthole|Rust|Slit|Dial Deck|Sonic Emitter|Solar Wings|None|Crossroads|Heavy|894
+2168|Handheld|Bone|Lidded|Datasette|Beacon|Sword and Shield|None|Nightfall|Heavy|1004
+2169|Radio|Camo|Frown|Mouse|Dish|None|None|Slipstream|Standard|1275
+2170|Console|Pewter|Squint|Datasette|Sonic Emitter|None|None|Crossroads|Standard|1826
+2171|Porthole|Spore|Steady|Codex Slate|None|None|Sword|Daybreak|Standard|1692
+2172|Split Shell|Crimson|Tangle|Joystick|Propeller|Solar Wings|None|Lattice|Heavy|483
+2173|Hood|Deep Teal|Wide|Fader Deck|None|None|None|Mosaic|Light|179
+2174|Hood|Frost|Pulse|Keyboard|None|None|Sword|Searchlight|Standard|1719
+2175|Framed|Ash|Steady|Keyboard|Heat Sink|None|None|Searchlight|Standard|1990
+2176|Side Lights|Deep Teal|Lidded|Fader Deck|Propeller|Speakers|None|Searchlight|Heavy|685
+2177|Side Lights|Bone|Theorem|Datasette|Heat Sink|Wrench Arm|None|Slipstream|Heavy|1098
+2178|Radio|Ember|Flatline|Datasette|None|Wrench Arm|None|Downpour|Standard|2153
+2179|Twin Tier|Lichen|Flatline|Mouse|None|Robot Arms|None|Nightfall|Standard|1877
+2180|Codex Header|Obsidian|Beans|Classic Keyboard|None|Sword and Shield|None|Searchlight|Standard|1571
+2181|Porthole|Sage|Dome|Compact Keyboard|None|None|None|Downpour|Light|325
+2182|Split Shell|Pewter|Mycelia|Datasette|Beacon|Solar Wings|None|Lattice|Heavy|477
+2183|Widescreen|Frost|Dome|Joystick|Propeller|Sword and Shield|None|Searchlight|Heavy|481
+2184|Tape Deck|Abyss|Beans|Numpad|Dish|Plug Cable|None|Mosaic|Heavy|392
+2185|Brackets|Moss|Blocks|Keyboard|Beacon|Solar Wings|None|Daybreak|Heavy|995
+2186|Side Car|Slate|Visor|Trackball|None|Sword and Shield|None|Searchlight|Standard|1807
+2187|Framed|Frost|Keyhole|Gamepad|None|Wrench Arm|None|Daybreak|Standard|1888
+2188|Hood|Spore|Flatline|Joystick|None|None|None|Mosaic|Light|178
+2189|Split Shell|Slate|Glitch|Keyboard|Periscope|Solar Wings|Banner|Mosaic|Fully Loaded|49
+2190|Brackets|Sage|Reticle|Floppy Drive|None|None|Battery Pack|Slipstream|Standard|1312
+2191|Brackets|Moss|Dots|Joystick|Rabbit Ears|None|None|Daybreak|Standard|1111
+2192|Porthole|Crimson|Lens|Gamepad|Beacon|Solar Wings|None|Downpour|Heavy|456
+2193|Tower|Ash|Reticle|Datasette|None|None|None|Searchlight|Light|142
+2194|Handheld|Sage|Visor|Split Keyboard|None|Sword and Shield|None|Nightfall|Standard|1832
+2195|Tape Deck|Rust|Pulse|Numpad|None|Plug Cable|None|Downpour|Standard|2130
+2196|Classic|Deep Teal|Dashes|Numpad|Ice Crystals|None|None|Daybreak|Standard|1610
+2197|Side Car|Deep Teal|Beans|Floppy Drive|Heat Sink|None|None|Nightfall|Standard|1716
+2198|Tape Deck|Spore|Dashes|Codex Slate|Heat Sink|None|None|Mosaic|Standard|2040
+2199|Console|Spore|Reticle|Joystick|Propeller|None|None|Slipstream|Standard|1942
+2200|Tower|Deep Teal|Happy|Dial Deck|Mushrooms|Speakers|None|Downpour|Heavy|719
+2201|Side Lights|Pewter|Happy|Trackball|Heat Sink|Speakers|None|Crossroads|Heavy|951
+2202|Codex Header|Lichen|Tangle|Joystick|None|None|None|Mosaic|Light|304
+2203|Radio|Ash|Scowl|Datasette|Ice Crystals|None|None|Searchlight|Standard|1743
+2204|Split Shell|Rust|Frown|Split Keyboard|Sonic Emitter|Robot Arms|None|Daybreak|Heavy|870
+2205|Tape Deck|Ash|Slant|Compact Keyboard|None|None|None|Slipstream|Light|328
+2206|Twin Tier|Bone|Orb|Dial Deck|None|None|None|Downpour|Light|92
+2207|Split Shell|Camo|Shutter|Mouse|Periscope|Wrench Arm|Banner|Nightfall|Fully Loaded|68
+2208|Brackets|Crimson|Shutter|Trackball|None|None|Exhaust Pipes|Searchlight|Standard|1628
+2209|Side Lights|Crimson|Curious|Compact Keyboard|Propeller|None|None|Crossroads|Standard|1153
+2210|Hood|Pewter|Lidded|Codex Slate|Mushrooms|Solar Wings|None|Slipstream|Heavy|831
+2211|Framed|Tide|Peek|Numpad|None|None|Sword|Daybreak|Standard|1596
+2212|Twin Tier|Dune|Slit|Mouse|Periscope|Plug Cable|Banner|Daybreak|Fully Loaded|77
+2213|Framed|Moss|Steady|Dial Deck|None|None|None|Mosaic|Light|218
+2214|Widescreen|Deep Teal|Keyhole|Fader Deck|Heat Sink|Thruster Pods|None|Daybreak|Heavy|656
+2215|Twin Tier|Ash|Keyhole|Split Keyboard|Propeller|None|None|Daybreak|Standard|1262
+2216|Codex Header|Mauve|Frown|Numpad|None|Plug Cable|None|Daybreak|Standard|1450
+2217|Porthole|Crimson|Slant|Joystick|None|None|None|Searchlight|Light|255
+2218|Radio|Crimson|Visor|Split Keyboard|None|None|None|Mosaic|Light|379
+2219|Tower|Spore|Steady|Split Keyboard|None|Plug Cable|None|Daybreak|Standard|2120
+2220|Hood|Rust|Wide|Compact Keyboard|Dish|None|None|Mosaic|Standard|1564
+2221|Codex Header|Deep Teal|Mycelia|Keyboard|None|Sword and Shield|None|Slipstream|Standard|2196

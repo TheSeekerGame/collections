@@ -1,0 +1,20 @@
+{
+  "trait": "Porthole",
+  "slot": "Base",
+  "cell": 86,
+  "pad": 16,
+  "cols": 1,
+  "frames": 1,
+  "source": "export/bases7.png",
+  "ride": {
+    "split": 34
+  },
+  "variants": [
+    {
+      "name": "still",
+      "loop": {
+        "seq": [0]
+      }
+    }
+  ]
+}
