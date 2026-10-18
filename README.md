@@ -1,6 +1,6 @@
 # collections
 
-The two collections of [The Seeker](https://github.com/TheSeekerGame/TheSeeker), packaged so that any game can use
+The two collections of [The Seeker](https://github.com/TheSeekerGame/the-seeker), packaged so that any game can use
 them: every art layer, the exact rules that put a picture together, and how to read each one's live state from
 public APIs.
 
@@ -9,7 +9,7 @@ public APIs.
 | [`guardians/`](guardians/) | Planetary Guardians: 333 inscriptions | Bitcoin (ordinals) | a Guardian's look, which its holder sets through its padding |
 | [`SEEKER_NET/`](SEEKER_NET/) | SEEKER NET: 2,222 tokens | Robinhood Chain | each seeker's charge, status (Dormant or Activated), Discharge and Uplink |
 
-Both appear in The Seeker's lore; [the open brand](https://github.com/TheSeekerGame/TheSeeker/blob/main/docs/design/open-brand.md)
+Both appear in The Seeker's lore; [the open brand](https://github.com/TheSeekerGame/the-seeker/blob/main/docs/design/open-brand.md)
 describes their role in the game.
 
 ## One source of truth, no server
